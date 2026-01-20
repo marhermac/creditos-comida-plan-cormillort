@@ -1,56 +1,90 @@
 const input = document.getElementById("searchInput");
-const table = document.getElementById("dataTable");
+const tableBody = document.querySelector("#dataTable tbody");
 const suggestions = document.getElementById("suggestions");
 
 const modal = document.getElementById("modal");
 const modalText = document.getElementById("modalText");
 const close = document.getElementById("close");
 
-const words = [];
+let alimentos = [];
 
-// Cargar palabras desde la tabla
-for (let row of table.tBodies[0].rows) {
-  words.push(row.cells[0].textContent);
+// 🔹 Cargar CSV
+fetch("creditos_alimentos.cvs")
+  .then(res => res.text())
+  .then(texto => cargarDatos(texto))
+  .catch(err => console.error("Error al cargar el archivo:", err));
+
+// 🔹 Procesar CSV
+function cargarDatos(csv) {
+  const filas = csv.split("\n").slice(1); // salta encabezado
+
+  filas.forEach(fila => {
+    const col = fila.split(",");
+
+    if (col.length >= 4) {
+      const alimento = col[0].trim();
+      const porcion = col[1].trim();
+      const creditoPorcion = col[2].trim();
+      const credito100 = col[3].trim();
+
+      alimentos.push(alimento);
+
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td>${alimento}</td>
+        <td>${porcion}</td>
+        <td>${creditoPorcion}</td>
+        <td>${credito100}</td>
+      `;
+      tableBody.appendChild(tr);
+    }
+  });
 }
 
-// Autocompletar
+// 🔹 Autocompletado
 input.addEventListener("input", () => {
   suggestions.innerHTML = "";
-  const value = input.value.toLowerCase();
+  const valor = input.value.toLowerCase();
 
-  words
-    .filter(word => word.toLowerCase().startsWith(value))
-    .forEach(word => {
+  alimentos
+    .filter(a => a.toLowerCase().startsWith(valor))
+    .forEach(a => {
       const option = document.createElement("option");
-      option.value = word;
+      option.value = a;
       suggestions.appendChild(option);
     });
 });
 
-// Buscar y resaltar
+// 🔹 Buscar, resaltar y mostrar popup
 input.addEventListener("change", () => {
-  let found = false;
+  let encontrado = false;
 
-  for (let row of table.tBodies[0].rows) {
+  [...tableBody.rows].forEach(row => {
     row.classList.remove("highlight");
 
     if (row.cells[0].textContent.toLowerCase() === input.value.toLowerCase()) {
       row.classList.add("highlight");
-      found = true;
+      encontrado = true;
 
-      modalText.textContent = `Resultado encontrado: ${row.cells[0].textContent}`;
+      modalText.innerHTML = `
+        <strong>${row.cells[0].textContent}</strong><br><br>
+        Porción: ${row.cells[1].textContent}<br>
+        Crédito por porción: ${row.cells[2].textContent}<br>
+        Crédito por 100g: ${row.cells[3].textContent}
+      `;
       modal.style.display = "block";
     }
-  }
+  });
 
-  if (!found) {
-    modalText.textContent = "No se encontró el resultado";
+  if (!encontrado) {
+    modalText.textContent = "No se encontró el alimento buscado";
     modal.style.display = "block";
   }
 });
 
-// Cerrar modal
+// 🔹 Cerrar modal
 close.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
 };
+
