@@ -1,17 +1,17 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Buscador en Tabla</title>
+  <title>Buscador de Créditos de Alimentos</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h2>Buscador de palabras</h2>
+<h2>Buscador de créditos de alimentos</h2>
 
-<input 
-  type="text" 
-  id="searchInput" 
+<input
+  type="text"
+  id="searchInput"
   placeholder="Escribí una letra..."
   list="suggestions"
 />
@@ -21,27 +21,18 @@
 <table id="dataTable">
   <thead>
     <tr>
-      <th>Palabra</th>
-      <th>Descripción</th>
+      <th>Alimento</th>
+      <th>Porción</th>
+      <th>Crédito por porción</th>
+      <th>Crédito por 100g</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Manzana</td>
-      <td>Fruta roja</td>
-    </tr>
-    <tr>
-      <td>Banana</td>
-      <td>Fruta amarilla</td>
-    </tr>
-    <tr>
-      <td>Naranja</td>
-      <td>Fruta cítrica</td>
-    </tr>
+    <!-- Se carga desde el CSV -->
   </tbody>
 </table>
 
-<!-- Modal -->
+<!-- MODAL -->
 <div id="modal" class="modal">
   <div class="modal-content">
     <span id="close">&times;</span>
