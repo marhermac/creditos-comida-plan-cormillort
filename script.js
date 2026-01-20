@@ -57,17 +57,25 @@ input.addEventListener("input", () => {
 });
 
 // 🔹 Buscar, resaltar y mostrar popup
-input.addEventListener("change", () => {
+input.addEventListener("input", () => {
   let encontrado = false;
 
   [...tableBody.rows].forEach(row => {
     row.classList.remove("highlight");
- if (
-  row.cells[0]
-    .textContent
-    .toLowerCase()
-    .includes(input.value.toLowerCase())
-) {
+
+    if (
+      row.cells[0]
+        .textContent
+        .toLowerCase()
+        .includes(input.value.toLowerCase()) &&
+      input.value !== ""
+    ) {
+      row.classList.add("highlight");
+      encontrado = true;
+    }
+  });
+});
+
 
    
 
@@ -92,6 +100,7 @@ close.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
 };
+
 
 
 
