@@ -30,12 +30,13 @@ function cargarDatos(csv) {
       alimentos.push(alimento);
 
       const tr = document.createElement("tr");
-      tr.innerHTML = `
-        <td>${alimento}</td>
-        <td>${porcion}</td>
-        <td>${creditoPorcion}</td>
-        <td>${credito100}</td>
-      `;
+     tr.innerHTML = `
+       <td data-label="Alimento">${alimento}</td>
+       <td data-label="Porción">${porcion}</td>
+       <td data-label="Crédito por porción">${creditoPorcion}</td>
+       <td data-label="Crédito por 100g">${credito100}</td>
+`;
+
       tableBody.appendChild(tr);
     }
   });
@@ -87,5 +88,6 @@ close.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
 };
+
 
 
