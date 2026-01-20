@@ -1,51 +1,44 @@
-const input = document.getElementById("searchInput");
-const clearBtn = document.getElementById("clearBtn");
-const tableBody = document.querySelector("#dataTable tbody");
+let datos = [];
 
-// Cargar CSV
 fetch("creditos_alimentos3.csv")
-  .then(res => res.text())
-  .then(texto => cargarTabla(texto));
+  .then(response => response.text())
+  .then(texto => {
+    const lineas = texto.trim().split("\n");
+    lineas.shift(); // elimina encabezado
 
-function cargarTabla(csv) {
-  const filas = csv.split("\n").slice(1);
-
-  filas.forEach(fila => {
-    const col = fila.split(",");
-
-    if (col.length >= 4) {
-      const tr = document.createElement("tr");
-      tr.innerHTML = `
-        <td>${col[0]}</td>
-        <td>${col[1]}</td>
-        <td>${col[2]}</td>
-        <td>${col[3]}</td>
-      `;
-      tableBody.appendChild(tr);
-    }
+    datos = lineas.map(linea => {
+      const columnas = linea.split(",");
+      return {
+        alimento: columnas[0],
+        porcion: columnas[1],
+        creditoPorcion: columnas[2],
+        credito100g: columnas[3]
+      };
+    });
   });
-}
 
-// BÚSQUEDA PARCIAL
+const input = document.getElementById("buscador");
+const tbody = document.querySelector("tbody");
+
 input.addEventListener("input", () => {
-  const valor = input.value.toLowerCase();
+  const texto = input.value.toLowerCase();
+  tbody.innerHTML = "";
 
-  [...tableBody.rows].forEach(row => {
-    const texto = row.cells[0].textContent.toLowerCase();
-
-    row.classList.remove("highlight");
-
-    if (texto.includes(valor) && valor !== "") {
-      row.classList.add("highlight");
-    }
-  });
+  datos
+    .filter(d => d.alimento.toLowerCase().includes(texto))
+    .forEach(d => {
+      const fila = document.createElement("tr");
+      fila.innerHTML = `
+        <td>${d.alimento}</td>
+        <td>${d.porcion}</td>
+        <td>${d.creditoPorcion}</td>
+        <td>${d.credito100g}</td>
+      `;
+      tbody.appendChild(fila);
+    });
 });
 
-// BOTÓN LIMPIAR
-clearBtn.addEventListener("click", () => {
+function limpiarBusqueda() {
   input.value = "";
-
-  [...tableBody.rows].forEach(row => {
-    row.classList.remove("highlight");
-  });
-});
+  tbody.innerHTML = "";
+}
