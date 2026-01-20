@@ -62,10 +62,14 @@ input.addEventListener("change", () => {
 
   [...tableBody.rows].forEach(row => {
     row.classList.remove("highlight");
+ if (
+  row.cells[0]
+    .textContent
+    .toLowerCase()
+    .includes(input.value.toLowerCase())
+) {
 
-    if (row.cells[0].textContent.toLowerCase() === input.value.toLowerCase()) {
-      row.classList.add("highlight");
-      encontrado = true;
+   
 
       modalText.innerHTML = `
         <strong>${row.cells[0].textContent}</strong><br><br>
@@ -88,6 +92,7 @@ close.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
 };
+
 
 
 
