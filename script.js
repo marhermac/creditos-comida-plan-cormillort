@@ -64,7 +64,7 @@ input.addEventListener("input", () => {
 clearBtn.addEventListener("click", () => {
   input.value = "";
   tbody.innerHTML = "";
-  popup.style.display = "none";
+  popup.style.display = "none"; // 👈 cierra el popup
 });
 
 // Popup
