@@ -52,3 +52,25 @@ th, td {
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
   z-index: 1000;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 10px;
+  font-size: 15px;
+}
+
+@media (max-width: 600px) {
+  td, th {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  input, button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
+
