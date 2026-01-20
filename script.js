@@ -5,6 +5,7 @@ const suggestions = document.getElementById("suggestions");
 const modal = document.getElementById("modal");
 const modalText = document.getElementById("modalText");
 const close = document.getElementById("close");
+const clearBtn = document.getElementById("clearBtn");
 
 let alimentos = [];
 
@@ -100,6 +101,15 @@ close.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
 };
+
+clearBtn.addEventListener("click", () => {
+  input.value = "";
+  suggestions.innerHTML = "";
+
+  [...tableBody.rows].forEach(row => {
+    row.classList.remove("highlight");
+  });
+});
 
 
 
