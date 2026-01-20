@@ -45,50 +45,45 @@ function cargarDatos(csv) {
 
 // 🔹 Autocompletado
 input.addEventListener("input", () => {
-  suggestions.innerHTML = "";
   const valor = input.value.toLowerCase();
+  suggestions.innerHTML = "";
 
-  alimentos
-    .filter(a => a.toLowerCase().startsWith(valor))
-    .forEach(a => {
-      const option = document.createElement("option");
-      option.value = a;
-      suggestions.appendChild(option);
-    });
-});
-
-// 🔹 Buscar, resaltar y mostrar popup
-input.addEventListener("input", () => {
-  let encontrado = false;
+  let encontrados = 0;
 
   [...tableBody.rows].forEach(row => {
+    const texto = row.cells[0].textContent.toLowerCase();
     row.classList.remove("highlight");
 
-    if (
-      row.cells[0]
-        .textContent
-        .toLowerCase()
-        .includes(input.value.toLowerCase()) &&
-      input.value !== ""
-    ) {
+    // AUTOCOMPLETE
+    if (texto.startsWith(valor) && valor !== "") {
+      const option = document.createElement("option");
+      option.value = row.cells[0].textContent;
+      suggestions.appendChild(option);
+    }
+
+    // BÚSQUEDA PARCIAL
+    if (texto.includes(valor) && valor !== "") {
       row.classList.add("highlight");
-      encontrado = true;
+      encontrados++;
     }
   });
+
+  // POPUP solo si hay 1 resultado exacto
+  if (encontrados === 1 && valor !== "") {
+    const fila = [...tableBody.rows].find(row =>
+      row.cells[0].textContent.toLowerCase().includes(valor)
+    );
+
+    modalText.innerHTML = `
+      <strong>${fila.cells[0].textContent}</strong><br><br>
+      Porción: ${fila.cells[1].textContent}<br>
+      Crédito por porción: ${fila.cells[2].textContent}<br>
+      Crédito por 100g: ${fila.cells[3].textContent}
+    `;
+    modal.style.display = "block";
+  }
 });
-
-
-   
-
-      modalText.innerHTML = `
-        <strong>${row.cells[0].textContent}</strong><br><br>
-        Porción: ${row.cells[1].textContent}<br>
-        Crédito por porción: ${row.cells[2].textContent}<br>
-        Crédito por 100g: ${row.cells[3].textContent}
-      `;
-      modal.style.display = "block";
-    }
-  });
+ 
 
   if (!encontrado) {
     modalText.textContent = "No se encontró el alimento buscado";
@@ -110,6 +105,7 @@ clearBtn.addEventListener("click", () => {
     row.classList.remove("highlight");
   });
 });
+
 
 
 
