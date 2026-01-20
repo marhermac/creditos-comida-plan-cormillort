@@ -5,12 +5,11 @@ const suggestions = document.getElementById("suggestions");
 const modal = document.getElementById("modal");
 const modalText = document.getElementById("modalText");
 const close = document.getElementById("close");
-const clearBtn = document.getElementById("clearBtn");
 
 let alimentos = [];
 
 // 🔹 Cargar CSV
-fetch("creditos_alimentos.csv")
+fetch("creditos_alimentos.cvs")
   .then(res => res.text())
   .then(texto => cargarDatos(texto))
   .catch(err => console.error("Error al cargar el archivo:", err));
@@ -31,13 +30,12 @@ function cargarDatos(csv) {
       alimentos.push(alimento);
 
       const tr = document.createElement("tr");
-     tr.innerHTML = `
-       <td data-label="Alimento">${alimento}</td>
-       <td data-label="Porción">${porcion}</td>
-       <td data-label="Crédito por porción">${creditoPorcion}</td>
-       <td data-label="Crédito por 100g">${credito100}</td>
-`;
-
+      tr.innerHTML = `
+        <td>${alimento}</td>
+        <td>${porcion}</td>
+        <td>${creditoPorcion}</td>
+        <td>${credito100}</td>
+      `;
       tableBody.appendChild(tr);
     }
   });
@@ -45,45 +43,38 @@ function cargarDatos(csv) {
 
 // 🔹 Autocompletado
 input.addEventListener("input", () => {
-  const valor = input.value.toLowerCase();
   suggestions.innerHTML = "";
+  const valor = input.value.toLowerCase();
 
-  let encontrados = 0;
+  alimentos
+    .filter(a => a.toLowerCase().startsWith(valor))
+    .forEach(a => {
+      const option = document.createElement("option");
+      option.value = a;
+      suggestions.appendChild(option);
+    });
+});
+
+// 🔹 Buscar, resaltar y mostrar popup
+input.addEventListener("change", () => {
+  let encontrado = false;
 
   [...tableBody.rows].forEach(row => {
-    const texto = row.cells[0].textContent.toLowerCase();
     row.classList.remove("highlight");
 
-    // AUTOCOMPLETE
-    if (texto.startsWith(valor) && valor !== "") {
-      const option = document.createElement("option");
-      option.value = row.cells[0].textContent;
-      suggestions.appendChild(option);
-    }
-
-    // BÚSQUEDA PARCIAL
-    if (texto.includes(valor) && valor !== "") {
+    if (row.cells[0].textContent.toLowerCase() === input.value.toLowerCase()) {
       row.classList.add("highlight");
-      encontrados++;
+      encontrado = true;
+
+      modalText.innerHTML = `
+        <strong>${row.cells[0].textContent}</strong><br><br>
+        Porción: ${row.cells[1].textContent}<br>
+        Crédito por porción: ${row.cells[2].textContent}<br>
+        Crédito por 100g: ${row.cells[3].textContent}
+      `;
+      modal.style.display = "block";
     }
   });
-
-  // POPUP solo si hay 1 resultado exacto
-  if (encontrados === 1 && valor !== "") {
-    const fila = [...tableBody.rows].find(row =>
-      row.cells[0].textContent.toLowerCase().includes(valor)
-    );
-
-    modalText.innerHTML = `
-      <strong>${fila.cells[0].textContent}</strong><br><br>
-      Porción: ${fila.cells[1].textContent}<br>
-      Crédito por porción: ${fila.cells[2].textContent}<br>
-      Crédito por 100g: ${fila.cells[3].textContent}
-    `;
-    modal.style.display = "block";
-  }
-});
- 
 
   if (!encontrado) {
     modalText.textContent = "No se encontró el alimento buscado";
@@ -96,18 +87,3 @@ close.onclick = () => modal.style.display = "none";
 window.onclick = e => {
   if (e.target === modal) modal.style.display = "none";
 };
-
-clearBtn.addEventListener("click", () => {
-  input.value = "";
-  suggestions.innerHTML = "";
-
-  [...tableBody.rows].forEach(row => {
-    row.classList.remove("highlight");
-  });
-});
-
-
-
-
-
-
