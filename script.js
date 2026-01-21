@@ -7,23 +7,34 @@ document.addEventListener("DOMContentLoaded", () => {
   const tbody = document.querySelector("#dataTable tbody");
 
   // Cargar CSV
-  fetch("./alimentos.json")
-    .then(res => res.text())
-    .then(texto => {
-      const lineas = texto.trim().split("\n");
-      lineas.shift();
+  fetch("alimentos.json")
+  .then(res => res.json())
+  .then(data => {
+    const input = document.getElementById("buscador");
+    const resultados = document.getElementById("resultados");
 
-      datos = lineas.map(linea => {
-        const c = linea.split(",");
-        return {
-          alimento: c[0],
-          porcion: c[1],
-          creditoPorcion: c[2],
-          credito100g: c[3],
-          color: c[4].toLowerCase() // rojo / verde / amarillo
-        };
-      });
+    input.addEventListener("input", () => {
+      const q = input.value.toLowerCase();
+      resultados.innerHTML = "";
+
+      if (q.length < 2) return;
+
+      data
+        .filter(a => a.nombre.toLowerCase().includes(q))
+        .slice(0, 20)
+        .forEach(a => {
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="creditos/${a.nombre
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, "-")
+            .replace(/(^-|-$)/g, "")}.html">
+            ${a.nombre} – ${a.creditos} créditos
+          </a>`;
+          resultados.appendChild(li);
+        });
     });
+  });
+
 
   // Buscar
   input.addEventListener("input", () => {
