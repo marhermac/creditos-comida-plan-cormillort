@@ -1,37 +1,52 @@
-document.addEventListener("DOMContentLoaded", () => {
-  fetch("alimentos.json")
-    .then(res => res.json())
-    .then(data => {
-      const input = document.getElementById("buscador");
-      const resultados = document.getElementById("resultados");
+let alimentos = [];
 
-      input.addEventListener("input", () => {
-        const q = input.value.toLowerCase().trim();
-        resultados.innerHTML = "";
+const input = document.getElementById("buscador");
+const resultados = document.getElementById("resultados");
+const estado = document.getElementById("estado");
 
-        if (q.length < 2) return;
+// Cargar datos
+fetch("alimentos.json")
+  .then(res => res.json())
+  .then(data => {
+    alimentos = data;
+    estado.textContent = "Escribí al menos 2 letras para buscar.";
+  })
+  .catch(() => {
+    estado.textContent = "Error cargando los datos.";
+  });
 
-        data
-          .filter(a => a.nombre.toLowerCase().includes(q))
-          .slice(0, 20)
-          .forEach(a => {
-            const slug = a.nombre
-              .toLowerCase()
-              .replace(/[^a-z0-9]+/g, "-")
-              .replace(/(^-|-$)/g, "");
+// Buscar mientras escribe
+input.addEventListener("input", () => {
+  const texto = input.value.toLowerCase().trim();
+  resultados.innerHTML = "";
 
-            const li = document.createElement("li");
-            li.innerHTML = `
-              <a href="creditos/${slug}.html">
-                ${a.nombre} – ${a.creditos} créditos
-              </a>
-            `;
-            resultados.appendChild(li);
-          });
-      });
-    })
-    .catch(err => {
-      console.error("Error cargando alimentos.json", err);
-    });
+  if (texto.length < 2) {
+    estado.textContent = "Escribí al menos 2 letras para buscar.";
+    return;
+  }
+
+  const encontrados = alimentos.filter(a =>
+    a.nombre.toLowerCase().includes(texto)
+  );
+
+  if (encontrados.length === 0) {
+    estado.textContent = "No se encontraron alimentos.";
+    return;
+  }
+
+  estado.textContent = `Resultados encontrados: ${encontrados.length}`;
+
+  encontrados.forEach(a => {
+    const li = document.createElement("li");
+
+    li.innerHTML = `
+      <a href="creditos/${a.id}.html">
+        <strong>${a.nombre}</strong><br>
+        <span>${a.porcion || ""}</span>
+      </a>
+    `;
+
+    resultados.appendChild(li);
+  });
 });
 
