@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marhermac.github.io/creditos-comida-plan-cormillort/sitemap.xml

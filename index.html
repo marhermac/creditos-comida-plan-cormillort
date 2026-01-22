@@ -2,40 +2,27 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Buscador de Créditos</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
+  <title>Créditos de alimentos</title>
+  <meta name="description" content="Consultá cuántos créditos tiene cada alimento según el sistema de créditos alimentarios.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
-<h2>Buscador de créditos de alimentos</h2>
+<h1>Buscador de créditos de alimentos</h1>
 
-<p class="descripcion">
-  Escribí el nombre del alimento para ver sus créditos.
-</p>
+<p>Escribí el nombre de un alimento para conocer sus créditos.</p>
 
-<input
-  type="text"
-  id="searchInput"
-  placeholder="Buscar alimento..."
->
+<input type="text" id="buscador" placeholder="Ej: pizza, arroz, yogur">
 
-<button id="clearBtn">Limpiar</button>
+<ul id="resultados"></ul>
 
-<table id="dataTable">
-  <thead>
-    <tr>
-      <th>Alimento</th>
-      <th>Porción</th>
-      <th>Crédito por porción</th>
-      <th>Crédito por 100g</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Se carga desde CSV -->
-  </tbody>
-</table>
+<script src="script.js"></script>
+  <footer style="margin-top:40px; text-align:center; font-size:14px;">
+  <a href="acerca-de.html">Acerca de</a> |
+  <a href="contacto.html">Contacto</a> |
+  <a href="privacidad.html">Política de Privacidad</a>
+</footer>
 
-<script src="script.js" defer></script>
 </body>
 </html>
