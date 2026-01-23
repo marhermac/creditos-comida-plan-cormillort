@@ -18,12 +18,48 @@
       Escribí el nombre y obtené el dato al instante.
     </p>
 
-    <input
-      type="text"
-      id="buscador"
-      placeholder="Ej: arroz, leche, yogur"
-      autocomplete="off"
-    >
+    <div class="layout">
+
+  <!-- COLUMNA IZQUIERDA -->
+  <div class="col-resumen">
+
+    <section class="resumen">
+      <h2>🍞 Carbohidratos e índice glucémico</h2>
+
+      <p>
+        No todos los carbohidratos impactan igual en el organismo.
+        El índice glucémico indica qué tan rápido un alimento eleva
+        el azúcar en sangre.
+      </p>
+
+      <ul>
+        <li><strong class="verde">Verde:</strong> bajo impacto.</li>
+        <li><strong class="amarillo">Amarillo:</strong> impacto moderado.</li>
+        <li><strong class="rojo">Rojo:</strong> alto impacto.</li>
+      </ul>
+    </section>
+
+    <section class="grafico">
+      <h3>Impacto glucémico</h3>
+      <div class="barra verde">Bajo</div>
+      <div class="barra amarillo">Moderado</div>
+      <div class="barra rojo">Alto</div>
+    </section>
+
+  </div>
+
+  <!-- COLUMNA DERECHA -->
+  <div class="col-lista">
+
+    <!-- 👇 ESTO YA LO TENÍAS, NO LO TOQUES -->
+    <input id="buscador" type="text" placeholder="Buscar alimento...">
+
+    <ul id="resultados"></ul>
+
+  </div>
+
+</div>
+
 
     <p id="estado" class="estado"></p>
 

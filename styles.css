@@ -78,3 +78,30 @@ body.calidad-rojo {
 body.calidad-sin-dato {
   background-color: #f4f6f7;
 }
+.layout {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+/* columna izquierda */
+.col-resumen {
+  width: 35%;
+}
+
+/* columna derecha */
+.col-lista {
+  width: 65%;
+}
+
+/* responsive */
+@media (max-width: 900px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .col-resumen,
+  .col-lista {
+    width: 100%;
+  }
+}
