@@ -14,7 +14,7 @@ template = """<!DOCTYPE html>
   <title>Créditos de {nombre} | Dieta por créditos</title>
   <meta name="description" content="Cuántos créditos tiene {nombre}. Porción: {porcion}. Sistema de créditos tipo Cormillot.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="calidad-{calidad_clase}">
