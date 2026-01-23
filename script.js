@@ -34,31 +34,32 @@ input.addEventListener("input", () => {
 
   estado.textContent = `Resultados encontrados: ${encontrados.length}`;
 
-  
-encontrados.forEach(a => {
- 
+  encontrados.forEach(a => {
+    const li = document.createElement("li");
 
-  resultados.appendChild(li);
+    const claseColor =
+      a.calidad && typeof a.calidad === "string"
+        ? a.calidad.trim().toLowerCase()
+        : "sin-dato";
+
+    const creditosTexto = a.creditos_por_porcion
+      ? `Créditos por porción: ${a.creditos_por_porcion}`
+      : "Créditos: sin dato";
+
+    li.innerHTML = `
+      <a href="creditos/${a.id}.html" class="item">
+        <div class="nombre">${a.nombre}</div>
+        <div class="porcion">${a.porcion || ""}</div>
+
+        <div class="linea-calidad">
+          <span class="dot ${claseColor}"></span>
+          <span class="texto-calidad">${a.calidad || "Sin dato"}</span>
+        </div>
+
+        <div class="creditos-texto">${creditosTexto}</div>
+      </a>
+    `;
+
+    resultados.appendChild(li);
+  });
 });
-const li = document.createElement("li");
-
-const claseColor =
-  a.calidad && typeof a.calidad === "string"
-    ? a.calidad.trim().toLowerCase()
-    : "sin-dato";
-
-li.innerHTML = `
-  <a href="creditos/${a.id}.html" class="item">
-    <div class="nombre">${a.nombre}</div>
-    <div class="porcion">${a.porcion || ""}</div>
-
-    <div class="linea-calidad">
-      <span class="dot ${claseColor}"></span>
-      <span class="texto-calidad">${a.calidad || "Sin dato"}</span>
-    </div>
-
-    <div class="creditos-texto">${creditosTexto}</div>
-  </a>
-`;
-
-resultados.appendChild(li);
