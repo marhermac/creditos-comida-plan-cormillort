@@ -16,8 +16,8 @@ template = """<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="../style.css">
 </head>
-<body>
 
+<body class="calidad-{calidad_clase}">
 <header>
   <h1>{nombre}</h1>
 </header>
@@ -36,7 +36,6 @@ template = """<!DOCTYPE html>
 <footer>
   <p>© 2026 Créditos Alimentarios</p>
 </footer>
-
 </body>
 </html>
 """
@@ -44,9 +43,18 @@ template = """<!DOCTYPE html>
 contador = 0
 
 for item in alimentos:
-    filename = f"creditos/{item['id']}.html"
-    html = template.format(**item)
+    calidad_clase = (
+        item["calidad"].strip().lower()
+        if item.get("calidad")
+        else "sin-dato"
+    )
 
+    html = template.format(
+        **item,
+        calidad_clase=calidad_clase
+    )
+
+    filename = f"creditos/{item['id']}.html"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(html)
 
