@@ -32,9 +32,7 @@ input.addEventListener("input", () => {
     return;
   }
 
-  estado.textContent = `Resultados encontrados: ${encontrados.length}`;
-
- estado.textContent = `Resultados encontrados: ${encontrados.length}`;
+estado.textContent = `Resultados encontrados: ${encontrados.length}`;
 
 encontrados.forEach(a => {
   const li = document.createElement("li");
@@ -51,32 +49,35 @@ encontrados.forEach(a => {
   li.className = `item ${claseColor}`;
 
   li.innerHTML = `
-    <h3>${a.Alimento}</h3>
+    <a href="alimento.html?nombre=${encodeURIComponent(a.Alimento)}" class="item-link">
 
-    <p><strong>Porción:</strong> ${a.PORCION ?? "Sin dato"}</p>
-    <p><strong>${creditosTexto}</strong></p>
-    <p><strong>Créditos cada 100 g:</strong> ${a.creditos_cada_100g ?? "Sin dato"}</p>
+      <h3>${a.Alimento}</h3>
 
-    <div class="leyenda">
-      <small>
-        📌 <strong>Información importante:</strong><br>
-        Los datos nutricionales provienen de bases públicas oficiales
-        (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
+      <p><strong>Porción:</strong> ${a.PORCION ?? "Sin dato"}</p>
+      <p><strong>${creditosTexto}</strong></p>
+      <p><strong>Créditos cada 100 g:</strong> ${a.creditos_cada_100g ?? "Sin dato"}</p>
 
-        Los créditos alimentarios se calcularon según el
-        <em>Sistema C del Dr. Alberto Cormillot</em>,
-        utilizando porciones estándar y valores promedio.<br><br>
+      <div class="leyenda">
+        <small>
+          📌 <strong>Información importante:</strong><br>
+          Los datos nutricionales provienen de bases públicas oficiales
+          (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
 
-        <strong>Valores orientativos.</strong>
-        No reemplazan el asesoramiento de un profesional de la salud.
-        Ante cualquier duda, consulte con su médico o nutricionista.
-      </small>
-    </div>
+          Los créditos alimentarios se calcularon según el
+          <em>Sistema C del Dr. Alberto Cormillot</em>,
+          utilizando porciones estándar y valores promedio.<br><br>
+
+          <strong>Valores orientativos.</strong>
+          No reemplazan el asesoramiento de un profesional de la salud.
+          Ante cualquier duda, consulte con su médico o nutricionista.
+        </small>
+      </div>
+
+    </a>
   `;
 
   resultados.appendChild(li);
 });
-
 document.addEventListener("DOMContentLoaded", () => {
   const leyenda = document.getElementById("leyenda-nutricional");
 
