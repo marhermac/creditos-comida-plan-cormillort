@@ -34,55 +34,49 @@ input.addEventListener("input", () => {
 
   estado.textContent = `Resultados encontrados: ${encontrados.length}`;
 
-  encontrados.forEach(a => {
-    const li = document.createElement("li");
+ estado.textContent = `Resultados encontrados: ${encontrados.length}`;
 
-    const claseColor =
-      a.calidad && typeof a.calidad === "string"
-        ? a.calidad.trim().toLowerCase()
-        : "sin-dato";
+encontrados.forEach(a => {
+  const li = document.createElement("li");
 
-    const creditosTexto = a.creditos_por_porcion
-      ? `Créditos por porción: ${a.creditos_por_porcion}`
-      : "Créditos: sin dato";
+  const claseColor =
+    a.calidad && typeof a.calidad === "string"
+      ? a.calidad.trim().toLowerCase()
+      : "sin-dato";
 
-   const li = document.createElement("li");
+  const creditosTexto = a.creditos_por_porcion
+    ? `Créditos por porción: ${a.creditos_por_porcion}`
+    : "Créditos: sin dato";
 
-li.innerHTML = `
-  <h3>${alimento.Alimento}</h3>
+  li.className = `item ${claseColor}`;
 
-  <p><strong>Porción:</strong> ${alimento.PORCION}</p>
-  <p><strong>Créditos por porción:</strong> ${alimento.creditos_por_porcion}</p>
-  <p><strong>Créditos cada 100 g:</strong> ${alimento.creditos_cada_100g}</p>
+  li.innerHTML = `
+    <h3>${a.Alimento}</h3>
 
-  <div class="leyenda">
-    <small>
-      📌 <strong>Información importante:</strong><br>
-      Los datos nutricionales provienen de bases públicas oficiales
-      (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
+    <p><strong>Porción:</strong> ${a.PORCION ?? "Sin dato"}</p>
+    <p><strong>${creditosTexto}</strong></p>
+    <p><strong>Créditos cada 100 g:</strong> ${a.creditos_cada_100g ?? "Sin dato"}</p>
 
-      Los créditos alimentarios se calcularon según el
-      <em>Sistema C del Dr. Alberto Cormillot</em>,
-      utilizando porciones estándar y valores promedio.<br><br>
+    <div class="leyenda">
+      <small>
+        📌 <strong>Información importante:</strong><br>
+        Los datos nutricionales provienen de bases públicas oficiales
+        (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
 
-      <strong>Valores orientativos.</strong>
-      No reemplazan el asesoramiento de un profesional de la salud.
-      Ante cualquier duda, consulte con su médico o nutricionista.
-    </small>
-  </div>
-`;
+        Los créditos alimentarios se calcularon según el
+        <em>Sistema C del Dr. Alberto Cormillot</em>,
+        utilizando porciones estándar y valores promedio.<br><br>
 
-resultados.appendChild(li);
+        <strong>Valores orientativos.</strong>
+        No reemplazan el asesoramiento de un profesional de la salud.
+        Ante cualquier duda, consulte con su médico o nutricionista.
+      </small>
+    </div>
+  `;
 
-
-
-        <div class="creditos-texto">${creditosTexto}</div>
-      </a>
-    `;
-
-    resultados.appendChild(li);
-  });
+  resultados.appendChild(li);
 });
+
 document.addEventListener("DOMContentLoaded", () => {
   const leyenda = document.getElementById("leyenda-nutricional");
 
