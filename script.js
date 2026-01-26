@@ -46,7 +46,9 @@ input.addEventListener("input", () => {
       ? `Créditos por porción: ${a.creditos_por_porcion}`
       : "Créditos: sin dato";
 
-   li.innerHTML = `
+   const li = document.createElement("li");
+
+li.innerHTML = `
   <h3>${alimento.Alimento}</h3>
 
   <p><strong>Porción:</strong> ${alimento.PORCION}</p>
@@ -60,15 +62,18 @@ input.addEventListener("input", () => {
       (ArgenFood y fuentes reconocidas) y fueron procesados con fines informativos.<br><br>
 
       Los créditos alimentarios se calcularon según el
-      <em>Sistema C del Dr. Alberto Cormillot</em>, utilizando porciones estándar
-      y valores promedio.<br><br>
+      <em>Sistema C del Dr. Alberto Cormillot</em>,
+      utilizando porciones estándar y valores promedio.<br><br>
 
-      <strong>Los valores son orientativos</strong> y no reemplazan
-      el asesoramiento de un profesional de la salud.
+      <strong>Valores orientativos.</strong>
+      No reemplazan el asesoramiento de un profesional de la salud.
       Ante cualquier duda, consulte con su médico o nutricionista.
     </small>
   </div>
 `;
+
+resultados.appendChild(li);
+
 
 
         <div class="creditos-texto">${creditosTexto}</div>
