@@ -1,0 +1,22 @@
+medida_casera;descripcion;gramos_aprox;mililitros_aprox;observaciones
+cucharadita_te;Cucharadita de té rasa;5;5;Promedio nutricional estándar
+cuchara_postre;Cuchara de postre rasa;10;10;Promedio nutricional estándar
+cuchara_sopera_rasa;Cuchara sopera rasa;20;15;En líquidos equivale a 15 ml
+cuchara_sopera_colmada;Cuchara sopera colmada;27;;Depende del alimento
+taza_te;Taza tipo té;200;200;Medida habitual desayuno
+taza_americana;Taza americana;240;240;Equivale a 1 cup
+vaso_comun;Vaso común;200;200;Uso general
+vaso_grande;Vaso grande;250;250;Uso frecuente bebidas
+rodaja_pan_lactal;Rodaja de pan lactal;25;;Promedio industria
+pan_frances_chico;Pan francés chico;50;;Aprox 1 unidad
+medio_pan_frances;Medio pan francés;25;;Mitad de unidad chica
+feta_queso;Feta de queso;22;;Promedio quesos semiduros
+huevo_unidad;Huevo entero sin cáscara;50;;Unidad estándar
+cda_aceite;Cucharada de aceite;10;;Aprox 90 kcal
+cda_azucar;Cucharada de azúcar;10;;Rasa
+taza_arroz_cocido;Taza de arroz cocido;165;;Promedio cocción estándar
+media_taza_arroz;Media taza de arroz cocido;82;;Mitad de taza
+taza_verduras_crudas;Taza de verduras crudas;65;;Lechuga, tomate, etc
+taza_verduras_cocidas;Taza de verduras cocidas;135;;Promedio
+porcion_carne_chica;Porción chica de carne;100;;Cruda
+porcion_carne_mediana;Porción mediana de carne;150;;Cruda

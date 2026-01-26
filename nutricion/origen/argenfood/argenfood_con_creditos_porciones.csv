@@ -1,0 +1,436 @@
+Alimento,PORCION,creditospor_porcion,creditoscada100_grs,Color_de_los_creditos
+Alimento,porcion_carne_chica,4.0,4.0,rojo
+Cerdo Chorizo,porcion_carne_chica,4.0,4.0,rojo
+Cerdo Costilla A La Parrilla,porcion_carne_chica,4.0,4.0,rojo
+Cerdo Costilla Flaca Cruda,porcion_carne_chica,4.0,4.0,rojo
+Cerdo Jamon,porcion_carne_chica,4.0,4.0,rojo
+Cerdo Jamon,porcion_carne_chica,4.0,4.0,rojo
+Cerdo Panceta,porcion_carne_chica,4.0,4.0,rojo
+Cordero Carne De La Paleta,porcion_carne_chica,2.0,2.0,amarillo
+Cordero Carne De La Paleta Flaca A La Parrilla,porcion_carne_chica,3.0,3.0,amarillo
+Pollo Asado A La Parrilla,porcion_carne_chica,3.0,3.0,amarillo
+Pollo Asado Al Horno,porcion_carne_chica,3.0,3.0,amarillo
+Pollo Carne-Pellejo-Menudos,porcion_carne_chica,2.0,2.0,amarillo
+Pollo Hervido,porcion_carne_chica,3.0,3.0,amarillo
+Rana Carne De La Pata Fresca Cruda,porcion_carne_chica,2.0,2.0,amarillo
+Hamburguesas Light Asada,porcion_carne_chica,3.0,3.0,amarillo
+Hamburguesas Regulares De Carne Vacuna Asadas,porcion_carne_chica,4.0,4.0,rojo
+Salchichas Light Tipo Viena,porcion_carne_chica,3.0,3.0,amarillo
+Salchichas Light Tipo Viena Hervidas,porcion_carne_chica,3.0,3.0,amarillo
+Salchichas Tipo Viena,porcion_carne_chica,4.0,4.0,rojo
+Salchichas Tipo Viena Hervidas,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Asado,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Bife A La Parrilla,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Bife Angosto C/C De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Bola De Lomo De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Brazuelo De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Caracu (Medula De Hueso Largo),porcion_carne_chica,4.0,4.0,rojo
+Vacuno Colita De Cuadril De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Corazon De Cuadril De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Cuadril Y Bife Angosto Flaco,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno En Conserva Enlatado,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Hamburguesas Cocidas,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Hamburguesas Crudas,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Hamburguesas Light Cocidas,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Hamburguesas Light Crudas,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Higado,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Jugo De Carne,porcion_carne_chica,1.0,1.0,verde
+Vacuno Lomo,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Nalga De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Nalga,porcion_carne_chica,2.0,2.0,amarillo
+Vacuno Paleta De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Paletin O Marucha De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Palomita De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Pasta De Higado,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Peceto De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Pecho De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Rinon,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Tapa De Cuadril De Novillito,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Ternera Costilla Flaca A La Parrilla,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Ternera Costilla Flaca,porcion_carne_chica,2.0,2.0,amarillo
+Vacuno Tortuguita De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Vacio A La Parrilla,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Vacio Al Horno,porcion_carne_chica,4.0,4.0,rojo
+Vacuno Vacio De Novillito,porcion_carne_chica,3.0,3.0,amarillo
+Vacuno Vacio Flaco,porcion_carne_chica,3.0,3.0,amarillo
+Bife,porcion_carne_chica,4.0,4.0,rojo
+Bife,porcion_carne_chica,3.0,3.0,amarillo
+Nalga Cocida,porcion_carne_chica,3.0,3.0,amarillo
+Nalga Cruda,porcion_carne_chica,2.0,2.0,amarillo
+Paleta Cocida,porcion_carne_chica,4.0,4.0,rojo
+Paleta Cruda,porcion_carne_chica,3.0,3.0,amarillo
+Vacio,porcion_carne_chica,4.0,4.0,rojo
+Vacio,porcion_carne_chica,3.0,3.0,amarillo
+Bife,porcion_carne_chica,4.0,4.0,rojo
+Bife,porcion_carne_chica,3.0,3.0,amarillo
+Nalga Cocida,porcion_carne_chica,3.0,3.0,amarillo
+Nalga Cruda,porcion_carne_chica,3.0,3.0,amarillo
+Paleta Cocida,porcion_carne_chica,3.0,3.0,amarillo
+Paleta Cruda,porcion_carne_chica,3.0,3.0,amarillo
+Vacio,porcion_carne_chica,4.0,4.0,rojo
+Vacio,porcion_carne_chica,3.0,3.0,amarillo
+"Jamon ""Villafranca Novissimo"".El Bierzo. Reducido En Colesterol",porcion_carne_chica,2.0,2.0,amarillo
+"Lomo Ahumado De Cerdo ""Villafranca Novissimo"". El Bierzo. Reducido En Sodio Y En Colesterol",porcion_carne_chica,2.0,2.0,amarillo
+"Mortadela"" Villafranca Novissimo"". El Bierzo - Reducida En Grasa Y En Sodio",porcion_carne_chica,3.0,3.0,amarillo
+"Pastron Ahumado ""Villafranca Novissimo"". El Bierzo. Reducido En Sodio Y En Colesterol",porcion_carne_chica,2.0,2.0,amarillo
+"Salame ""Villafranca Novissimo"".El Bierzo.Reducido En Sodio Y En Colesterol",porcion_carne_chica,3.0,3.0,amarillo
+Carne De Vizcacha,porcion_carne_chica,1.0,1.0,verde
+Alimento,otros,0.0,4.0,rojo
+Amaranto Semilla Cruda (Amarantus Caudatus),otros,0.0,4.0,rojo
+Amaranto Semilla Cruda (Amarantus Hipochondriacus),otros,0.0,4.0,rojo
+Amaranto Semilla Cruda (Amarantus Mantegazzianus),otros,0.0,4.0,rojo
+Amaranto Semillia Cruda (Amarantus Cruentus),otros,0.0,4.0,rojo
+Arroz Grano Blanco Pulido,otros,0.0,4.0,rojo
+Arroz Grano Blanco Pulido Hervido,otros,0.0,2.0,amarillo
+Avena Grano Arrollada Cruda,otros,0.0,4.0,rojo
+Avena Grano Arrollada Cruda,otros,0.0,4.0,rojo
+Avena Grano Arrollada Hervida,otros,0.0,2.0,amarillo
+Cebada Grano Mondado Perlado,otros,0.0,4.0,rojo
+Cebada Grano Mondado Perlado Hervido,otros,0.0,2.0,amarillo
+"Cebada Harina ""Genser"" Cruda",otros,0.0,4.0,rojo
+Centeno Harina Clara Cruda,otros,0.0,4.0,rojo
+Centeno Pan,otros,0.0,4.0,rojo
+Centeno Pan Con Harina Integral,otros,0.0,4.0,rojo
+Maiz Amarillo Leales Grano Entero,otros,0.0,4.0,rojo
+Maiz Amarillo Pisingallo Grano Entero,otros,0.0,4.0,rojo
+Maiz Amarillo Semola Grano Entero,otros,0.0,4.0,rojo
+Maiz Amarillo Tropico 327 Grano Entero,otros,0.0,4.0,rojo
+Maiz Blanco 8 Rayas Grano Entero,otros,0.0,4.0,rojo
+Maiz Blanco Perla Grano Entero,otros,0.0,4.0,rojo
+Maiz Choclo,otros,0.0,2.0,amarillo
+Maiz Grano Entero (Zea Mays Spp),otros,0.0,4.0,rojo
+Maiz Harina Amarilla (Polenta) Cruda,otros,0.0,4.0,rojo
+Maiz Harina Amarilla (Polenta) Cruda,otros,0.0,4.0,rojo
+Maiz Harina Amarilla (Polenta) Hervida,otros,0.0,2.0,amarillo
+Maiz Pan,otros,0.0,4.0,rojo
+"Trigo Bizcochos ""Bay Biscuit""",otros,0.0,4.0,rojo
+Trigo Bizcochos Vainillas,otros,0.0,4.0,rojo
+Trigo Galleta De Campo,otros,0.0,4.0,rojo
+Trigo Galleta Marinera,otros,0.0,4.0,rojo
+"Trigo Galletitas De Agua ""Express""",otros,0.0,4.0,rojo
+"Trigo Galletitas De Agua ""Traviata""",otros,0.0,4.0,rojo
+Trigo Galletitas De Harina Blanca,otros,0.0,4.0,rojo
+Trigo Galletitas De Harina Integral,otros,0.0,4.0,rojo
+"Trigo Galletitas Dulces ""Manon""",otros,0.0,4.0,rojo
+"Trigo Galletitas Dulces ""Minue""",otros,0.0,4.0,rojo
+"Trigo Galletitas Oblea ""Opera""",otros,0.0,4.0,rojo
+Trigo Grano Entero,otros,0.0,4.0,rojo
+Trigo Grisines,otros,0.0,4.0,rojo
+Trigo Harina Cuatro Ceros,otros,0.0,4.0,rojo
+Trigo Harina Integral,otros,0.0,4.0,rojo
+Trigo Harina Tres Cero,otros,0.0,4.0,rojo
+Trigo Pan Aleman,otros,0.0,4.0,rojo
+Trigo Pan Criollo,otros,0.0,4.0,rojo
+Trigo Pan De Salvado,otros,0.0,4.0,rojo
+Trigo Pan De Viena,otros,0.0,4.0,rojo
+Trigo Pan Frances,otros,0.0,4.0,rojo
+Trigo Pan Frances,otros,0.0,4.0,rojo
+Trigo Pan Negro Con Levadura Agria,otros,0.0,4.0,rojo
+Trigo Pan Negro Con Levadura Comprimida,otros,0.0,4.0,rojo
+Trigo Pan Negro Sin Levadura,otros,0.0,4.0,rojo
+Trigo Salvado,otros,0.0,3.0,amarillo
+Trigo Semola Cruda,otros,0.0,4.0,rojo
+Trigo Semola Hervida,otros,0.0,2.0,amarillo
+Trigo Tallarines S Hervidos,otros,0.0,2.0,amarillo
+Alimento,taza_verduras_crudas,2.6,4.0,rojo
+Aceituna De Monte,taza_verduras_crudas,1.3,2.0,amarillo
+Aceituna Verde Pulpa Encurtida,taza_verduras_crudas,1.95,3.0,amarillo
+Anana Enlatado Contenido Envase,taza_verduras_crudas,1.3,2.0,amarillo
+Anana Pulpa,taza_verduras_crudas,1.3,2.0,amarillo
+Banana Pulpa Fresca,taza_verduras_crudas,1.3,2.0,amarillo
+Cereza Pulpa Fresca,taza_verduras_crudas,1.3,2.0,amarillo
+Ciruela Pasa Cruda,taza_verduras_crudas,2.6,4.0,rojo
+Ciruela Pasa Hervida,taza_verduras_crudas,1.95,3.0,amarillo
+Ciruela Pulpa Fresca,taza_verduras_crudas,1.3,2.0,amarillo
+Coco Pulpa,taza_verduras_crudas,2.6,4.0,rojo
+Damasco Pulpa,taza_verduras_crudas,1.3,2.0,amarillo
+Doca,taza_verduras_crudas,0.65,1.0,verde
+Durazno Orejon Pulpa Y Piel Hervido,taza_verduras_crudas,0.65,1.0,verde
+Durazno Pulpa Envasado Al Natural,taza_verduras_crudas,1.3,2.0,amarillo
+Durazno Pulpa,taza_verduras_crudas,1.3,2.0,amarillo
+Frutilla Pulpa Fresca Cruda,taza_verduras_crudas,0.65,1.0,verde
+Granada Pulpa Fresca,taza_verduras_crudas,1.3,2.0,amarillo
+Guaranina Brumelia Obtusifolia,taza_verduras_crudas,1.95,3.0,amarillo
+Higo Pulpa Fresca,taza_verduras_crudas,1.3,2.0,amarillo
+Kaki Pulpa,taza_verduras_crudas,1.3,2.0,amarillo
+Kinoto Pulpa Y Cascara,taza_verduras_crudas,1.3,2.0,amarillo
+Limon Pulpa,taza_verduras_crudas,0.65,1.0,verde
+Manzana Hervida,taza_verduras_crudas,0.65,1.0,verde
+Manzana Pulpa Fresca Cruda,taza_verduras_crudas,1.3,2.0,amarillo
+Mburucuya Maduro,taza_verduras_crudas,1.3,2.0,amarillo
+Mburucuya Verde,taza_verduras_crudas,1.3,2.0,amarillo
+Melon Pulpa,taza_verduras_crudas,0.65,1.0,verde
+Membrillo Pulpa,taza_verduras_crudas,1.3,2.0,amarillo
+Mora Fresca,taza_verduras_crudas,1.3,2.0,amarillo
+Nandapiri,taza_verduras_crudas,1.3,2.0,amarillo
+Palta Pulpa Fresca,taza_verduras_crudas,2.6,4.0,rojo
+Pera Orejon,taza_verduras_crudas,2.6,4.0,rojo
+Pera Pulpa Fresca Cruda,taza_verduras_crudas,1.3,2.0,amarillo
+Pomelo Pulpa,taza_verduras_crudas,0.65,1.0,verde
+Sandia Pulpa Fresca Cruda,taza_verduras_crudas,0.65,1.0,verde
+Ubajay,taza_verduras_crudas,0.65,1.0,verde
+Alimento,otros,0.0,4.0,rojo
+Aceite Comestible Mezcla Lira 85% Girasol 15% Oliva,otros,0.0,4.0,rojo
+Aceite Comestible Mezcla Patito 94% Girasol 6% Maiz,otros,0.0,4.0,rojo
+Aceite De Canola,otros,0.0,4.0,rojo
+Aceite De Girasol Familiar,otros,0.0,4.0,rojo
+Aceite De Girasol Ideal,otros,0.0,4.0,rojo
+Aceite De Girasol Natura,otros,0.0,4.0,rojo
+Aceite De Maiz Arcor,otros,0.0,4.0,rojo
+Aceite De Maiz Cocinero,otros,0.0,4.0,rojo
+Aceite De Maiz Mazzola,otros,0.0,4.0,rojo
+Aceite De Oliva Cocinero,otros,0.0,4.0,rojo
+Aceite De Uva Cocinero,otros,0.0,4.0,rojo
+Grasa De Cerdo,otros,0.0,4.0,rojo
+Grasa Vacuna,otros,0.0,4.0,rojo
+Margarina 100% Vegetal Delicia,otros,0.0,4.0,rojo
+Margarina 100% Vegetal Manty (En Pote Y En Pan),otros,0.0,4.0,rojo
+Margarina Reducida En Calorias Manty Liviana,otros,0.0,4.0,rojo
+Alimento,otros,0.0,4.0,rojo
+Huevo De Codorniz Entero,otros,0.0,3.0,amarillo
+Huevo De Gallina Clara,otros,0.0,2.0,amarillo
+Huevo De Gallina Clara Cruda,otros,0.0,1.0,verde
+Huevo De Gallina Entero,otros,0.0,3.0,amarillo
+Huevo De Gallina Frito,otros,0.0,3.0,amarillo
+Huevo De Gallina Poche,otros,0.0,3.0,amarillo
+Huevo De Gallina Yema Cruda,otros,0.0,4.0,rojo
+Alimento,otros,0.0,4.0,rojo
+Leche Condensada Nestle,otros,0.0,4.0,rojo
+Leche De Burra Entera Fluida,otros,0.0,1.0,verde
+Leche De Cabra Entera Fluida,otros,0.0,2.0,amarillo
+Leche De Oveja Entera Fluida,otros,0.0,2.0,amarillo
+Leche De Vaca Entera Fluida Adicionada Con Vitamina A,otros,0.0,2.0,amarillo
+Leche De Vaca Entera Fluida Pasteurizada,otros,0.0,2.0,amarillo
+Leche De Vaca Parcialm. Descremada Adic. Con Vit A Y D,otros,0.0,1.0,verde
+Leche En Polvo Descremada,otros,0.0,4.0,rojo
+Leche En Polvo Entera,otros,0.0,4.0,rojo
+Leche Humana Entera En Polvo,otros,0.0,4.0,rojo
+Leche Humana Entera Fluida,otros,0.0,2.0,amarillo
+Manteca Fresca,otros,0.0,4.0,rojo
+Queso Crema Entero Untable,otros,0.0,4.0,rojo
+Queso Descremado Untable,otros,0.0,2.0,amarillo
+Queso Petit Suisse,otros,0.0,3.0,amarillo
+Queso Semidescremado Untable,otros,0.0,3.0,amarillo
+Queso Blanco Argentino Semimagro,otros,0.0,3.0,amarillo
+Queso Belpaese,otros,0.0,4.0,rojo
+Queso Camembert,otros,0.0,4.0,rojo
+Queso Cremoso,otros,0.0,4.0,rojo
+Queso Cuartirolo,otros,0.0,4.0,rojo
+Queso Doble Crema,otros,0.0,4.0,rojo
+Queso Limburgues,otros,0.0,4.0,rojo
+Queso Mozarella,otros,0.0,4.0,rojo
+Queso Por Salut,otros,0.0,4.0,rojo
+Queso Azul,otros,0.0,4.0,rojo
+Queso Cheddar,otros,0.0,4.0,rojo
+Queso Chubut,otros,0.0,4.0,rojo
+Queso Fontina,otros,0.0,4.0,rojo
+Queso Gorgonzola,otros,0.0,4.0,rojo
+Queso Gruyere,otros,0.0,4.0,rojo
+Queso Holanda,otros,0.0,4.0,rojo
+Queso Pategras,otros,0.0,4.0,rojo
+Queso Roquefort,otros,0.0,4.0,rojo
+Queso Suizo,otros,0.0,4.0,rojo
+Queso Tafi,otros,0.0,4.0,rojo
+Queso Tandil,otros,0.0,4.0,rojo
+Queso Tipo Mar Del Plata,otros,0.0,4.0,rojo
+Queso Goya,otros,0.0,4.0,rojo
+Queso Parmesano,otros,0.0,4.0,rojo
+Queso Provolone,otros,0.0,4.0,rojo
+Queso Reggianito,otros,0.0,4.0,rojo
+Queso Sardo,otros,0.0,4.0,rojo
+Queso Sbrinz,otros,0.0,4.0,rojo
+Ricota De Leche Entera,otros,0.0,3.0,amarillo
+Ricotta Semidescremada,otros,0.0,3.0,amarillo
+Yogur Descremado,otros,0.0,2.0,amarillo
+Yogur Descremado Bebible,otros,0.0,1.0,verde
+Yogur Descremado Fortificado Con Ca,otros,0.0,1.0,verde
+Yogur Entero Bebible,otros,0.0,2.0,amarillo
+Yogur Entero Natural,otros,0.0,2.0,amarillo
+Yogur Entero Saborizado,otros,0.0,2.0,amarillo
+Alimento,otros,0.0,4.0,rojo
+Mayonesa Reducida En Calorias,otros,0.0,4.0,rojo
+Mayonesa Ri-K,otros,0.0,4.0,rojo
+Mortadela,otros,0.0,4.0,rojo
+Polen De Totora,otros,0.0,4.0,rojo
+Alimento,porcion_carne_chica,4.0,4.0,rojo
+Abadejo Carne,porcion_carne_chica,2.0,2.0,amarillo
+Amarillo A La Parrilla Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Amarillo Al Horno Musculo Dorsal,porcion_carne_chica,4.0,4.0,rojo
+Amarillo Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Amarillo Frito Musculo Dorsal,porcion_carne_chica,4.0,4.0,rojo
+Amarillo Hervido Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Anchoa Fresca Cruda Carne,porcion_carne_chica,2.0,2.0,amarillo
+Anchoita Fresca Cruda Carne,porcion_carne_chica,3.0,3.0,amarillo
+Armado Al Horno Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Armado Musculo Dorsal,porcion_carne_chica,2.0,2.0,amarillo
+Armado Musculo Ventral,porcion_carne_chica,3.0,3.0,amarillo
+Armado Frito Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Armado Hervido Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Besugo Carne,porcion_carne_chica,2.0,2.0,amarillo
+Boga Fresca A La Parrilla Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Boga Fresca Al Horno Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Boga Fresca Cruda Musculo Ventral,porcion_carne_chica,3.0,3.0,amarillo
+Boga Fresca Frita Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Boga Fresca Hervida Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Bonito Carne,porcion_carne_chica,4.0,4.0,rojo
+Brotola Fresca Cruda Carne,porcion_carne_chica,2.0,2.0,amarillo
+Caballa Fresca Cruda Carne,porcion_carne_chica,4.0,4.0,rojo
+Castaneta Fresca Cruda Carne,porcion_carne_chica,2.0,2.0,amarillo
+Castaneta Fresca Cruda Entera,porcion_carne_chica,3.0,3.0,amarillo
+Congrio Carne,porcion_carne_chica,3.0,3.0,amarillo
+Cornalito Entero,porcion_carne_chica,2.0,2.0,amarillo
+Corvina Blanca Fresca Cruda Carne,porcion_carne_chica,2.0,2.0,amarillo
+Corvina Negra Fresca Cruda Carne,porcion_carne_chica,2.0,2.0,amarillo
+Dorado Carne,porcion_carne_chica,2.0,2.0,amarillo
+Gatuso Carne,porcion_carne_chica,2.0,2.0,amarillo
+Jurel Carne,porcion_carne_chica,3.0,3.0,amarillo
+Lenguado Carne,porcion_carne_chica,2.0,2.0,amarillo
+Lisa Fresca Cruda Carne,porcion_carne_chica,3.0,3.0,amarillo
+Merluza Fresca Cruda Carne,porcion_carne_chica,2.0,2.0,amarillo
+Mero Carne,porcion_carne_chica,2.0,2.0,amarillo
+Moncholo Al Horno Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Moncholo Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Moncholo Musculo Ventral,porcion_carne_chica,3.0,3.0,amarillo
+Moncholo Hervido Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Palometa Fresca Cruda Carne,porcion_carne_chica,4.0,4.0,rojo
+Pargo Carne,porcion_carne_chica,3.0,3.0,amarillo
+Pati A La Parrilla Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Pati Al Horno Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Pati Carne,porcion_carne_chica,2.0,2.0,amarillo
+Pati Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Pati Musculo Ventral,porcion_carne_chica,3.0,3.0,amarillo
+Pati Frito Musculo Dorsal,porcion_carne_chica,4.0,4.0,rojo
+Pati Hervido Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Pejerrey Agua Dulce Carne,porcion_carne_chica,2.0,2.0,amarillo
+Pejerrey Mar Carne,porcion_carne_chica,2.0,2.0,amarillo
+Pescadilla Fresca Carne,porcion_carne_chica,2.0,2.0,amarillo
+Pez Gallo Carne,porcion_carne_chica,2.0,2.0,amarillo
+Pez Palo Carne,porcion_carne_chica,2.0,2.0,amarillo
+Rubio Carne,porcion_carne_chica,3.0,3.0,amarillo
+Sabalo A La Parrilla Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Sabalo Al Horno Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Sabalo Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Sabalo Musculo Ventral,porcion_carne_chica,3.0,3.0,amarillo
+Sabalo Frito Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Sabalo Hervido Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Sardina Fueguina Fresca Cruda Carne,porcion_carne_chica,3.0,3.0,amarillo
+Surubi Al Horno Musculo Dorsal,porcion_carne_chica,4.0,4.0,rojo
+Surubi Carne,porcion_carne_chica,3.0,3.0,amarillo
+Surubi Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Surubi Frito Musculo Dorsal,porcion_carne_chica,4.0,4.0,rojo
+Surubi Hervido Musculo Dorsal,porcion_carne_chica,3.0,3.0,amarillo
+Tararira Fresca Cruda Carne,porcion_carne_chica,2.0,2.0,amarillo
+Testolin Carne,porcion_carne_chica,2.0,2.0,amarillo
+Calamar (Tubo Aletas Y Tentaculos),porcion_carne_chica,2.0,2.0,amarillo
+Calamar Entero,porcion_carne_chica,2.0,2.0,amarillo
+Camaron Carne De Cola,porcion_carne_chica,2.0,2.0,amarillo
+Centolla Fresca Carne Cruda,porcion_carne_chica,2.0,2.0,amarillo
+Centolla Fresca (Carne De Pata Solamente),porcion_carne_chica,2.0,2.0,amarillo
+Langostino Carne De Cola,porcion_carne_chica,2.0,2.0,amarillo
+Mejillon (Capturado En Primavera),porcion_carne_chica,2.0,2.0,amarillo
+Mejillon Carne,porcion_carne_chica,2.0,2.0,amarillo
+Mejillon Pre- Carne,porcion_carne_chica,2.0,2.0,amarillo
+Ancho Pasta,porcion_carne_chica,4.0,4.0,rojo
+Caballa Tronco,porcion_carne_chica,4.0,4.0,rojo
+Alimento,otros,0.0,4.0,rojo
+Batata Dulce,otros,0.0,4.0,rojo
+Chocolatin,otros,0.0,4.0,rojo
+Ciruela Mermelada,otros,0.0,4.0,rojo
+Dulce De Leche,otros,0.0,4.0,rojo
+Dulce De Leche Light,otros,0.0,4.0,rojo
+Dulce De Leche Para Reposteria,otros,0.0,4.0,rojo
+Dulce De Leche Repostero Suelto,otros,0.0,4.0,rojo
+Durazno Mermelada,otros,0.0,4.0,rojo
+Frutilla Mermelada,otros,0.0,4.0,rojo
+Leche Dulce De Leche,otros,0.0,4.0,rojo
+Alimento,otros,0.0,4.0,rojo
+Acelga Hoja,otros,0.0,0.5,verde
+Acelga Tallo,otros,0.0,0.5,verde
+Achicoria De Monte,otros,0.0,1.0,verde
+Achicoria Hoja Fresca Cruda,otros,0.0,0.5,verde
+Achira (Raices),otros,0.0,1.0,verde
+Ajo Bulbo,otros,0.0,2.0,amarillo
+Alcaucil Inflorescencia,otros,0.0,2.0,amarillo
+Alfalfa Hoja Fresca Cruda,otros,0.0,2.0,amarillo
+Arveja Semilla Fresca Cruda,otros,0.0,3.0,amarillo
+Arveja Semilla Fresca Enlatada,otros,0.0,3.0,amarillo
+Arveja Semilla Fresca Hervida,otros,0.0,2.0,amarillo
+Arveja Semilla Seca Entera Cruda,otros,0.0,4.0,rojo
+Arveja Semilla Seca Partida Cruda,otros,0.0,4.0,rojo
+Arveja Semilla Seca Partida Hervida,otros,0.0,3.0,amarillo
+Avellana Pepita Seca,otros,0.0,4.0,rojo
+Batata Frita,otros,0.0,4.0,rojo
+Batata Hervida,otros,0.0,2.0,amarillo
+Batata Raiz Fresca Cruda,otros,0.0,2.0,amarillo
+Berenjena Pulpa Fresca Cruda,otros,0.0,1.0,verde
+Berro (Hojas Y Tallo),otros,0.0,0.5,verde
+Brocoli Tallo De Hoja,otros,0.0,1.0,verde
+Cardo (Penca Y Hojas),otros,0.0,0.5,verde
+Castana De Para Pepita Cruda,otros,0.0,4.0,rojo
+Cebolla Blanca Bulbo Cruda,otros,0.0,0.5,verde
+Cebolla Blanca Bulbo Hervida,otros,0.0,0.5,verde
+Chaucha Vaina Y Semilla Cruda,otros,0.0,0.5,verde
+Coliflor Pimpollo,otros,0.0,1.0,verde
+Diente De Leon Hoja,otros,0.0,1.0,verde
+Escarola Crespa Hoja Cruda,otros,0.0,0.5,verde
+Esparrago Tallo Tierno,otros,0.0,1.0,verde
+Espinaca Hoja Fresca Cruda,otros,0.0,0.5,verde
+Espinaca Hoja Fresca Hervida,otros,0.0,0.5,verde
+Garbanzo Grano Entero Seco Hervido,otros,0.0,3.0,amarillo
+Habas Semilla Inmadura Fresca Cruda,otros,0.0,2.0,amarillo
+Hinojo Tallo,otros,0.0,0.5,verde
+Lengua De Vaca Hojas Tejido,otros,0.0,1.0,verde
+Lenteja Semilla Entera Seca Cruda,otros,0.0,4.0,rojo
+Lupino Andino Semilla,otros,0.0,4.0,rojo
+Lupino Andino Semilla,otros,0.0,4.0,rojo
+Mani Semilla Con Piel,otros,0.0,4.0,rojo
+Mani Semilla Sin Piel Tostado,otros,0.0,4.0,rojo
+Mastuerzo (Hoja Y Peciolo),otros,0.0,2.0,amarillo
+Mastuerzo Hoja,otros,0.0,1.0,verde
+Nabo Hervido,otros,0.0,0.5,verde
+Nabo Raiz (Pulpa),otros,0.0,0.5,verde
+Nuez Pepita,otros,0.0,4.0,rojo
+Papa Pulpa Fresca Cruda,otros,0.0,2.0,amarillo
+Papa Pulpa Frita Baston,otros,0.0,3.0,amarillo
+Papa Pulpa Hervida,otros,0.0,2.0,amarillo
+Pepino Pulpa,otros,0.0,0.5,verde
+Perejil Hoja,otros,0.0,2.0,amarillo
+Pinon De Araucaria Pepita,otros,0.0,4.0,rojo
+Pistacho Pepita,otros,0.0,4.0,rojo
+Poroto Alubia Semilla Seco,otros,0.0,4.0,rojo
+Poroto Carioca Semilla Seco,otros,0.0,4.0,rojo
+Poroto Colorado Semilla Seco,otros,0.0,4.0,rojo
+Poroto Grand Berry Semilla Seco,otros,0.0,4.0,rojo
+Poroto Great Northern Semilla Seco,otros,0.0,4.0,rojo
+Poroto Negro Semilla Seco,otros,0.0,4.0,rojo
+Poroto Novy Bean Semilla Seco,otros,0.0,4.0,rojo
+Poroto Oval Semilla Seco,otros,0.0,4.0,rojo
+Poroto Pallares Semilla Seco,otros,0.0,4.0,rojo
+Poroto Small Red Semilla Seco,otros,0.0,4.0,rojo
+Poroto Semilla Enlatado,otros,0.0,2.0,amarillo
+Poroto Semilla Seco,otros,0.0,4.0,rojo
+Puerro (Bulbo Tallo Y Hojas),otros,0.0,1.0,verde
+Quinua Harina,otros,0.0,4.0,rojo
+Quinua Semilla Cruda,otros,0.0,4.0,rojo
+Rabanito Raiz,otros,0.0,1.0,verde
+Remolacha Tuberculo Fresca Cruda,otros,0.0,2.0,amarillo
+Remolacha Tuberculo Hervida,otros,0.0,1.0,verde
+Repollito Bruselas Hoja,otros,0.0,2.0,amarillo
+Repollo Blanco Hoja,otros,0.0,0.5,verde
+Repollo Blanco Hoja Hervido,otros,0.0,0.5,verde
+Salsifi Raiz,otros,0.0,2.0,amarillo
+Soja Ft11 Poroto Seco,otros,0.0,4.0,rojo
+Soja Semilla Madura Seca Cruda,otros,0.0,4.0,rojo
+Tapioca Cruda (Harina Mandioca),otros,0.0,4.0,rojo
+Tapioca Hervida,otros,0.0,2.0,amarillo
+Tomate,otros,0.0,0.5,verde
+Tomate Hervido,otros,0.0,0.5,verde
+Tomate Jugo,otros,0.0,0.5,verde
+Verdolaga Hoja,otros,0.0,1.0,verde
+Verdolaga Hoja Y Tallo Fresca Cruda,otros,0.0,0.5,verde
+Yuyo Colorado Hoja,otros,0.0,2.0,amarillo
+Zanahoria Jugo,otros,0.0,0.5,verde
+Zapallito Parte Tierna,otros,0.0,0.5,verde
+Zapallito Parte Tierna Hervido,otros,0.0,0.5,verde
+Zapallo Pulpa,otros,0.0,1.0,verde
+Zapallo Pulpa Hervido,otros,0.0,0.5,verde

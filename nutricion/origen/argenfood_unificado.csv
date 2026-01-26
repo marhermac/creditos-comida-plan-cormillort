@@ -1,0 +1,436 @@
+﻿origen,archivo,alimento,kcal_100g
+ARGENFOOD,argen_carnes.xls,Alimento,Energía
+ARGENFOOD,argen_carnes.xls,"Cerdo, chorizo, fresco, crudo",454
+ARGENFOOD,argen_carnes.xls,"Cerdo, costilla, a la parrilla",320
+ARGENFOOD,argen_carnes.xls,"Cerdo, costilla flaca, cruda",250
+ARGENFOOD,argen_carnes.xls,"Cerdo, jamón cocido",211
+ARGENFOOD,argen_carnes.xls,"Cerdo, jamón crudo",473
+ARGENFOOD,argen_carnes.xls,"Cerdo, panceta",670
+ARGENFOOD,argen_carnes.xls,"Cordero, carne de la paleta, crudo",99
+ARGENFOOD,argen_carnes.xls,"Cordero, carne de la paleta, flaca, a la parrilla",182
+ARGENFOOD,argen_carnes.xls,"Pollo, asado a la parrilla",168
+ARGENFOOD,argen_carnes.xls,"Pollo, asado al horno",162
+ARGENFOOD,argen_carnes.xls,"Pollo, carne-pellejo-menudos, fresco, crudo",88
+ARGENFOOD,argen_carnes.xls,"Pollo, hervido",198
+ARGENFOOD,argen_carnes.xls,"Rana, carne de la pata, fresca, cruda",64
+ARGENFOOD,argen_carnes.xls,Hamburguesas light asada,199
+ARGENFOOD,argen_carnes.xls,Hamburguesas regulares de carne vacuna asadas,248
+ARGENFOOD,argen_carnes.xls,Salchichas  light tipo Viena,136
+ARGENFOOD,argen_carnes.xls,Salchichas light tipo Viena hervidas,139
+ARGENFOOD,argen_carnes.xls,Salchichas tipo Viena,211
+ARGENFOOD,argen_carnes.xls,Salchichas tipo Viena hervidas,209
+ARGENFOOD,argen_carnes.xls,"Vacuno, asado, fresco, crudo",170
+ARGENFOOD,argen_carnes.xls,"Vacuno, bife, a la parrilla",189
+ARGENFOOD,argen_carnes.xls,"Vacuno, bife angosto c/c de novillito, fresco, crudo",190
+ARGENFOOD,argen_carnes.xls,"Vacuno, bola de lomo de novillito, fresco, crudo",114
+ARGENFOOD,argen_carnes.xls,"Vacuno, brazuelo de novillito, fresco, crudo",120
+ARGENFOOD,argen_carnes.xls,"Vacuno, caracú (médula de hueso largo), crudo",785
+ARGENFOOD,argen_carnes.xls,"Vacuno, colita de cuadril de novillito, fresco, crudo",143
+ARGENFOOD,argen_carnes.xls,"Vacuno, corazón de cuadril de novillito, fresco, crudo",116
+ARGENFOOD,argen_carnes.xls,"Vacuno, cuadril y bife angosto flaco, fresco, crudo",111
+ARGENFOOD,argen_carnes.xls,"Vacuno, en conserva, enlatado",224
+ARGENFOOD,argen_carnes.xls,"Vacuno, hamburguesas cocidas",248
+ARGENFOOD,argen_carnes.xls,"Vacuno, hamburguesas crudas",218
+ARGENFOOD,argen_carnes.xls,"Vacuno, hamburguesas light cocidas",199
+ARGENFOOD,argen_carnes.xls,"Vacuno, hamburguesas light crudas",175
+ARGENFOOD,argen_carnes.xls,"Vacuno, hígado, crudo",132
+ARGENFOOD,argen_carnes.xls,"Vacuno, jugo de carne",33
+ARGENFOOD,argen_carnes.xls,"Vacuno, lomo, fresco, crudo",116
+ARGENFOOD,argen_carnes.xls,"Vacuno, nalga de novillito, fresco, crudo",106
+ARGENFOOD,argen_carnes.xls,"Vacuno, nalga, fresco, crudo",97
+ARGENFOOD,argen_carnes.xls,"Vacuno, paleta de novillito, fresco, crudo",125
+ARGENFOOD,argen_carnes.xls,"Vacuno, paletín o marucha de novillito, fresco, crudo",132
+ARGENFOOD,argen_carnes.xls,"Vacuno, palomita de novillito, fresco, crudo",116
+ARGENFOOD,argen_carnes.xls,"Vacuno, pasta de hígado",335
+ARGENFOOD,argen_carnes.xls,"Vacuno, peceto de novillito, fresco, crudo",125
+ARGENFOOD,argen_carnes.xls,"Vacuno, pecho de novillito, fresco, crudo",139
+ARGENFOOD,argen_carnes.xls,"Vacuno, riñon, fresco, crudo",137
+ARGENFOOD,argen_carnes.xls,"Vacuno, tapa de cuadril de novillito, fresco, crudo",211
+ARGENFOOD,argen_carnes.xls,"Vacuno, ternera, costilla flaca, a la parrilla",139
+ARGENFOOD,argen_carnes.xls,"Vacuno, ternera, costilla flaca, fresco, crudo",95
+ARGENFOOD,argen_carnes.xls,"Vacuno, tortuguita de novillito, fresco, crudo",154
+ARGENFOOD,argen_carnes.xls,"Vacuno, vacío, a la parrilla",258
+ARGENFOOD,argen_carnes.xls,"Vacuno, vacío, al horno",241
+ARGENFOOD,argen_carnes.xls,"Vacuno, vacío de novillito, fresco, crudo",174
+ARGENFOOD,argen_carnes.xls,"Vacuno, vacío flaco, fresco, crudo",171
+ARGENFOOD,argen_carnes.xls,"Bife, cocido",233
+ARGENFOOD,argen_carnes.xls,"Bife, crudo",120
+ARGENFOOD,argen_carnes.xls,"Nalga, cocida",197
+ARGENFOOD,argen_carnes.xls,"Nalga, cruda",98
+ARGENFOOD,argen_carnes.xls,"Paleta, cocida",207
+ARGENFOOD,argen_carnes.xls,"Paleta, cruda",107
+ARGENFOOD,argen_carnes.xls,"Vacío, cocido",231
+ARGENFOOD,argen_carnes.xls,"Vacío, crudo",105
+ARGENFOOD,argen_carnes.xls,"Bife, cocido",236
+ARGENFOOD,argen_carnes.xls,"Bife, crudo",120
+ARGENFOOD,argen_carnes.xls,"Nalga, cocida",177
+ARGENFOOD,argen_carnes.xls,"Nalga, cruda",103
+ARGENFOOD,argen_carnes.xls,"Paleta, cocida",192
+ARGENFOOD,argen_carnes.xls,"Paleta, cruda",106
+ARGENFOOD,argen_carnes.xls,"Vacío, cocido",203
+ARGENFOOD,argen_carnes.xls,"Vacío, crudo",107
+ARGENFOOD,argen_carnes.xls,"Jamon cocido ""Villafranca Novissimo"".El Bierzo. Reducido en colesterol",98
+ARGENFOOD,argen_carnes.xls,"Lomo ahumado de cerdo cocido ""Villafranca Novissimo"". El Bierzo. Reducido en sodio y en colesterol",95
+ARGENFOOD,argen_carnes.xls,"Mortadela"" Villafranca Novissimo"". El Bierzo - reducida en grasa y en sodio",139
+ARGENFOOD,argen_carnes.xls,"Pastron ahumado ""Villafranca Novissimo"". El Bierzo. Reducido en sodio y en colesterol",79
+ARGENFOOD,argen_carnes.xls,"Salame ""Villafranca Novissimo"".El Bierzo.Reducido en sodio y en colesterol",134
+ARGENFOOD,argen_carnes.xls,Carne de vizcacha,46
+ARGENFOOD,argen_cereales.xls,Alimento,Energía
+ARGENFOOD,argen_cereales.xls,"Amaranto, semilla, cruda (Amarantus caudatus)",384
+ARGENFOOD,argen_cereales.xls,"Amaranto, semilla, cruda (Amarantus hipochondriacus)",381
+ARGENFOOD,argen_cereales.xls,"Amaranto, semilla, cruda (Amarantus mantegazzianus)",388
+ARGENFOOD,argen_cereales.xls,"Amaranto, semillia, cruda (Amarantus cruentus)",384
+ARGENFOOD,argen_cereales.xls,"Arroz, grano, blanco, pulido, crudo",339
+ARGENFOOD,argen_cereales.xls,"Arroz, grano, blanco, pulido, hervido",82
+ARGENFOOD,argen_cereales.xls,"Avena , grano, arrollada, cruda",383
+ARGENFOOD,argen_cereales.xls,"Avena, grano, arrollada, cruda",343
+ARGENFOOD,argen_cereales.xls,"Avena, grano, arrollada, hervida",86
+ARGENFOOD,argen_cereales.xls,"Cebada, grano, mondado, perlado, crudo",317
+ARGENFOOD,argen_cereales.xls,"Cebada, grano, mondado, perlado, hervido",82
+ARGENFOOD,argen_cereales.xls,"Cebada, harina ""Genser"", cruda",328
+ARGENFOOD,argen_cereales.xls,"Centeno, harina, clara, cruda",332
+ARGENFOOD,argen_cereales.xls,"Centeno, pan",206
+ARGENFOOD,argen_cereales.xls,"Centeno, pan con harina integral",214
+ARGENFOOD,argen_cereales.xls,"Maiz, amarillo Leales, grano entero, crudo",346
+ARGENFOOD,argen_cereales.xls,"Maiz amarillo, pisingallo, grano entero, crudo",345
+ARGENFOOD,argen_cereales.xls,"Maiz amarillo, sémola, grano entero, crudo",305
+ARGENFOOD,argen_cereales.xls,"Maiz, amarillo trópico 327, grano entero, crudo",344
+ARGENFOOD,argen_cereales.xls,"Maiz, blanco 8 rayas, grano entero, crudo",340
+ARGENFOOD,argen_cereales.xls,"Maiz, blanco perla, grano entero, crudo",335
+ARGENFOOD,argen_cereales.xls,"Maiz, choclo",97
+ARGENFOOD,argen_cereales.xls,"Maiz, grano, entero (Zea mays spp)",346
+ARGENFOOD,argen_cereales.xls,"Maiz, harina amarilla (polenta), cruda",369
+ARGENFOOD,argen_cereales.xls,"Maiz, harina amarilla (polenta), cruda",338
+ARGENFOOD,argen_cereales.xls,"Maiz, harina amarilla (polenta), hervida",68
+ARGENFOOD,argen_cereales.xls,"Maiz, pan",275
+ARGENFOOD,argen_cereales.xls,"Trigo, bizcochos ""Bay Biscuit""",382
+ARGENFOOD,argen_cereales.xls,"Trigo, bizcochos, vainillas",401
+ARGENFOOD,argen_cereales.xls,"Trigo, galleta de campo",300
+ARGENFOOD,argen_cereales.xls,"Trigo, galleta marinera",361
+ARGENFOOD,argen_cereales.xls,"Trigo, galletitas de agua ""Express""",442
+ARGENFOOD,argen_cereales.xls,"Trigo, galletitas de agua ""Traviata""",437
+ARGENFOOD,argen_cereales.xls,"Trigo, galletitas de harina blanca",410
+ARGENFOOD,argen_cereales.xls,"Trigo, galletitas de harina integral",411
+ARGENFOOD,argen_cereales.xls,"Trigo, galletitas dulces ""Manón""",417
+ARGENFOOD,argen_cereales.xls,"Trigo, galletitas dulces ""Minue""",419
+ARGENFOOD,argen_cereales.xls,"Trigo, galletitas oblea ""Opera""",442
+ARGENFOOD,argen_cereales.xls,"Trigo, grano entero, crudo",347
+ARGENFOOD,argen_cereales.xls,"Trigo, grisines",342
+ARGENFOOD,argen_cereales.xls,"Trigo, harina cuatro ceros",348
+ARGENFOOD,argen_cereales.xls,"Trigo, harina integral",308
+ARGENFOOD,argen_cereales.xls,"Trigo, harina tres cero",340
+ARGENFOOD,argen_cereales.xls,"Trigo, pan alemán",264
+ARGENFOOD,argen_cereales.xls,"Trigo, pan criollo",280
+ARGENFOOD,argen_cereales.xls,"Trigo, pan de salvado",223
+ARGENFOOD,argen_cereales.xls,"Trigo, pan de Viena",307
+ARGENFOOD,argen_cereales.xls,"Trigo, pan francés",268
+ARGENFOOD,argen_cereales.xls,"Trigo, pan francés",269
+ARGENFOOD,argen_cereales.xls,"Trigo, pan negro con levadura agria",271
+ARGENFOOD,argen_cereales.xls,"Trigo, pan negro con levadura comprimida",269
+ARGENFOOD,argen_cereales.xls,"Trigo, pan negro sin levadura",269
+ARGENFOOD,argen_cereales.xls,"Trigo, salvado",171
+ARGENFOOD,argen_cereales.xls,"Trigo, sémola, cruda",349
+ARGENFOOD,argen_cereales.xls,"Trigo, sémola, hervida",70
+ARGENFOOD,argen_cereales.xls,"Trigo, tallarines, frescos, hervidos",98
+ARGENFOOD,argen_frutas.xls,Alimento,Energía
+ARGENFOOD,argen_frutas.xls,Aceituna de monte,93
+ARGENFOOD,argen_frutas.xls,"Aceituna verde, pulpa, encurtida",144
+ARGENFOOD,argen_frutas.xls,"Ananá enlatado, contenido envase",87
+ARGENFOOD,argen_frutas.xls,"Ananá, pulpa, fresco",58
+ARGENFOOD,argen_frutas.xls,"Banana, pulpa, fresca",99
+ARGENFOOD,argen_frutas.xls,"Cereza, pulpa, fresca",68
+ARGENFOOD,argen_frutas.xls,"Ciruela, pasa, cruda",255
+ARGENFOOD,argen_frutas.xls,"Ciruela, pasa, hervida",165
+ARGENFOOD,argen_frutas.xls,"Ciruela, pulpa, fresca",56
+ARGENFOOD,argen_frutas.xls,"Coco, pulpa, fresco, crudo",382
+ARGENFOOD,argen_frutas.xls,"Damasco, pulpa, fresco, crudo",57
+ARGENFOOD,argen_frutas.xls,Doca,49
+ARGENFOOD,argen_frutas.xls,"Durazno orejón, pulpa y piel, hervido",40
+ARGENFOOD,argen_frutas.xls,"Durazno, pulpa, envasado al natural",75
+ARGENFOOD,argen_frutas.xls,"Durazno, pulpa, fresco, crudo",51
+ARGENFOOD,argen_frutas.xls,"Frutilla pulpa, fresca, cruda",41
+ARGENFOOD,argen_frutas.xls,"Granada, pulpa, fresca",75
+ARGENFOOD,argen_frutas.xls,"Guaraniná, Brumelia obtusifolia",147
+ARGENFOOD,argen_frutas.xls,"Higo, pulpa, fresca",88
+ARGENFOOD,argen_frutas.xls,"Kaki, pulpa, fresco",87
+ARGENFOOD,argen_frutas.xls,"Kinoto, pulpa y cáscara, fresco, crudo",73
+ARGENFOOD,argen_frutas.xls,"Limón, pulpa, fresco",44
+ARGENFOOD,argen_frutas.xls,"Manzana, hervida",26
+ARGENFOOD,argen_frutas.xls,"Manzana, pulpa, fresca, cruda",64
+ARGENFOOD,argen_frutas.xls,Mburucuyá maduro,84
+ARGENFOOD,argen_frutas.xls,Mburucuyá verde,59
+ARGENFOOD,argen_frutas.xls,"Melón, pulpa, fresco",28
+ARGENFOOD,argen_frutas.xls,"Membrillo, pulpa, fresco, crudo",58
+ARGENFOOD,argen_frutas.xls,"Mora, fresca",69
+ARGENFOOD,argen_frutas.xls,Ñandapirí,70
+ARGENFOOD,argen_frutas.xls,"Palta, pulpa, fresca",258
+ARGENFOOD,argen_frutas.xls,"Pera, orejón, crudo",299
+ARGENFOOD,argen_frutas.xls,"Pera, pulpa, fresca, cruda",70
+ARGENFOOD,argen_frutas.xls,"Pomelo, pulpa, fresco",26
+ARGENFOOD,argen_frutas.xls,"Sandía, pulpa, fresca, cruda",31
+ARGENFOOD,argen_frutas.xls,Ubajay,49
+ARGENFOOD,argen_grasas.xls,Alimento,Energía
+ARGENFOOD,argen_grasas.xls,"Aceite comestible mezcla Lira, 85% girasol, 15% oliva",900
+ARGENFOOD,argen_grasas.xls,"Aceite comestible mezcla Patito, 94% girasol, 6% maiz",900
+ARGENFOOD,argen_grasas.xls,Aceite de canola,900
+ARGENFOOD,argen_grasas.xls,Aceite de girasol Familiar,900
+ARGENFOOD,argen_grasas.xls,Aceite de girasol Ideal,900
+ARGENFOOD,argen_grasas.xls,Aceite de girasol Natura,900
+ARGENFOOD,argen_grasas.xls,Aceite de maiz Arcor,900
+ARGENFOOD,argen_grasas.xls,Aceite de maiz Cocinero,900
+ARGENFOOD,argen_grasas.xls,Aceite de maiz Mazzola,900
+ARGENFOOD,argen_grasas.xls,Aceite de oliva Cocinero,900
+ARGENFOOD,argen_grasas.xls,Aceite de uva Cocinero,900
+ARGENFOOD,argen_grasas.xls,Grasa de cerdo,898
+ARGENFOOD,argen_grasas.xls,Grasa Vacuna,899
+ARGENFOOD,argen_grasas.xls,Margarina 100% vegetal Delicia,747
+ARGENFOOD,argen_grasas.xls,Margarina 100% vegetal Manty (en pote y en pan),747
+ARGENFOOD,argen_grasas.xls,Margarina reducida en calorias Manty liviana,504
+ARGENFOOD,argen_huevo.xls,Alimento,Energía
+ARGENFOOD,argen_huevo.xls,"Huevo de codorniz, entero, crudo",174
+ARGENFOOD,argen_huevo.xls,"Huevo de gallina, clara, cocido",54
+ARGENFOOD,argen_huevo.xls,"Huevo de gallina, clara, cruda",48
+ARGENFOOD,argen_huevo.xls,"Huevo de gallina, entero, crudo",156
+ARGENFOOD,argen_huevo.xls,"Huevo de gallina, frito",196
+ARGENFOOD,argen_huevo.xls,"Huevo de gallina, poché",152
+ARGENFOOD,argen_huevo.xls,"Huevo de gallina, yema, cruda",325
+ARGENFOOD,argen_leche.xls,Alimento,Energía
+ARGENFOOD,argen_leche.xls,"Leche, condensada, Nestlé",328
+ARGENFOOD,argen_leche.xls,"Leche de burra, entera, fluida",45
+ARGENFOOD,argen_leche.xls,"Leche de cabra, entera, fluida",78
+ARGENFOOD,argen_leche.xls,"Leche de oveja, entera, fluida",99
+ARGENFOOD,argen_leche.xls,"Leche de vaca, entera, fluida, adicionada con vitamina A",57
+ARGENFOOD,argen_leche.xls,"Leche de vaca, entera, fluida, pasteurizada",57
+ARGENFOOD,argen_leche.xls,"Leche de vaca parcialm. descremada, adic. con vit A y D",44
+ARGENFOOD,argen_leche.xls,Leche en polvo descremada,370
+ARGENFOOD,argen_leche.xls,Leche en polvo entera,489
+ARGENFOOD,argen_leche.xls,"Leche humana, entera, en polvo",520
+ARGENFOOD,argen_leche.xls,"Leche humana, entera, fluida",71
+ARGENFOOD,argen_leche.xls,"Manteca, fresca",758
+ARGENFOOD,argen_leche.xls,"Queso crema, entero, untable",246
+ARGENFOOD,argen_leche.xls,"Queso descremado, untable",82
+ARGENFOOD,argen_leche.xls,"Queso, Petit Suisse",182
+ARGENFOOD,argen_leche.xls,"Queso semidescremado, untable",104
+ARGENFOOD,argen_leche.xls,Queso  Blanco Argentino Semimagro,104
+ARGENFOOD,argen_leche.xls,Queso Belpaese,309
+ARGENFOOD,argen_leche.xls,Queso Camembert,287
+ARGENFOOD,argen_leche.xls,Queso cremoso,302
+ARGENFOOD,argen_leche.xls,Queso cuartirolo,291
+ARGENFOOD,argen_leche.xls,Queso doble crema,260
+ARGENFOOD,argen_leche.xls,Queso Limburgués,324
+ARGENFOOD,argen_leche.xls,Queso mozarella,282
+ARGENFOOD,argen_leche.xls,Queso Por Salut,301
+ARGENFOOD,argen_leche.xls,Queso azul,377
+ARGENFOOD,argen_leche.xls,Queso Cheddar,357
+ARGENFOOD,argen_leche.xls,Queso Chubut,328
+ARGENFOOD,argen_leche.xls,Queso Fontina,340
+ARGENFOOD,argen_leche.xls,Queso Gorgonzola,480
+ARGENFOOD,argen_leche.xls,Queso Gruyere,379
+ARGENFOOD,argen_leche.xls,Queso Holanda,345
+ARGENFOOD,argen_leche.xls,Queso Pategrás,410
+ARGENFOOD,argen_leche.xls,Queso Roquefort,426
+ARGENFOOD,argen_leche.xls,Queso Suizo,404
+ARGENFOOD,argen_leche.xls,Queso Tafí,358
+ARGENFOOD,argen_leche.xls,Queso Tandil,345
+ARGENFOOD,argen_leche.xls,Queso tipo Mar del Plata,332
+ARGENFOOD,argen_leche.xls,Queso Goya,402
+ARGENFOOD,argen_leche.xls,Queso Parmesano,350
+ARGENFOOD,argen_leche.xls,Queso Provolone,391
+ARGENFOOD,argen_leche.xls,Queso Reggianito,365
+ARGENFOOD,argen_leche.xls,Queso Sardo,402
+ARGENFOOD,argen_leche.xls,Queso Sbrinz,357
+ARGENFOOD,argen_leche.xls,Ricota de leche entera,168
+ARGENFOOD,argen_leche.xls,Ricotta semidescremada,168
+ARGENFOOD,argen_leche.xls,Yogur descremado,59
+ARGENFOOD,argen_leche.xls,Yogur descremado bebible,30
+ARGENFOOD,argen_leche.xls,Yogur descremado fortificado con Ca,48
+ARGENFOOD,argen_leche.xls,Yogur entero bebible,82
+ARGENFOOD,argen_leche.xls,Yogur entero natural,66
+ARGENFOOD,argen_leche.xls,Yogur entero saborizado,88
+ARGENFOOD,argen_misc.xls,Alimento,Energía
+ARGENFOOD,argen_misc.xls,Mayonesa reducida en calorías,320
+ARGENFOOD,argen_misc.xls,Mayonesa Ri-k,723
+ARGENFOOD,argen_misc.xls,Mortadela,245
+ARGENFOOD,argen_misc.xls,Polen de Totora,288
+ARGENFOOD,argen_pescados.xls,Alimento,Energía
+ARGENFOOD,argen_pescados.xls,"Abadejo, fresco, crudo, carne",72
+ARGENFOOD,argen_pescados.xls,"Amarillo, fresco, a la parrilla, músculo dorsal",183
+ARGENFOOD,argen_pescados.xls,"Amarillo, fresco, al horno, músculo dorsal",233
+ARGENFOOD,argen_pescados.xls,"Amarillo, fresco, crudo, músculo dorsal",141
+ARGENFOOD,argen_pescados.xls,"Amarillo, fresco, frito, músculo dorsal",232
+ARGENFOOD,argen_pescados.xls,"Amarillo, fresco, hervido, músculo dorsal",180
+ARGENFOOD,argen_pescados.xls,"Anchoa, fresca, cruda, carne",92
+ARGENFOOD,argen_pescados.xls,"Anchoita, fresca, cruda, carne",129
+ARGENFOOD,argen_pescados.xls,"Armado, fresco, al horno, músculo dorsal",128
+ARGENFOOD,argen_pescados.xls,"Armado, fresco, crudo, músculo dorsal",75
+ARGENFOOD,argen_pescados.xls,"Armado, fresco, crudo, músculo ventral",103
+ARGENFOOD,argen_pescados.xls,"Armado, fresco, frito, músculo dorsal",130
+ARGENFOOD,argen_pescados.xls,"Armado, fresco, hervido, músculo dorsal",102
+ARGENFOOD,argen_pescados.xls,"Besugo, fresco, crudo, carne",100
+ARGENFOOD,argen_pescados.xls,"Boga, fresca, a la parrilla, músculo dorsal",150
+ARGENFOOD,argen_pescados.xls,"Boga, fresca, al horno, músculo dorsal",150
+ARGENFOOD,argen_pescados.xls,"Boga, fresca, cruda, músculo ventral",180
+ARGENFOOD,argen_pescados.xls,"Boga, fresca, frita, músculo dorsal",168
+ARGENFOOD,argen_pescados.xls,"Boga, fresca, hervida, músculo dorsal",158
+ARGENFOOD,argen_pescados.xls,"Bonito, fresco, crudo, carne",219
+ARGENFOOD,argen_pescados.xls,"Brótola, fresca, cruda, carne",83
+ARGENFOOD,argen_pescados.xls,"Caballa, fresca, cruda, carne",232
+ARGENFOOD,argen_pescados.xls,"Castañeta, fresca, cruda, carne",95
+ARGENFOOD,argen_pescados.xls,"Castañeta, fresca, cruda, entera",170
+ARGENFOOD,argen_pescados.xls,"Congrio, fresco, crudo, carne",107
+ARGENFOOD,argen_pescados.xls,"Cornalito, fresco, crudo, entero",86
+ARGENFOOD,argen_pescados.xls,"Corvina blanca, fresca, cruda, carne",97
+ARGENFOOD,argen_pescados.xls,"Corvina negra, fresca, cruda, carne",84
+ARGENFOOD,argen_pescados.xls,"Dorado, fresco, crudo, carne",80
+ARGENFOOD,argen_pescados.xls,"Gatuso, fresco, crudo, carne",72
+ARGENFOOD,argen_pescados.xls,"Jurel, fresco, crudo, carne",149
+ARGENFOOD,argen_pescados.xls,"Lenguado, fresco, crudo, carne",78
+ARGENFOOD,argen_pescados.xls,"Lisa, fresca, cruda, carne",146
+ARGENFOOD,argen_pescados.xls,"Merluza, fresca, cruda, carne",81
+ARGENFOOD,argen_pescados.xls,"Mero, fresco, crudo, carne",83
+ARGENFOOD,argen_pescados.xls,"Moncholo, fresco, al horno, músculo dorsal",189
+ARGENFOOD,argen_pescados.xls,"Moncholo, fresco, crudo, músculo dorsal",112
+ARGENFOOD,argen_pescados.xls,"Moncholo, fresco, crudo, músculo ventral",148
+ARGENFOOD,argen_pescados.xls,"Moncholo, fresco, hervido, músculo dorsal",187
+ARGENFOOD,argen_pescados.xls,"Palometa, fresca, cruda, carne",215
+ARGENFOOD,argen_pescados.xls,"Pargo, fresco, crudo, carne",113
+ARGENFOOD,argen_pescados.xls,"Patí, fresco, a la parrilla, músculo dorsal",169
+ARGENFOOD,argen_pescados.xls,"Patí, fresco, al horno, músculo dorsal",183
+ARGENFOOD,argen_pescados.xls,"Patí, fresco, crudo, carne",90
+ARGENFOOD,argen_pescados.xls,"Patí, fresco, crudo, músculo dorsal",161
+ARGENFOOD,argen_pescados.xls,"Patí, fresco, crudo, músculo ventral",159
+ARGENFOOD,argen_pescados.xls,"Patí, fresco, frito, músculo dorsal",215
+ARGENFOOD,argen_pescados.xls,"Patí, fresco, hervido, músculo dorsal",133
+ARGENFOOD,argen_pescados.xls,"Pejerrey agua dulce, fresco, crudo, carne",77
+ARGENFOOD,argen_pescados.xls,"Pejerrey mar, fresco, crudo, carne",86
+ARGENFOOD,argen_pescados.xls,"Pescadilla, fresca, crudo, carne",97
+ARGENFOOD,argen_pescados.xls,"Pez Gallo, fresco, crudo, carne",84
+ARGENFOOD,argen_pescados.xls,"Pez palo, fresco, crudo, carne",96
+ARGENFOOD,argen_pescados.xls,"Rubio, fresco, crudo, carne",109
+ARGENFOOD,argen_pescados.xls,"Sábalo, fresco, a la parrilla, músculo dorsal",130
+ARGENFOOD,argen_pescados.xls,"Sábalo, fresco, al horno, músculo dorsal",153
+ARGENFOOD,argen_pescados.xls,"Sábalo, fresco, crudo, músculo dorsal",145
+ARGENFOOD,argen_pescados.xls,"Sábalo, fresco, crudo, músculo ventral",151
+ARGENFOOD,argen_pescados.xls,"Sábalo, fresco, frito, músculo dorsal",166
+ARGENFOOD,argen_pescados.xls,"Sábalo, fresco, hervido, músculo dorsal",130
+ARGENFOOD,argen_pescados.xls,"Sardina fueguina, fresca, cruda, carne",136
+ARGENFOOD,argen_pescados.xls,"Surubí, fresco, al horno, músculo dorsal",255
+ARGENFOOD,argen_pescados.xls,"Surubí, fresco, crudo, carne",110
+ARGENFOOD,argen_pescados.xls,"Surubí, fresco, crudo, músculo dorsal",187
+ARGENFOOD,argen_pescados.xls,"Surubí, fresco, frito, músculo dorsal",269
+ARGENFOOD,argen_pescados.xls,"Surubí, fresco, hervido, músculo dorsal",186
+ARGENFOOD,argen_pescados.xls,"Tararira, fresca, cruda, carne",79
+ARGENFOOD,argen_pescados.xls,"Testolin, fresco, crudo, carne",98
+ARGENFOOD,argen_pescados.xls,"Calamar, fresco, crudo (tubo aletas y tentáculos)",79
+ARGENFOOD,argen_pescados.xls,"Calamar, fresco, entero, crudo",80
+ARGENFOOD,argen_pescados.xls,"Camarón, fresco, crudo, carne de cola",91
+ARGENFOOD,argen_pescados.xls,"Centolla, fresca, carne, cruda",66
+ARGENFOOD,argen_pescados.xls,"Centolla, fresca (carne de pata solamente)",83
+ARGENFOOD,argen_pescados.xls,"Langostino, fresco, crudo, carne de cola",97
+ARGENFOOD,argen_pescados.xls,"Mejillón, fresco, crudo (capturado en primavera)",95
+ARGENFOOD,argen_pescados.xls,"Mejillón, fresco, crudo, carne",64
+ARGENFOOD,argen_pescados.xls,"Mejillón, fresco, pre-cocido, carne",84
+ARGENFOOD,argen_pescados.xls,"Ancho, pasta",202
+ARGENFOOD,argen_pescados.xls,"Caballa, tronco",212
+ARGENFOOD,argen_prodaz.xls,Alimento,Energía
+ARGENFOOD,argen_prodaz.xls,"Batata, dulce",263
+ARGENFOOD,argen_prodaz.xls,Chocolatín,549
+ARGENFOOD,argen_prodaz.xls,"Ciruela, mermelada",306
+ARGENFOOD,argen_prodaz.xls,Dulce de leche,314
+ARGENFOOD,argen_prodaz.xls,Dulce de Leche Light,260
+ARGENFOOD,argen_prodaz.xls,Dulce de leche para reposteria,317
+ARGENFOOD,argen_prodaz.xls,Dulce de leche repostero suelto,337
+ARGENFOOD,argen_prodaz.xls,"Durazno, mermelada",304
+ARGENFOOD,argen_prodaz.xls,"Frutilla, mermelada",309
+ARGENFOOD,argen_prodaz.xls,"Leche, dulce de leche",341
+ARGENFOOD,argen_vegetales.xls,Alimento,Energía
+ARGENFOOD,argen_vegetales.xls,"Acelga, hoja",15
+ARGENFOOD,argen_vegetales.xls,"Acelga, tallo",8
+ARGENFOOD,argen_vegetales.xls,Achicoria de Monte,46
+ARGENFOOD,argen_vegetales.xls,"Achicoria, hoja, fresca, cruda",21
+ARGENFOOD,argen_vegetales.xls,Achira (raíces),34
+ARGENFOOD,argen_vegetales.xls,"Ajo, bulbo, fresco, crudo",99
+ARGENFOOD,argen_vegetales.xls,"Alcaucil, inflorescencia, fresco, crudo",63
+ARGENFOOD,argen_vegetales.xls,"Alfalfa, hoja, fresca, cruda",57
+ARGENFOOD,argen_vegetales.xls,"Arveja, semilla, fresca, cruda",102
+ARGENFOOD,argen_vegetales.xls,"Arveja, semilla, fresca, enlatada",105
+ARGENFOOD,argen_vegetales.xls,"Arveja, semilla, fresca, hervida",77
+ARGENFOOD,argen_vegetales.xls,"Arveja, semilla, seca, entera, cruda",304
+ARGENFOOD,argen_vegetales.xls,"Arveja, semilla, seca, partida, cruda",311
+ARGENFOOD,argen_vegetales.xls,"Arveja, semilla, seca, partida, hervida",129
+ARGENFOOD,argen_vegetales.xls,"Avellana, pepita, seca",668
+ARGENFOOD,argen_vegetales.xls,"Batata, frita",212
+ARGENFOOD,argen_vegetales.xls,"Batata, hervida",92
+ARGENFOOD,argen_vegetales.xls,"Batata, raiz, fresca, cruda",84
+ARGENFOOD,argen_vegetales.xls,"Berenjena, pulpa, fresca, cruda",28
+ARGENFOOD,argen_vegetales.xls,"Berro (hojas y tallo), fresco, crudo",23
+ARGENFOOD,argen_vegetales.xls,"Brócoli, tallo de hoja, fresco, crudo",37
+ARGENFOOD,argen_vegetales.xls,"Cardo (penca y hojas), fresco, crudo",25
+ARGENFOOD,argen_vegetales.xls,"Castaña de Pará, pepita, cruda",731
+ARGENFOOD,argen_vegetales.xls,"Cebolla blanca, bulbo, cruda",17
+ARGENFOOD,argen_vegetales.xls,"Cebolla blanca, bulbo, hervida",10
+ARGENFOOD,argen_vegetales.xls,"Chaucha, vaina y semilla, cruda",22
+ARGENFOOD,argen_vegetales.xls,"Coliflor, pimpollo, fresco, crudo",31
+ARGENFOOD,argen_vegetales.xls,"Diente de león, hoja",33
+ARGENFOOD,argen_vegetales.xls,"Escarola crespa, hoja, cruda",24
+ARGENFOOD,argen_vegetales.xls,"Esparrago, tallo tierno, fresco, crudo",26
+ARGENFOOD,argen_vegetales.xls,"Espinaca, hoja, fresca, cruda",24
+ARGENFOOD,argen_vegetales.xls,"Espinaca, hoja, fresca, hervida",13
+ARGENFOOD,argen_vegetales.xls,"Garbanzo, grano entero, seco, hervido",125
+ARGENFOOD,argen_vegetales.xls,"Habas, semilla inmadura, fresca, cruda",99
+ARGENFOOD,argen_vegetales.xls,"Hinojo, tallo, fresco, crudo",24
+ARGENFOOD,argen_vegetales.xls,"Lengua de vaca, hojas, tejido fresco, parte comestible",43
+ARGENFOOD,argen_vegetales.xls,"Lenteja, semilla entera, seca, cruda",350
+ARGENFOOD,argen_vegetales.xls,"Lupino andino, con cáscara, semilla, crudo",399
+ARGENFOOD,argen_vegetales.xls,"Lupino andino, sin cáscara, semilla, crudo",411
+ARGENFOOD,argen_vegetales.xls,"Maní, semilla con piel, crudo",576
+ARGENFOOD,argen_vegetales.xls,"Maní, semilla sin piel, tostado",592
+ARGENFOOD,argen_vegetales.xls,"Mastuerzo (hoja y pecíolo), fresco, crudo",51
+ARGENFOOD,argen_vegetales.xls,"Mastuerzo, hoja",50
+ARGENFOOD,argen_vegetales.xls,"Nabo, hervido",11
+ARGENFOOD,argen_vegetales.xls,"Nabo, raiz (pulpa), fresco, crudo",10
+ARGENFOOD,argen_vegetales.xls,"Nuez, pepita",715
+ARGENFOOD,argen_vegetales.xls,"Papa, pulpa sin cáscara, fresca, cruda",88
+ARGENFOOD,argen_vegetales.xls,"Papa, pulpa sin cáscara, frita, bastón",162
+ARGENFOOD,argen_vegetales.xls,"Papa, pulpa sin cáscara, hervida",88
+ARGENFOOD,argen_vegetales.xls,"Pepino, pulpa, fresco, crudo",15
+ARGENFOOD,argen_vegetales.xls,"Perejil, hoja, fresco, crudo",60
+ARGENFOOD,argen_vegetales.xls,"Piñon de araucaria, pepita, crudo",221
+ARGENFOOD,argen_vegetales.xls,"Pistacho, pepita, crudo",648
+ARGENFOOD,argen_vegetales.xls,"Poroto Alubia, semilla, seco",337
+ARGENFOOD,argen_vegetales.xls,"Poroto Carioca, semilla, seco",336
+ARGENFOOD,argen_vegetales.xls,"Poroto Colorado, semilla, seco",333
+ARGENFOOD,argen_vegetales.xls,"Poroto Grand Berry, semilla, seco",336
+ARGENFOOD,argen_vegetales.xls,"Poroto Great Northern, semilla, seco",326
+ARGENFOOD,argen_vegetales.xls,"Poroto Negro, semilla, seco",306
+ARGENFOOD,argen_vegetales.xls,"Poroto Novy Bean, semilla, seco",336
+ARGENFOOD,argen_vegetales.xls,"Poroto Oval, semilla, seco",328
+ARGENFOOD,argen_vegetales.xls,"Poroto Pallares, semilla, seco",322
+ARGENFOOD,argen_vegetales.xls,"Poroto Small Red, semilla, seco",336
+ARGENFOOD,argen_vegetales.xls,"Poroto, semilla, enlatado",89
+ARGENFOOD,argen_vegetales.xls,"Poroto, semilla, seco, crudo",290
+ARGENFOOD,argen_vegetales.xls,"Puerro (bulbo, tallo y hojas), fresco, crudo",45
+ARGENFOOD,argen_vegetales.xls,"Quinua, harina",341
+ARGENFOOD,argen_vegetales.xls,"Quinua, semilla, cruda",354
+ARGENFOOD,argen_vegetales.xls,"Rabanito, raiz, fresco, crudo",29
+ARGENFOOD,argen_vegetales.xls,"Remolacha, tubérculo, fresca, cruda",54
+ARGENFOOD,argen_vegetales.xls,"Remolacha, tubérculo, hervida",36
+ARGENFOOD,argen_vegetales.xls,"Repollito Bruselas, hoja, fresco, crudo",58
+ARGENFOOD,argen_vegetales.xls,"Repollo blanco, hoja, fresco, crudo",17
+ARGENFOOD,argen_vegetales.xls,"Repollo blanco, hoja, hervido",16
+ARGENFOOD,argen_vegetales.xls,"Salsifí, raiz, fresco, crudo",85
+ARGENFOOD,argen_vegetales.xls,"Soja FT11, poroto seco",368
+ARGENFOOD,argen_vegetales.xls,"Soja, semilla madura, seca, cruda",356
+ARGENFOOD,argen_vegetales.xls,"Tapioca, cruda (harina mandioca)",336
+ARGENFOOD,argen_vegetales.xls,"Tapioca, hervida",55
+ARGENFOOD,argen_vegetales.xls,"Tomate, fresco, crudo",20
+ARGENFOOD,argen_vegetales.xls,"Tomate, hervido",21
+ARGENFOOD,argen_vegetales.xls,"Tomate, jugo, fresco",11
+ARGENFOOD,argen_vegetales.xls,"Verdolaga, hoja",32
+ARGENFOOD,argen_vegetales.xls,"Verdolaga, hoja y tallo, fresca, cruda",23
+ARGENFOOD,argen_vegetales.xls,"Yuyo colorado, hoja",60
+ARGENFOOD,argen_vegetales.xls,"Zanahoria, jugo, fresco",22
+ARGENFOOD,argen_vegetales.xls,"Zapallito, parte tierna, fresco, crudo",13
+ARGENFOOD,argen_vegetales.xls,"Zapallito, parte tierna, hervido",16
+ARGENFOOD,argen_vegetales.xls,"Zapallo, pulpa, fresco, crudo",27
+ARGENFOOD,argen_vegetales.xls,"Zapallo, pulpa, hervido",20

@@ -1,0 +1,579 @@
+﻿alimento,kcal,origen,hoja
+"Rice, BETA, bran, raw",274.76,FAO,01 Cereals
+"Rice, B 189, bran, raw",363.73,FAO,01 Cereals
+"Rice, GK 88, bran, raw",358.5,FAO,01 Cereals
+"Rice, GRUG 7, bran, raw",245.77,FAO,01 Cereals
+"Rice, IR 64, bran, raw",365.78,FAO,01 Cereals
+"Rice, IR 66, bran, raw",358.62,FAO,01 Cereals
+"Rice, IR 68, bran, raw",355.54,FAO,01 Cereals
+"Rice, ITA 72, bran, raw",388.33,FAO,01 Cereals
+"Rice, ITA 222, bran, raw",365.66,FAO,01 Cereals
+"Rice, ITA 304, bran, raw",356.31,FAO,01 Cereals
+"Rice, ITA 334, bran, raw",354.75,FAO,01 Cereals
+"Rice, ITA 402, bran, raw",363.71,FAO,01 Cereals
+"Rice, ITA 406, bran, raw",380.39,FAO,01 Cereals
+"Rice, Mr. More, bran, raw",314.42,FAO,01 Cereals
+"Rice, TOX 3108, bran, raw",345.53,FAO,01 Cereals
+"Rice, MR 219 and MR 84, bran, microwaved",289.6,FAO,01 Cereals
+"Rice, MR 219 and MR 84, bran, microwaved",319.2,FAO,01 Cereals
+"Rice, MR 219 and MR 84, bran, microwaved",292.4,FAO,01 Cereals
+"Rice, MR 219 and MR 84, bran, microwaved",314.9,FAO,01 Cereals
+"Eincorn wheat, grain, raw",331.02,FAO,01 Cereals
+"Potato, Atlantic, ripe, peel removed, raw",79.57,FAO,02 Starchy Roots & Tubers
+"Potato, Asterix, ripe, peel removed, raw",70.84,FAO,02 Starchy Roots & Tubers
+"Potato, Innovator, ripe, peel removed, raw",80.4,FAO,02 Starchy Roots & Tubers
+"Potato, Shepody, ripe, peel removed, raw",76.48,FAO,02 Starchy Roots & Tubers
+"Dasheen, CEM/UM, peeled, raw",85.05,FAO,02 Starchy Roots & Tubers
+"Dasheen, Branco, peeled, raw",90.95,FAO,02 Starchy Roots & Tubers
+"Dasheen, Chinês, peeled, raw",134.71,FAO,02 Starchy Roots & Tubers
+"Dasheen, Japonês, peeled, raw",86.68,FAO,02 Starchy Roots & Tubers
+"Dasheen, Macaquinho, peeled, raw",67.68,FAO,02 Starchy Roots & Tubers
+"cassava, flour, Qulle, peeled, raw",341.171358,FAO,02 Starchy Roots & Tubers
+"cassava, flour, Qulle, peeled, boiled",345.98538,FAO,02 Starchy Roots & Tubers
+"cassava, flour, Qulle, fermented",343.116065,FAO,02 Starchy Roots & Tubers
+"cassava, flour, Kello, raw",353.77056,FAO,02 Starchy Roots & Tubers
+"cassava, flour, Kello, peeled, boiled",347.17103,FAO,02 Starchy Roots & Tubers
+"cassava, flour, Kello, fermented",356.266367,FAO,02 Starchy Roots & Tubers
+"Taro, corm, raw",68.17,FAO,02 Starchy Roots & Tubers
+"Common bean, var. Almonga, White, seeds, dried, raw",274.1895,FAO,03 Legumes
+"Common bean, var. Almonga, White, seeds, canned, cooked, salt and ascorbic acid added, drained",123.71085,FAO,03 Legumes
+"Common bean, var. Currilla, Cream, seeds, dried, raw",269.96075,FAO,03 Legumes
+"Common bean, var. Currilla, Cream, seeds, canned, cooked, salt and ascorbic acid added, drained",144.05985,FAO,03 Legumes
+"Lentil, Green, whole, large, raw",360,FAO,03 Legumes
+"Lentil, Green, whole, medium, raw",361,FAO,03 Legumes
+"Lentil, Green, whole, small, raw",362,FAO,03 Legumes
+"Lentil, Green, whole, French, raw",361,FAO,03 Legumes
+"Lentil, Green, dehulled split, large, raw",363,FAO,03 Legumes
+"Lentil, Green, whole, large, cooked without salt, drained",156,FAO,03 Legumes
+"Lentil, Green, whole, medium, cooked without salt, drained",159,FAO,03 Legumes
+"Lentil, Green, whole, small, cooked without salt, drained",149,FAO,03 Legumes
+"Lentil, Green, whole, French, cooked without salt, drained",145,FAO,03 Legumes
+"Lentil, Green, dehulled split, large, cooked without salt, drained",150,FAO,03 Legumes
+"Lentil, Red, whole, small, raw",363,FAO,03 Legumes
+"Lentil, Red, whole, small, cooked without salt, drained",149,FAO,03 Legumes
+"Lentil, Red, whole, extra small, raw",361,FAO,03 Legumes
+"Lentil, Red, whole, extra small, cooked without salt, drained",168,FAO,03 Legumes
+"Lentil, Red, dehulled split, small, raw",361,FAO,03 Legumes
+"Lentil, Red, dehulled split, small, cooked without salt, drained",120,FAO,03 Legumes
+"Pea, Green, whole, raw",360,FAO,03 Legumes
+"Pea, Green, whole, cooked without salt, drained",135,FAO,03 Legumes
+"Pea, Green, dehulled split, raw",360,FAO,03 Legumes
+"Pea, Green, dehulled split, cooked without salt, drained",124,FAO,03 Legumes
+"Pea, Yellow, whole, raw",359,FAO,03 Legumes
+"Pea, Yellow, whole, cooked without salt, drained",143,FAO,03 Legumes
+"Pea, Yellow, dehulled split, raw",359,FAO,03 Legumes
+"Pea, Yellow, dehulled split, cooked without salt, drained",160,FAO,03 Legumes
+"Chickpea, Desi, raw",393,FAO,03 Legumes
+"Chickpea, Desi, water-soaked, cooked without salt, drained",166,FAO,03 Legumes
+"Chickpea, Kabuli, raw",395,FAO,03 Legumes
+"Chickpea, Kabuli, water-soaked, cooked without salt, drained",170,FAO,03 Legumes
+"Cowpea, White, seeds, sun-dried, raw",338.54373,FAO,03 Legumes
+"Cowpea, Red, seeds, sun-dried, raw",317.49722,FAO,03 Legumes
+"Cowpea, 'BRS-Milênio', seeds, raw",303.996,FAO,03 Legumes
+"V. aconitifolia, seeds, raw",363.04537,FAO,03 Legumes
+"V. vexillata, seeds, raw",342.534834,FAO,03 Legumes
+"Cowpea, var. Asmerly, seeds, raw",342.946803,FAO,03 Legumes
+"Kidney bean, var. Giza 3, White, seeds, raw",331.520156,FAO,03 Legumes
+"Kidney bean, seeds, raw",338.66274,FAO,03 Legumes
+"Pea, seeds, raw",350.790075,FAO,03 Legumes
+"Moth bean, seeds, whole, raw",331,FAO,03 Legumes
+"Moth bean, seeds, dehulled, raw",343,FAO,03 Legumes
+"Pigeon pea, seeds, whole, raw",315,FAO,03 Legumes
+"Pigeon pea, seeds, dehulled, raw",354,FAO,03 Legumes
+"Moth bean, seeds, whole, boiled",131,FAO,03 Legumes
+"Moth bean, seeds, dehulled, boiled",120,FAO,03 Legumes
+"Pigeon pea, seeds, whole, boiled",121,FAO,03 Legumes
+"Pigeon pea, seeds, dehulled, boiled",120,FAO,03 Legumes
+"Dolichos bean, 'Kala Urahi', Black, white eye, seeds, raw",321.651,FAO,03 Legumes
+"Dolichos bean, 'Boga Urahi', Cofee-brown, white eye, seeds, raw",316.2704,FAO,03 Legumes
+"Dolichos bean, 'Rangee Urahi', Reddish brown, white eye, seeds, raw",317.8785,FAO,03 Legumes
+"Dolichos bean, 'Kajala Urahi', Mottled black, white eye, seeds, raw",314.1422,FAO,03 Legumes
+"Dolichos bean, 'Mattar Urahi', Brown, white eye, seeds, raw",313.0231,FAO,03 Legumes
+"Pigeon pea, seed, dehulled, boiled, oven-dried",325.46,FAO,03 Legumes
+"Pigeon pea, seed, dehulled, boiled, fermented for 1 day, oven-dried",323.74,FAO,03 Legumes
+"Pigeon pea, seed, dehulled, boiled, fermented for 2 days, oven-dried",320.82,FAO,03 Legumes
+"Pigeon pea, seed, dehulled, boiled, fermented for 3 days, oven-dried",315.65,FAO,03 Legumes
+"Pigeon pea, seed, dehulled, boiled, fermented for 4 days, oven-dried",315.66,FAO,03 Legumes
+"Pigeon pea, seed, dehulled, boiled, fermented for 5 days, oven-dried",315.33,FAO,03 Legumes
+"Pigeon pea, seed, raw",360.7,FAO,03 Legumes
+"Pigeon pea, seed, fermented for 24h, oven-dried",360.8,FAO,03 Legumes
+"Pigeon pea, seed, fermented for 48h, oven-dried",361.6,FAO,03 Legumes
+"Pigeon pea, seed, fermented for 72h, oven-dried",364.8,FAO,03 Legumes
+"Pigeon pea, seed, fermented for 96h, oven-dried",362.3,FAO,03 Legumes
+"Chickpea, var. Kabuli, seed, raw",388.12,FAO,03 Legumes
+"Chickpea, var. Kabuli, seed, water-soaked for 1 day, dried",388.3,FAO,03 Legumes
+"Chickpea, var. Kabuli, seed, water-soaked for 1 day, germinated for 1 day, dried",390.26,FAO,03 Legumes
+"Mung bean, var. KM-1, seed, raw",298.035,FAO,03 Legumes
+"Mung bean, var. KM-1, seed, water-soaked, sprouted for 24h",148.20561,FAO,03 Legumes
+"Mung bean, var. KM-1, seed, water-soaked, sprouted for 48h",140.61312,FAO,03 Legumes
+"Mung bean, var. KM-1, seed, water-soaked, sprouted for 72h",134.5428,FAO,03 Legumes
+"Mung bean, var. KM-1, seed, water-soaked, sprouted for 96h",124.44108,FAO,03 Legumes
+"Mung bean, var. KM-1, seed, water-soaked, sprouted for 120h",96.9333,FAO,03 Legumes
+"Chickpea, var. Lawaghar, seed, raw",327.327,FAO,03 Legumes
+"Chickpea, var. Lawaghar, seed, water-soaked, sprouted for 24h",177.76438,FAO,03 Legumes
+"Chickpea, var. Lawaghar, seed, water-soaked, sprouted for 48h",170.835,FAO,03 Legumes
+"Chickpea, var. Lawaghar, seed, water-soaked, sprouted for 72h",165.9701,FAO,03 Legumes
+"Chickpea, var. Lawaghar, seed, water-soaked, sprouted for 96h",159.13678,FAO,03 Legumes
+"Chickpea, var. Lawaghar, seed, water-soaked, sprouted for 120h",147.9561,FAO,03 Legumes
+"Chickpea, Desi, var. CM 72, seed, raw",368,FAO,03 Legumes
+"Chickpea, Desi, var. Bittal 98, seed, raw",371,FAO,03 Legumes
+"Chickpea, Desi, var. Punjab 2000, seed, raw",373,FAO,03 Legumes
+"Chickpea, Kabuli, seed, raw",258.7,FAO,03 Legumes
+"Chickpea, Kabuli, seed, extruded",275.8,FAO,03 Legumes
+"Bambara nut, KARI/BN/  BK- 3, seed, raw",315.4,FAO,03 Legumes
+"Bambara nut, KARI/BN/ 4, seed, raw",320.33,FAO,03 Legumes
+"Bambara nut, KARI/BN/ 13, seed, raw",324.52,FAO,03 Legumes
+"Bambara nut, KARI/BN/ 21, seed, raw",337.43,FAO,03 Legumes
+"Cowpea, seeds, whole, dried, black, raw",184.652,FAO,03 Legumes
+"Cowpea, seeds, whole, dried, white, raw",220.644,FAO,03 Legumes
+"Bambara groundnuts, seeds, red, dried, raw",238.94,FAO,03 Legumes
+"Bambara groundnuts, seeds, white, dried, raw",271.695,FAO,03 Legumes
+"Common bean, Carioca, seeds, water-soaked, drained, boiled (50% water 50% seeds)",76.4240856666667,FAO,03 Legumes
+"Common bean, Carioca, seeds, raw",329.026736231884,FAO,03 Legumes
+"Common bean, Jalo, seeds, water-soaked, drained, boiled (50% water 50% seeds)",92.73992,FAO,03 Legumes
+"Common bean, Jalo, seeds, raw",327.905266666667,FAO,03 Legumes
+"Common bean, Black, seeds, water-soaked, drained, boiled (50% water 50% seeds)",77.0272666666667,FAO,03 Legumes
+"Common bean, Black, seeds, raw",323.565711594203,FAO,03 Legumes
+"Common bean, Rajado, seeds, water-soaked, drained, boiled (50% water 50% seeds)",84.7018527334929,FAO,03 Legumes
+"Common bean, Rajado, seeds, raw",325.844411162734,FAO,03 Legumes
+"Common bean, Rosinha, seeds, water-soaked, drained, boiled (50% water 50% seeds)",67.8662287714283,FAO,03 Legumes
+"Common bean, Rosinha, seeds, raw",336.961911127567,FAO,03 Legumes
+"Common bean, Roxo, seeds, water-soaked, drained, boiled (50% water 50% seeds)",76.8933823179006,FAO,03 Legumes
+"Common bean, Roxo, seeds, raw",331.414977456729,FAO,03 Legumes
+"Cowpea, whole grain, dried,  raw",288.933333333333,FAO,03 Legumes
+"White lupin, fruits, seeds, raw",92.9566666666667,FAO,03 Legumes
+"Cowpea, legume, fresh, raw",38.7566666666667,FAO,03 Legumes
+"Palm kernel, Tenera, shelled, undefatted, raw",461.058,FAO,04 Nuts & Seeds
+"Wild mango, seed, flour, raw",654.038,FAO,04 Nuts & Seeds
+"Wild mango, seed, flour, dried",635.16,FAO,04 Nuts & Seeds
+"Baobab, seed, raw",363.8,FAO,04 Nuts & Seeds
+"Baobab, seed flour, raw",432.208,FAO,04 Nuts & Seeds
+"African locust bean, seeds, fermented",526,FAO,04 Nuts & Seeds
+"African locust bean, flour, raw",372,FAO,04 Nuts & Seeds
+"Lingala seeds, dried",448.83,FAO,04 Nuts & Seeds
+"Fluted guord seeds, dried",60.53,FAO,04 Nuts & Seeds
+"Elm-leaved sumach, fruits, seeds,",380.51,FAO,04 Nuts & Seeds
+"Berberis, fruits, seeds, raw",258.676666666667,FAO,04 Nuts & Seeds
+"Tomato, Cherry, whole, ripe, light red, raw",12.3,FAO,05 Vegetables
+"Tomato, Cherry Pera, whole, ripe,raw",16.2,FAO,05 Vegetables
+"Tomato, Daniela Larga Vida, whole, ripe, pink,raw",10.4,FAO,05 Vegetables
+"Tomato, Lido, whole, ripe, pink, raw",14.9,FAO,05 Vegetables
+"Tomato, Pera, whole, ripe, light red, raw",8.9,FAO,05 Vegetables
+"Tomato, Racimo, whole, ripe, light red, raw",12.6,FAO,05 Vegetables
+"Tomato, Raf, whole, ripe, pink, raw",15.7,FAO,05 Vegetables
+"Tomato, Rambo, whole, ripe, raw",9.9,FAO,05 Vegetables
+"Wild mushroom, raw",20.38,FAO,05 Vegetables
+"Wild mushroom, raw",38.86,FAO,05 Vegetables
+"Wild mushroom, raw",29.73,FAO,05 Vegetables
+"Wild mushroom, raw",23.73,FAO,05 Vegetables
+"Wild mushroom, raw",26.46,FAO,05 Vegetables
+"Cassava, very young leaves, raw",452,FAO,05 Vegetables
+"Cassava, young leaves, raw",464,FAO,05 Vegetables
+"Cassava, mature leaves, raw",478,FAO,05 Vegetables
+"Coriander, leaves, raw",56,FAO,05 Vegetables
+"Jiga, leaves, dried",358,FAO,05 Vegetables
+"Hard leaf, dried",106.4,FAO,05 Vegetables
+"Hard leaf, cooked (in boiling water), dried",95.6,FAO,05 Vegetables
+"Water leaf, dried",25.6,FAO,05 Vegetables
+"Water leaf, cooked (in boiling water), dried",47.5,FAO,05 Vegetables
+"Bitter leaf, dried",78.5,FAO,05 Vegetables
+"Bitter leaf, cooked (in boiling water), dried",51.2,FAO,05 Vegetables
+"Cassava, leaves, MU22, very young (expanding leaves)",49.268,FAO,05 Vegetables
+"Cassava, leaves, MU22, young (fully expanded leaves)",80.736,FAO,05 Vegetables
+"Cassava, leaves, MU22, matured",98.468,FAO,05 Vegetables
+"Cassava, leaves, frozen",77.4,FAO,05 Vegetables
+"Cassava, leaves, frozen",118,FAO,05 Vegetables
+"Mountain sorrel, wild, raw",51,FAO,05 Vegetables
+"Fennel, leaves, raw",33.4333333333333,FAO,05 Vegetables
+"Sorrel,  leaves, raw",22.9066666666667,FAO,05 Vegetables
+"Wild raddish,  shoots and leaves, raw",26.8866666666667,FAO,05 Vegetables
+"N/A, basal leaves, raw",25.8533333333333,FAO,05 Vegetables
+"Chicory, leaves and roots, raw",21.9833333333333,FAO,05 Vegetables
+"Sea beet, basal leaves, raw",26.83,FAO,05 Vegetables
+"Golden thistle, roots and leaves, raw",16.7366666666667,FAO,05 Vegetables
+"Starflower, leaves, raw",23.5033333333333,FAO,05 Vegetables
+"Shepherd's-purse, leaves, raw",24.55,FAO,05 Vegetables
+"Crown Daisy, sprouts, raw",23.87,FAO,05 Vegetables
+"Alisa0ers, Horse parsley, shoots a0 leaves, raw",27.5566666666667,FAO,05 Vegetables
+"Glasswort, plant, raw",36.3933333333333,FAO,05 Vegetables
+"Rock samphire, plant and leaves, raw",26.0166666666667,FAO,05 Vegetables
+"Foxtail lily,  leaves, raw",25.8733333333333,FAO,05 Vegetables
+"Ground elder, leaves, raw",22.1933333333333,FAO,05 Vegetables
+"Bladder Campion,  leaves, raw",29.21,FAO,05 Vegetables
+Corky-fruited water-dropwort,20.5966666666667,FAO,05 Vegetables
+"Watercress,  leaves, raw",33.1533333333333,FAO,05 Vegetables
+"Rush skeletonweed, leaves, raw",36.3966666666667,FAO,05 Vegetables
+"Star-of-Bethlehem, leaves and bulbs, raw",45.1266666666667,FAO,05 Vegetables
+"Purple sal,  leaves, raw",38.4933333333333,FAO,05 Vegetables
+"Common chicory, leaves, raw",24.2466666666667,FAO,05 Vegetables
+"Black bryony, leaves, raw",27.7333333333333,FAO,05 Vegetables
+"N/A,  leaves, raw",39.4533333333333,FAO,05 Vegetables
+"Catbriers, greenbriers, shoots, raw",51.2666666666667,FAO,05 Vegetables
+"Lmab's quarters, leaves and shoots, raw",20.4833333333333,FAO,05 Vegetables
+"Curly dock, yellow dock,  leaves, raw",24.9666666666667,FAO,05 Vegetables
+"Indian knotgrass, leaves, raw",60.2766666666667,FAO,05 Vegetables
+"N/A, leaves, raw",42.47,FAO,05 Vegetables
+"Tumbleweed, root collar",26.3166666666667,FAO,05 Vegetables
+"Caper bush, fruits, fresh",67.4633333333333,FAO,05 Vegetables
+"N/A,  root",176.946666666667,FAO,05 Vegetables
+"N/A,  root",319.153333333333,FAO,05 Vegetables
+"N/A, fruits, seeds, raw",110.326666666667,FAO,05 Vegetables
+"Crab apple, fruits, seeds",108.373333333333,FAO,05 Vegetables
+"Saffron milk cap, mushroom, raw",23.1,FAO,05 Vegetables
+"Calamus, rhizoms",271.863333333333,FAO,05 Vegetables
+"Date, Fard,  mature, sun-dried, raw",278,FAO,06 Fruits
+"Date, Khasab, mature, sun-dried, raw",281,FAO,06 Fruits
+"Date, Khalas, mature, sun-dried, raw",301,FAO,06 Fruits
+"Baobab fruit, seed, raw",363.8,FAO,06 Fruits
+"Baobab fruit, fruit pulp, raw",320.3,FAO,06 Fruits
+"Breadfruit, Afara, mature, raw",113,FAO,06 Fruits
+"Breadfruit, Hamoa (Maopo), mature, raw",123,FAO,06 Fruits
+"Breadfruit, Lemae, mature, raw",122,FAO,06 Fruits
+"Breadfruit, Ma'afala, mature, raw",134,FAO,06 Fruits
+"Breadfruit, Meiarepe, mature, raw",137,FAO,06 Fruits
+"Breadfruit, Meitehid, mature, raw",130,FAO,06 Fruits
+"Breadfruit, Meinpadahk, mature, raw",134,FAO,06 Fruits
+"Breadfruit, Meion, mature, raw",108,FAO,06 Fruits
+"Breadfruit, Otea, mature, raw",138,FAO,06 Fruits
+"Breadfruit, Piipiia, mature, raw",115,FAO,06 Fruits
+"Breadfruit, Porohiti (Meiuhpw), mature, raw",127,FAO,06 Fruits
+"Breadfruit, Puaa, mature, raw",119,FAO,06 Fruits
+"Breadfruit, Puou, mature, raw",116,FAO,06 Fruits
+"Breadfruit, Rotuma, mature, raw",108,FAO,06 Fruits
+"Breadfruit, Toneno, mature, raw",115,FAO,06 Fruits
+"Breadfruit, Ula, mature, raw",133,FAO,06 Fruits
+"Breadfruit, Ulu fiti, mature, raw",117,FAO,06 Fruits
+"Breadfruit, Ulu tala, mature, raw",107,FAO,06 Fruits
+"Breadfruit, White, mature, raw",122,FAO,06 Fruits
+"Breadfruit, Yap, mature, raw",108,FAO,06 Fruits
+"Pitanga cherry, pulp with water (pulp:water 4:1), raw, juice",58.11662,FAO,06 Fruits
+"Hog plum, pulp, raw",75.5,FAO,06 Fruits
+"Banana, BITA 3, dried, flour",363.4,FAO,06 Fruits
+"Plantain, PITA 14, dried, flour",373.2,FAO,06 Fruits
+"Plantain, PITA 17, dried, flour",340.8,FAO,06 Fruits
+"Plantain, PITA 12, dried, flour",335,FAO,06 Fruits
+"Plantain, PITA 26, dried, flour",347.9,FAO,06 Fruits
+"African plantain, Agbagba, dried, flour",369,FAO,06 Fruits
+"Baobab fruit /Moneky bread, pulp, raw",320,FAO,06 Fruits
+"Baobab fruit /Moneky bread, pulp, raw",193,FAO,06 Fruits
+"Marula, fruit pulp, raw",39.44,FAO,06 Fruits
+"Grey-leaved saucer berry/grey-leaved cordia,  pulp, raw",92.34,FAO,06 Fruits
+"Grey-leaved saucer berry/grey-leaved cordia,  pulp, raw",93.96,FAO,06 Fruits
+"Fruit´Cordia crenata´,  pulp, raw",98.58,FAO,06 Fruits
+"Bastard brandy bush/false brandy bush/false brandybush/two-coloured grewi pulp, dried, raw",244.2,FAO,06 Fruits
+"Mallow raisin/mallow-leaved ross berry, pulp, sundried, raw",256.12,FAO,06 Fruits
+"Marula, fleshy fruit, raw",59.5,FAO,06 Fruits
+"Black plum/Water-berry, fleshy fruit, raw",51.52,FAO,06 Fruits
+"Black plum/Water-berry, fleshy fruit, raw",67.4,FAO,06 Fruits
+"Black plum/Water-berry, fleshy fruit, raw",55.76,FAO,06 Fruits
+"Black plum/Water-berry, fleshy fruit, raw",61.2,FAO,06 Fruits
+"Wild loquat, fleshy fruit, raw",142.8,FAO,06 Fruits
+"Chocolate berry/ Black plum, fleshy fruit, raw",89,FAO,06 Fruits
+"African pear/Bush butter tree fruit, pulp, dried, raw",390,FAO,06 Fruits
+"Tamarind, fruit, dried, raw",377,FAO,06 Fruits
+"African starapple, peel, raw",385.5,FAO,06 Fruits
+"African starapple, pulp, raw",447,FAO,06 Fruits
+"Macaúba, raw",285.65,FAO,06 Fruits
+"Mangaba, raw",66.21,FAO,06 Fruits
+"Pitomba, raw",56.35,FAO,06 Fruits
+"Apple, summar apple, Daqiuguo, ripe, raw",64.1,FAO,06 Fruits
+"Apple, bright China apple, Fuguo, ripe, raw",47.7,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw（average）",53,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw",49.8,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw",63.2,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw",54.4,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw",48.6,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw",52.2,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw",53.4,FAO,06 Fruits
+"Apple, bright China apple, Guoguang, ripe, raw",51.5,FAO,06 Fruits
+"Apple, Fuji, red, ripe, raw",49,FAO,06 Fruits
+"Apple, red marshal apple, Yuanshuai, red, ripe, raw（average）",55,FAO,06 Fruits
+"Apple, red marshal apple, Yuanshuai, red, ripe, raw",53.1,FAO,06 Fruits
+"Apple, red marshal apple, Yuanshuai, red, ripe, raw",64.8,FAO,06 Fruits
+"Apple, red marshal apple, Yuanshuai, red, ripe, raw",48.9,FAO,06 Fruits
+"Apple, red marshal apple, Yuanshuai, red, ripe, raw",48.5,FAO,06 Fruits
+"Apple, red marshal apple, Yuanshuai, red, ripe, raw",64.2,FAO,06 Fruits
+"Apple, red marshal apple, Yuanshuai, red, ripe, raw",52.2,FAO,06 Fruits
+"Apple, red star apple, Hongxing,ripe,raw",58.1,FAO,06 Fruits
+"Apple, red jade apple, Hongyu,ripe,raw",52,FAO,06 Fruits
+"Apple, banana apple, Qingxiangjiao, banana flavored, green, ripe, raw(average)",51,FAO,06 Fruits
+"Apple, banana apple, Qingxiangjiao, banana flavored, green, ripe, raw",62.7,FAO,06 Fruits
+"Apple, banana apple, Qingxiangjiao, banana flavored, green, ripe, raw",54.6,FAO,06 Fruits
+"Apple, banana apple, Qingxiangjiao, banana flavored, green, ripe, raw",45.3,FAO,06 Fruits
+"Apple, banana apple, Qingxiangjiao, banana flavored, green, ripe, raw",52.1,FAO,06 Fruits
+"Apple, banana apple, Qingxiangjiao, banana flavored, green, ripe, raw",40.9,FAO,06 Fruits
+"Apple, Qiulimeng, ripe, raw",42.8,FAO,06 Fruits
+"Apple, Indian apple, Yindu, ripe, raw",53.6,FAO,06 Fruits
+"Apple, blessing apple, Zhuguang, ripe, raw",49.5,FAO,06 Fruits
+"Apple, Wojin, ripe,raw(average)",51.8,FAO,06 Fruits
+"Apple, Wojin, ripe,raw",51.6,FAO,06 Fruits
+"Apple, Wojin, ripe,raw",51.6,FAO,06 Fruits
+"Apple, crabapple, Honghaitang, ripe, raw",77,FAO,06 Fruits
+"Apple, crabapple, Qiuzi, ripe, raw",76,FAO,06 Fruits
+"Pear, ba pear, Bali, ripe, raw(average)",51,FAO,06 Fruits
+"Pear, ba pear, Bali, ripe, raw",48.8,FAO,06 Fruits
+"Pear, ba pear, Bali, ripe, raw",52.6,FAO,06 Fruits
+"Pear, ba pear, Bali, ripe, raw",50.7,FAO,06 Fruits
+"Pear, Bretschneider pear, Jingbai, ripe, raw(average)",56,FAO,06 Fruits
+"Pear, Bretschneider pear, Jingbai, ripe, raw",50.4,FAO,06 Fruits
+"Pear, Bretschneider pear, Jingbai, ripe, raw",61.9,FAO,06 Fruits
+"Pear, moon pear, Mingyue, ripe, raw(average)",52,FAO,06 Fruits
+"Pear, moon pear, Mingyue, ripe, raw",50,FAO,06 Fruits
+"Pear, moon pear, Mingyue, ripe, raw",53.9,FAO,06 Fruits
+"Pear, Sumu, ripe, raw",52.5,FAO,06 Fruits
+"Pear, crisp pear, Suli, ripe, raw",45.3,FAO,06 Fruits
+"Pear, sour pear, Suanli, ripe, raw",33.1,FAO,06 Fruits
+"Pear, snowflower pear, Xuehua, ripe, raw（average）",40,FAO,06 Fruits
+"Pear, snowflower pear, Xuehua, ripe, raw",33.7,FAO,06 Fruits
+"Pear, snowflower pear, Xuehua, ripe, raw",47.2,FAO,06 Fruits
+"Pear, Yaguang, ripe, raw",60,FAO,06 Fruits
+"Peach, celebrate harvest peach, Qingfeng, ripe, raw",41.9,FAO,06 Fruits
+"Peach, May fresh peach, Wuyuexian, ripe, raw",40.7,FAO,06 Fruits
+"Blackberry, wild, raw",50,FAO,06 Fruits
+"Blueberry, wild, raw",41,FAO,06 Fruits
+"Blackberry, wild, raw",47,FAO,06 Fruits
+"Cloudberry, wild, raw",50,FAO,06 Fruits
+"Cranberry, wild, raw",68,FAO,06 Fruits
+"Grooseberry, green, wild, raw",51,FAO,06 Fruits
+"Grooseberry, purple, wild, raw",65,FAO,06 Fruits
+"Raspberry, wild, raw",67,FAO,06 Fruits
+"African Palm Weevil, larva, dried",424.73,FAO,07 Meat
+"Grasshopper, whole, freeze-dried",160.1882,FAO,07 Meat
+"Superworm, larvae, raw",242.3,FAO,07 Meat
+"Giant mealworm, larva, raw",225.2,FAO,07 Meat
+"Mealworm, larva, raw",205.6,FAO,07 Meat
+"Mealworm, adult, raw",137.8,FAO,07 Meat
+"Waxworm, raw",274.7,FAO,07 Meat
+"Silkworm, raw",67.4,FAO,07 Meat
+"Earthworm, raw",70.8,FAO,07 Meat
+"Termite, adult, dewinged, dried, flour",535,FAO,07 Meat
+"Palmworm, adult larva, raw",165,FAO,07 Meat
+"Earthworm, muscles and epidermis, raw",134,FAO,07 Meat
+"Earthworm, muscles and epidermis, raw",65,FAO,07 Meat
+"Earthworm, internal organs, raw",[90],FAO,07 Meat
+"Termite, thorax and abdomen, raw",93,FAO,07 Meat
+"Termite, head, raw",114,FAO,07 Meat
+"Earthworm, smoked",389,FAO,07 Meat
+"African palm weevil, larva, raw",270.26,FAO,07 Meat
+"Caterpillar, larva, bright green to yellowish, raw",155,FAO,07 Meat
+"Mopane worm, Miombo worm, Mopani worm, larva, raw",161,FAO,07 Meat
+"African mole cricket, adult, raw",227,FAO,07 Meat
+"Water bug, adult, raw",63,FAO,07 Meat
+"Rhinoceros beetle, adult, raw",137,FAO,07 Meat
+"Termite, adult, raw",486,FAO,07 Meat
+"Grasshopper, adult, raw",108,FAO,07 Meat
+"Water beetle, adult, raw",155,FAO,07 Meat
+"Ggrasshopper, short horned grasshopper, adult, raw",137,FAO,07 Meat
+"Mantis, adult, raw",97,FAO,07 Meat
+"Cecropa moth, pupa, powder, dried",358,FAO,07 Meat
+"Promethea moth, fifth instar larva, powder, dried",361,FAO,07 Meat
+"Tobacco hornworm, fifth instar larva, powder, dried",418,FAO,07 Meat
+"Tobacco hornworm, fifth instar larva, powder, dried",398,FAO,07 Meat
+"Fall armyworm, fifth instar larva, powder, dried",443,FAO,07 Meat
+"Fall armyworm, fifth instar larva, powder, dried",349,FAO,07 Meat
+"Armyworm, adult, female, powder, dried",424,FAO,07 Meat
+"Southern armyworm, fifth instar larva, powder, dried",384,FAO,07 Meat
+"Grub, larva, raw",266,FAO,07 Meat
+"Sago grub, larva, raw",240,FAO,07 Meat
+"Sago grub, larva, raw",126,FAO,07 Meat
+"Tree ant, raw",122,FAO,07 Meat
+"Tree ant, raw",111,FAO,07 Meat
+"Mole cricket, inedible parts removed, blanched",124.7,FAO,07 Meat
+"June beetle, inedible parts removed, blanched",77.8,FAO,07 Meat
+"Buffalo dung beetle, inedible parts removed, blanched",112.7,FAO,07 Meat
+"Short tail cricket, inedible parts removed, blanched",110.9,FAO,07 Meat
+"Cricket, inedible parts removed, blanched",119.9,FAO,07 Meat
+"Giant water-bug, inedible parts removed, blanched",165.1,FAO,07 Meat
+"Small locust, inedible parts removed, blanched",148.9,FAO,07 Meat
+"Locust, inedible parts removed, blanched",89.3,FAO,07 Meat
+"True water beetle, inedible parts removed, blanched",153.1,FAO,07 Meat
+"Red ant, inedible parts removed, blanched",107.5,FAO,07 Meat
+"Red ant, young female, inedible parts removed, blanched",184.1,FAO,07 Meat
+"Red ant, pupa, inedible parts removed, blanched",79.2,FAO,07 Meat
+"Silk worm, pupa, inedible parts removed, blanched",94,FAO,07 Meat
+"Cricket, adult, raw",140.2,FAO,07 Meat
+"Cricket, nymph, raw",94.9,FAO,07 Meat
+"Bamboo caterpillar, inedible parts removed, deep fried",644,FAO,07 Meat
+"Seal, ringed, wild, meat, raw",123,FAO,07 Meat
+"Seal, ringed, wild, meat, aged",167,FAO,07 Meat
+"Seal, ringed, wild, meat, boiled",180,FAO,07 Meat
+"Seal, ringed, wild, blubber, raw",823,FAO,07 Meat
+"Seal, ringed, wild, blubber, liquid, aged",894,FAO,07 Meat
+"Seal, ringed, wild, blubber, solid, aged",838,FAO,07 Meat
+"Seal, ringed, wild, blubber, boiled",817,FAO,07 Meat
+"Seal, ringed, wild, liver, raw",138,FAO,07 Meat
+"Seal, ringed, wild, heart, raw",113,FAO,07 Meat
+"Seal, ringed, wild, brain, raw",150,FAO,07 Meat
+"Seal, ringed, wild, eyes, raw",70,FAO,07 Meat
+"Seal, ringed, pup, wild, meat, raw",115,FAO,07 Meat
+"Seal, ringed, pup, wild, meat, boiled",212,FAO,07 Meat
+"Seal, bearded, wild, meat, raw",121,FAO,07 Meat
+"Seal, bearded, wild, meat, boiled",172,FAO,07 Meat
+"Seal, bearded, wild, intestine, raw",100,FAO,07 Meat
+"Seal, bearded, wild, intestine, boiled",125,FAO,07 Meat
+"Narwhal, wild, blubber, raw",754,FAO,07 Meat
+"Narwhal, wild, blubber, aged",801,FAO,07 Meat
+"Narwhal, wild, blubber, boiled",798,FAO,07 Meat
+"Narwhal, wild, mattak, raw",130,FAO,07 Meat
+"Narwhal, wild, mattak, aged",139,FAO,07 Meat
+"Narwhal, wild, mattak, boiled",125,FAO,07 Meat
+"Narwhal, wild, flippers (matt), aged",136,FAO,07 Meat
+"Beluga, wild, meat, dried",356,FAO,07 Meat
+"Beluga, wild, mattak, raw",154,FAO,07 Meat
+"Beluga, wild, blubber, raw",640,FAO,07 Meat
+"Walrus, wild, meat, raw",119,FAO,07 Meat
+"Walrus, wild, meat, aged",154,FAO,07 Meat
+"Walrus, wild, meat, boiled",191,FAO,07 Meat
+"Walrus, wild, blubber, raw",746,FAO,07 Meat
+"Walrus, wild, blubber, aged",644,FAO,07 Meat
+"Walrus, wild, blubber, boiled",689,FAO,07 Meat
+"Walrus, wild, mattak, raw",171,FAO,07 Meat
+"Walrus, wild, mattak, aged",162,FAO,07 Meat
+"Polar bear, wild, meat, raw",11,FAO,07 Meat
+"Polar bear, wild, meat, boiled",217,FAO,07 Meat
+"Polar bear, wild, fat, raw",756,FAO,07 Meat
+"Polar bear, wild, fat, boiled",792,FAO,07 Meat
+"Caribou, wild, meat, raw",140,FAO,07 Meat
+"Caribou, wild, meat, dried",325,FAO,07 Meat
+"Caribou, wild, meat, boiled",213,FAO,07 Meat
+"Caribou, wild, fat, raw",824,FAO,07 Meat
+"Caribou, wild, brain, raw",137,FAO,07 Meat
+"Caribou, wild, brain, boiled",176,FAO,07 Meat
+"Caribou, wild, tongue, raw",229,FAO,07 Meat
+"Caribou, wild, stomach, raw",96,FAO,07 Meat
+"Caribou, wild, stomach contents, raw",91,FAO,07 Meat
+"Caribou, wild, heart, raw",117,FAO,07 Meat
+"Caribou, wild, lungs, raw",109,FAO,07 Meat
+"Ptarmigan, wild, meat, raw",135,FAO,07 Meat
+"Beaver, wild, meat, raw",123,FAO,07 Meat
+"Beaver, wild, meat, baked",127,FAO,07 Meat
+"Beaver, wild, meat, dried",287,FAO,07 Meat
+"Beaver, wild, feet, baked",329,FAO,07 Meat
+"Beaver, wild, tail, baked",437,FAO,07 Meat
+"Beaver, wild, liver, raw",122,FAO,07 Meat
+"Caribou, barrenland, wild, meat, raw",114,FAO,07 Meat
+"Caribou, barrenland, wild, meat, baked",137,FAO,07 Meat
+"Caribou, barrenland, wild, liver, raw",125,FAO,07 Meat
+"Caribou, barrenland, wild, liver, baked",146,FAO,07 Meat
+"Caribou, woodland, wild, meat, raw",110,FAO,07 Meat
+"Caribou, woodland, wild, meat, baked",142,FAO,07 Meat
+"Caribou, woodland, wild, meat, dried",257,FAO,07 Meat
+"Moose, wild, meat, raw",110,FAO,07 Meat
+"Moose, wild, meat, baked",161,FAO,07 Meat
+"Moose, wild, meat, smoke/dried",374,FAO,07 Meat
+"Moose, wild, blood, raw",92,FAO,07 Meat
+"Moose, wild, liver, raw",138,FAO,07 Meat
+"Moose, wild, liver, baked",170,FAO,07 Meat
+"Moose, wild, lung, raw",93,FAO,07 Meat
+"Moose, wild, lung, baked",117,FAO,07 Meat
+"Muskrat, wild, meat, raw",146,FAO,07 Meat
+"Rabbit, wild, meat, raw",96,FAO,07 Meat
+"Rabbit, wild, meat, boiled",120,FAO,07 Meat
+"Bear, wild, meat, raw",128,FAO,07 Meat
+"Bear, wild, meat, smoked",228,FAO,07 Meat
+"Scoter, black, wild, meat, baked",180,FAO,07 Meat
+"Ptarmigan, wild, meat, baked",133,FAO,07 Meat
+"Goose, Canada, wild, meat, smoke/drid",634,FAO,07 Meat
+"Pike, wild, female, flesh, raw",82.3,FAO,09 Fish & Shellfish
+"Pike, wild, female, flesh, raw",80.2,FAO,09 Fish & Shellfish
+"Whitefish, wild, female, flesh, raw",82.3,FAO,09 Fish & Shellfish
+"Whitefish, wild, female, flesh, raw",88.5,FAO,09 Fish & Shellfish
+"Whitefish, wild, female, flesh, raw",80.7,FAO,09 Fish & Shellfish
+"Lake trout, wild, female, flesh, raw",74.6,FAO,09 Fish & Shellfish
+"Brook trout, wild, female, flesh, raw",89,FAO,09 Fish & Shellfish
+"Brook trout, wild, female, flesh, raw",99.6,FAO,09 Fish & Shellfish
+"Pike perch, wild, skinless fillet, raw",80.58,FAO,09 Fish & Shellfish
+"Barred sorubim, wild, muscle flesh, raw",113.96,FAO,09 Fish & Shellfish
+"Barred sorubim, wild, muscle flesh, raw",107.28,FAO,09 Fish & Shellfish
+"Black scabbardfish, wild, skinless fillets, raw",94.7,FAO,09 Fish & Shellfish
+"Black scabbardfish, wild, skin-on fillets, raw",129.2,FAO,09 Fish & Shellfish
+"Turbot, wild, muscle flesh, raw",89.1,FAO,09 Fish & Shellfish
+"Herring, wild, smoked product, salt, sugar",197.6,FAO,09 Fish & Shellfish
+"Cod, wild, smoked product, salt, sugar",78.9,FAO,09 Fish & Shellfish
+"Cod, wild, smoked product, salt",83,FAO,09 Fish & Shellfish
+"Swordfish, smoked product, salt, sugar",116.5,FAO,09 Fish & Shellfish
+"Channel catfish, wild, fillet, raw",92,FAO,09 Fish & Shellfish
+"Channel catfish, wild, fillet, raw",90,FAO,09 Fish & Shellfish
+"Channel catfish, wild, fillet, oven-baked",106,FAO,09 Fish & Shellfish
+"Channel catfish, wild, fillet, oven-baked",106,FAO,09 Fish & Shellfish
+"Coho salmon, wild, skinless fillet, raw",114,FAO,09 Fish & Shellfish
+"Coho salmon, wild, skinless fillet, raw",116,FAO,09 Fish & Shellfish
+"Coho salmon, wild, skinless fillet, oven-baked",132,FAO,09 Fish & Shellfish
+"Coho salmon, wild, skinless fillet, oven-baked",137,FAO,09 Fish & Shellfish
+"Rainbow trout, wild, skinless fillet, raw",122,FAO,09 Fish & Shellfish
+"Rainbow trout, wild, skinless fillet, raw",122,FAO,09 Fish & Shellfish
+"Rainbow trout, wild, skinless fillet, oven-baked",146,FAO,09 Fish & Shellfish
+"Rainbow trout, wild, skinless fillet, oven-baked",155,FAO,09 Fish & Shellfish
+"Red swamp crayfish, wild, tail meat, raw",76,FAO,09 Fish & Shellfish
+"Red swamp crayfish, wild, tail meat, raw",76,FAO,09 Fish & Shellfish
+"Red swamp crayfish, wild, tail meat, boiled",92,FAO,09 Fish & Shellfish
+"Red swamp crayfish, wild, tail meat, boiled",87,FAO,09 Fish & Shellfish
+"White River crayfish, wild, tail meat, raw",77,FAO,09 Fish & Shellfish
+"White River crayfish, wild, tail meat, raw",78,FAO,09 Fish & Shellfish
+"White River crayfish, wild, tail meat, boiled",92,FAO,09 Fish & Shellfish
+"White River crayfish, wild, tail meat, boiled",87,FAO,09 Fish & Shellfish
+"Eastern Oysters, wild, raw",44,FAO,09 Fish & Shellfish
+"Eastern Oysters, wild, raw",54,FAO,09 Fish & Shellfish
+"Eastern Oysters, wild, grilled",62,FAO,09 Fish & Shellfish
+"Crab, wild, female, meat, raw",89.2,FAO,09 Fish & Shellfish
+"Crab, wild, female, meat, cooked (traditionally)",83.1,FAO,09 Fish & Shellfish
+"Crab, wild, male, meat, raw",82.7,FAO,09 Fish & Shellfish
+"Crab, wild, male, meat, cooked (traditionally)",86.1,FAO,09 Fish & Shellfish
+"Oyster, edible part, raw",36,FAO,09 Fish & Shellfish
+"Banded murex, wild, soft body tissue, raw",119.2,FAO,09 Fish & Shellfish
+"Atlantic cod, wild, fillet, raw",72,FAO,09 Fish & Shellfish
+"Atlantic cod, wild, fillet, boiled",95,FAO,09 Fish & Shellfish
+"European plaice, wild, fillet with skin, raw",83,FAO,09 Fish & Shellfish
+"Greenland halibut, wild, fillet, raw",172,FAO,09 Fish & Shellfish
+"Haddock, wild, fillet, raw",76,FAO,09 Fish & Shellfish
+"Lumpsucker, wild, male, fillet, raw",242,FAO,09 Fish & Shellfish
+"Pollock, saithe, wild, fillet, raw",75,FAO,09 Fish & Shellfish
+"Deepwater redfish, wild, fillet, raw",93,FAO,09 Fish & Shellfish
+"Ocean perch, wild, fillet, raw",93,FAO,09 Fish & Shellfish
+"Wolf-fish, wild, fillet, raw",73,FAO,09 Fish & Shellfish
+"Lobster, wild, raw",74,FAO,09 Fish & Shellfish
+"Blue mussel, wild, boiled",87,FAO,09 Fish & Shellfish
+"Ocean quahog, wild, raw",34,FAO,09 Fish & Shellfish
+"Prawn, shrimp, wild, boiled",69,FAO,09 Fish & Shellfish
+"Lumpsucker, roe, wild, raw",88,FAO,09 Fish & Shellfish
+"Capelin, roe, wild, raw",74,FAO,09 Fish & Shellfish
+"Lumpsucker, wild, male, liver, raw",347,FAO,09 Fish & Shellfish
+"Atlantic cod, roe, wild, raw",103,FAO,09 Fish & Shellfish
+"Atlantic pomfret, wild, smoked product, salt, sugar",100.5,FAO,09 Fish & Shellfish
+"Mussel, edible part, raw",99,FAO,09 Fish & Shellfish
+"Arctic Char, wild, meat, raw",118,FAO,09 Fish & Shellfish
+"Arctic Char, wild, meat/skin, raw",130,FAO,09 Fish & Shellfish
+"Arctic Char, wild, meat, boiled",158,FAO,09 Fish & Shellfish
+"Arctic Char, wild, meat, dried",302,FAO,09 Fish & Shellfish
+"Arctic Char, wild, meat/skin, dried",436,FAO,09 Fish & Shellfish
+"Arctic Char, wild, skin, raw",349,FAO,09 Fish & Shellfish
+"Sculpin, wild, whole/no skin, raw",92,FAO,09 Fish & Shellfish
+"Cisco, wild, meat, raw",112,FAO,09 Fish & Shellfish
+"Cisco, wild, meat, baked",130,FAO,09 Fish & Shellfish
+"Cisco, wild, meat, smoked/dried",452,FAO,09 Fish & Shellfish
+"Inconnu, wild, meat, raw",144,FAO,09 Fish & Shellfish
+"Inconnu, wild, meat, baked",123,FAO,09 Fish & Shellfish
+"Inconnu, wild, meat, smoke/baked",199,FAO,09 Fish & Shellfish
+"Inconnu, wild, meat, smoke/dried",428,FAO,09 Fish & Shellfish
+"Loche, wild, meat, raw",81,FAO,09 Fish & Shellfish
+"Loche, wild, meat, baked",102,FAO,09 Fish & Shellfish
+"Loche, wild, head, baked",107,FAO,09 Fish & Shellfish
+"Loche, wild, liver, raw",451,FAO,09 Fish & Shellfish
+"Loche, wild, liver, baked",603,FAO,09 Fish & Shellfish
+"Loche, wild, skin, raw",111,FAO,09 Fish & Shellfish
+"Loche, wild, skin, baked",146,FAO,09 Fish & Shellfish
+"Pike, wild, meat, raw",87,FAO,09 Fish & Shellfish
+"Pike, wild, meat, baked",100,FAO,09 Fish & Shellfish
+"Trout, wild, meat, raw",126,FAO,09 Fish & Shellfish
+"Trout, wild, meat, baked",129,FAO,09 Fish & Shellfish
+"Whitefish, wild, meat, raw",109,FAO,09 Fish & Shellfish
+"Whitefish, wild, meat, baked",115,FAO,09 Fish & Shellfish
+"Whitefish, wild, meat, smoked/baked",233,FAO,09 Fish & Shellfish
+"Whitefish, wild, meat, smoked/dried",402,FAO,09 Fish & Shellfish
+"Whitefish, wild, eggs, raw",214,FAO,09 Fish & Shellfish
+"Whitefish, wild, eggs, baked",276,FAO,09 Fish & Shellfish
+"Whitefish, wild, head, baked",147,FAO,09 Fish & Shellfish
+"Whitefish, wild, esophagus, raw",100,FAO,09 Fish & Shellfish
+"Whitefish, crookedback, wild, meat, raw",84,FAO,09 Fish & Shellfish
+"Whitefish, crookedback, wild, meat, baked",111,FAO,09 Fish & Shellfish
+"Sea bass, wild, skinless fillet, raw",96,FAO,09 Fish & Shellfish

@@ -1,0 +1,436 @@
+alimento_normalizado,kcal_100g,archivo,categoria,medida_casera,gramos_aprox,kcal_por_porcion
+Alimento,,argen_carnes.xls,carne,porcion_carne_chica,100,
+Cerdo Chorizo,454.0,argen_carnes.xls,carne,porcion_carne_chica,100,454.0
+Cerdo Costilla A La Parrilla,320.0,argen_carnes.xls,carne,porcion_carne_chica,100,320.0
+Cerdo Costilla Flaca Cruda,250.0,argen_carnes.xls,carne,porcion_carne_chica,100,250.0
+Cerdo Jamon,211.0,argen_carnes.xls,carne,porcion_carne_chica,100,211.0
+Cerdo Jamon,473.0,argen_carnes.xls,carne,porcion_carne_chica,100,473.0
+Cerdo Panceta,670.0,argen_carnes.xls,carne,porcion_carne_chica,100,670.0
+Cordero Carne De La Paleta,99.0,argen_carnes.xls,carne,porcion_carne_chica,100,99.0
+Cordero Carne De La Paleta Flaca A La Parrilla,182.0,argen_carnes.xls,carne,porcion_carne_chica,100,182.0
+Pollo Asado A La Parrilla,168.0,argen_carnes.xls,carne,porcion_carne_chica,100,168.0
+Pollo Asado Al Horno,162.0,argen_carnes.xls,carne,porcion_carne_chica,100,162.0
+Pollo Carne-Pellejo-Menudos,88.0,argen_carnes.xls,carne,porcion_carne_chica,100,88.0
+Pollo Hervido,198.0,argen_carnes.xls,carne,porcion_carne_chica,100,198.0
+Rana Carne De La Pata Fresca Cruda,64.0,argen_carnes.xls,carne,porcion_carne_chica,100,64.0
+Hamburguesas Light Asada,199.0,argen_carnes.xls,carne,porcion_carne_chica,100,199.0
+Hamburguesas Regulares De Carne Vacuna Asadas,248.0,argen_carnes.xls,carne,porcion_carne_chica,100,248.0
+Salchichas Light Tipo Viena,136.0,argen_carnes.xls,carne,porcion_carne_chica,100,136.0
+Salchichas Light Tipo Viena Hervidas,139.0,argen_carnes.xls,carne,porcion_carne_chica,100,139.0
+Salchichas Tipo Viena,211.0,argen_carnes.xls,carne,porcion_carne_chica,100,211.0
+Salchichas Tipo Viena Hervidas,209.0,argen_carnes.xls,carne,porcion_carne_chica,100,209.0
+Vacuno Asado,170.0,argen_carnes.xls,carne,porcion_carne_chica,100,170.0
+Vacuno Bife A La Parrilla,189.0,argen_carnes.xls,carne,porcion_carne_chica,100,189.0
+Vacuno Bife Angosto C/C De Novillito,190.0,argen_carnes.xls,carne,porcion_carne_chica,100,190.0
+Vacuno Bola De Lomo De Novillito,114.0,argen_carnes.xls,carne,porcion_carne_chica,100,114.0
+Vacuno Brazuelo De Novillito,120.0,argen_carnes.xls,carne,porcion_carne_chica,100,120.0
+Vacuno Caracu (Medula De Hueso Largo),785.0,argen_carnes.xls,carne,porcion_carne_chica,100,785.0
+Vacuno Colita De Cuadril De Novillito,143.0,argen_carnes.xls,carne,porcion_carne_chica,100,143.0
+Vacuno Corazon De Cuadril De Novillito,116.0,argen_carnes.xls,carne,porcion_carne_chica,100,116.0
+Vacuno Cuadril Y Bife Angosto Flaco,111.0,argen_carnes.xls,carne,porcion_carne_chica,100,111.0
+Vacuno En Conserva Enlatado,224.0,argen_carnes.xls,carne,porcion_carne_chica,100,224.0
+Vacuno Hamburguesas Cocidas,248.0,argen_carnes.xls,carne,porcion_carne_chica,100,248.0
+Vacuno Hamburguesas Crudas,218.0,argen_carnes.xls,carne,porcion_carne_chica,100,218.0
+Vacuno Hamburguesas Light Cocidas,199.0,argen_carnes.xls,carne,porcion_carne_chica,100,199.0
+Vacuno Hamburguesas Light Crudas,175.0,argen_carnes.xls,carne,porcion_carne_chica,100,175.0
+Vacuno Higado,132.0,argen_carnes.xls,carne,porcion_carne_chica,100,132.0
+Vacuno Jugo De Carne,33.0,argen_carnes.xls,carne,porcion_carne_chica,100,33.0
+Vacuno Lomo,116.0,argen_carnes.xls,carne,porcion_carne_chica,100,116.0
+Vacuno Nalga De Novillito,106.0,argen_carnes.xls,carne,porcion_carne_chica,100,106.0
+Vacuno Nalga,97.0,argen_carnes.xls,carne,porcion_carne_chica,100,97.0
+Vacuno Paleta De Novillito,125.0,argen_carnes.xls,carne,porcion_carne_chica,100,125.0
+Vacuno Paletin O Marucha De Novillito,132.0,argen_carnes.xls,carne,porcion_carne_chica,100,132.0
+Vacuno Palomita De Novillito,116.0,argen_carnes.xls,carne,porcion_carne_chica,100,116.0
+Vacuno Pasta De Higado,335.0,argen_carnes.xls,carne,porcion_carne_chica,100,335.0
+Vacuno Peceto De Novillito,125.0,argen_carnes.xls,carne,porcion_carne_chica,100,125.0
+Vacuno Pecho De Novillito,139.0,argen_carnes.xls,carne,porcion_carne_chica,100,139.0
+Vacuno Rinon,137.0,argen_carnes.xls,carne,porcion_carne_chica,100,137.0
+Vacuno Tapa De Cuadril De Novillito,211.0,argen_carnes.xls,carne,porcion_carne_chica,100,211.0
+Vacuno Ternera Costilla Flaca A La Parrilla,139.0,argen_carnes.xls,carne,porcion_carne_chica,100,139.0
+Vacuno Ternera Costilla Flaca,95.0,argen_carnes.xls,carne,porcion_carne_chica,100,95.0
+Vacuno Tortuguita De Novillito,154.0,argen_carnes.xls,carne,porcion_carne_chica,100,154.0
+Vacuno Vacio A La Parrilla,258.0,argen_carnes.xls,carne,porcion_carne_chica,100,258.0
+Vacuno Vacio Al Horno,241.0,argen_carnes.xls,carne,porcion_carne_chica,100,241.0
+Vacuno Vacio De Novillito,174.0,argen_carnes.xls,carne,porcion_carne_chica,100,174.0
+Vacuno Vacio Flaco,171.0,argen_carnes.xls,carne,porcion_carne_chica,100,171.0
+Bife,233.0,argen_carnes.xls,carne,porcion_carne_chica,100,233.0
+Bife,120.0,argen_carnes.xls,carne,porcion_carne_chica,100,120.0
+Nalga Cocida,197.0,argen_carnes.xls,carne,porcion_carne_chica,100,197.0
+Nalga Cruda,98.0,argen_carnes.xls,carne,porcion_carne_chica,100,98.0
+Paleta Cocida,207.0,argen_carnes.xls,carne,porcion_carne_chica,100,207.0
+Paleta Cruda,107.0,argen_carnes.xls,carne,porcion_carne_chica,100,107.0
+Vacio,231.0,argen_carnes.xls,carne,porcion_carne_chica,100,231.0
+Vacio,105.0,argen_carnes.xls,carne,porcion_carne_chica,100,105.0
+Bife,236.0,argen_carnes.xls,carne,porcion_carne_chica,100,236.0
+Bife,120.0,argen_carnes.xls,carne,porcion_carne_chica,100,120.0
+Nalga Cocida,177.0,argen_carnes.xls,carne,porcion_carne_chica,100,177.0
+Nalga Cruda,103.0,argen_carnes.xls,carne,porcion_carne_chica,100,103.0
+Paleta Cocida,192.0,argen_carnes.xls,carne,porcion_carne_chica,100,192.0
+Paleta Cruda,106.0,argen_carnes.xls,carne,porcion_carne_chica,100,106.0
+Vacio,203.0,argen_carnes.xls,carne,porcion_carne_chica,100,203.0
+Vacio,107.0,argen_carnes.xls,carne,porcion_carne_chica,100,107.0
+"Jamon ""Villafranca Novissimo"".El Bierzo. Reducido En Colesterol",98.0,argen_carnes.xls,carne,porcion_carne_chica,100,98.0
+"Lomo Ahumado De Cerdo ""Villafranca Novissimo"". El Bierzo. Reducido En Sodio Y En Colesterol",95.0,argen_carnes.xls,carne,porcion_carne_chica,100,95.0
+"Mortadela"" Villafranca Novissimo"". El Bierzo - Reducida En Grasa Y En Sodio",139.0,argen_carnes.xls,carne,porcion_carne_chica,100,139.0
+"Pastron Ahumado ""Villafranca Novissimo"". El Bierzo. Reducido En Sodio Y En Colesterol",79.0,argen_carnes.xls,carne,porcion_carne_chica,100,79.0
+"Salame ""Villafranca Novissimo"".El Bierzo.Reducido En Sodio Y En Colesterol",134.0,argen_carnes.xls,carne,porcion_carne_chica,100,134.0
+Carne De Vizcacha,46.0,argen_carnes.xls,carne,porcion_carne_chica,100,46.0
+Alimento,,argen_cereales.xls,otros,otros,0,
+Amaranto Semilla Cruda (Amarantus Caudatus),384.0,argen_cereales.xls,otros,otros,0,0.0
+Amaranto Semilla Cruda (Amarantus Hipochondriacus),381.0,argen_cereales.xls,otros,otros,0,0.0
+Amaranto Semilla Cruda (Amarantus Mantegazzianus),388.0,argen_cereales.xls,otros,otros,0,0.0
+Amaranto Semillia Cruda (Amarantus Cruentus),384.0,argen_cereales.xls,otros,otros,0,0.0
+Arroz Grano Blanco Pulido,339.0,argen_cereales.xls,otros,otros,0,0.0
+Arroz Grano Blanco Pulido Hervido,82.0,argen_cereales.xls,otros,otros,0,0.0
+Avena Grano Arrollada Cruda,383.0,argen_cereales.xls,otros,otros,0,0.0
+Avena Grano Arrollada Cruda,343.0,argen_cereales.xls,otros,otros,0,0.0
+Avena Grano Arrollada Hervida,86.0,argen_cereales.xls,otros,otros,0,0.0
+Cebada Grano Mondado Perlado,317.0,argen_cereales.xls,otros,otros,0,0.0
+Cebada Grano Mondado Perlado Hervido,82.0,argen_cereales.xls,otros,otros,0,0.0
+"Cebada Harina ""Genser"" Cruda",328.0,argen_cereales.xls,otros,otros,0,0.0
+Centeno Harina Clara Cruda,332.0,argen_cereales.xls,otros,otros,0,0.0
+Centeno Pan,206.0,argen_cereales.xls,otros,otros,0,0.0
+Centeno Pan Con Harina Integral,214.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Amarillo Leales Grano Entero,346.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Amarillo Pisingallo Grano Entero,345.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Amarillo Semola Grano Entero,305.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Amarillo Tropico 327 Grano Entero,344.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Blanco 8 Rayas Grano Entero,340.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Blanco Perla Grano Entero,335.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Choclo,97.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Grano Entero (Zea Mays Spp),346.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Harina Amarilla (Polenta) Cruda,369.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Harina Amarilla (Polenta) Cruda,338.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Harina Amarilla (Polenta) Hervida,68.0,argen_cereales.xls,otros,otros,0,0.0
+Maiz Pan,275.0,argen_cereales.xls,otros,otros,0,0.0
+"Trigo Bizcochos ""Bay Biscuit""",382.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Bizcochos Vainillas,401.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Galleta De Campo,300.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Galleta Marinera,361.0,argen_cereales.xls,otros,otros,0,0.0
+"Trigo Galletitas De Agua ""Express""",442.0,argen_cereales.xls,otros,otros,0,0.0
+"Trigo Galletitas De Agua ""Traviata""",437.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Galletitas De Harina Blanca,410.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Galletitas De Harina Integral,411.0,argen_cereales.xls,otros,otros,0,0.0
+"Trigo Galletitas Dulces ""Manon""",417.0,argen_cereales.xls,otros,otros,0,0.0
+"Trigo Galletitas Dulces ""Minue""",419.0,argen_cereales.xls,otros,otros,0,0.0
+"Trigo Galletitas Oblea ""Opera""",442.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Grano Entero,347.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Grisines,342.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Harina Cuatro Ceros,348.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Harina Integral,308.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Harina Tres Cero,340.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan Aleman,264.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan Criollo,280.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan De Salvado,223.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan De Viena,307.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan Frances,268.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan Frances,269.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan Negro Con Levadura Agria,271.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan Negro Con Levadura Comprimida,269.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Pan Negro Sin Levadura,269.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Salvado,171.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Semola Cruda,349.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Semola Hervida,70.0,argen_cereales.xls,otros,otros,0,0.0
+Trigo Tallarines S Hervidos,98.0,argen_cereales.xls,otros,otros,0,0.0
+Alimento,,argen_frutas.xls,fruta,taza_verduras_crudas,65,
+Aceituna De Monte,93.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,60.4
+Aceituna Verde Pulpa Encurtida,144.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,93.6
+Anana Enlatado Contenido Envase,87.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,56.6
+Anana Pulpa,58.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,37.7
+Banana Pulpa Fresca,99.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,64.4
+Cereza Pulpa Fresca,68.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,44.2
+Ciruela Pasa Cruda,255.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,165.8
+Ciruela Pasa Hervida,165.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,107.2
+Ciruela Pulpa Fresca,56.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,36.4
+Coco Pulpa,382.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,248.3
+Damasco Pulpa,57.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,37.0
+Doca,49.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,31.8
+Durazno Orejon Pulpa Y Piel Hervido,40.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,26.0
+Durazno Pulpa Envasado Al Natural,75.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,48.8
+Durazno Pulpa,51.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,33.2
+Frutilla Pulpa Fresca Cruda,41.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,26.6
+Granada Pulpa Fresca,75.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,48.8
+Guaranina Brumelia Obtusifolia,147.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,95.6
+Higo Pulpa Fresca,88.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,57.2
+Kaki Pulpa,87.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,56.6
+Kinoto Pulpa Y Cascara,73.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,47.4
+Limon Pulpa,44.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,28.6
+Manzana Hervida,26.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,16.9
+Manzana Pulpa Fresca Cruda,64.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,41.6
+Mburucuya Maduro,84.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,54.6
+Mburucuya Verde,59.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,38.4
+Melon Pulpa,28.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,18.2
+Membrillo Pulpa,58.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,37.7
+Mora Fresca,69.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,44.8
+Nandapiri,70.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,45.5
+Palta Pulpa Fresca,258.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,167.7
+Pera Orejon,299.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,194.4
+Pera Pulpa Fresca Cruda,70.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,45.5
+Pomelo Pulpa,26.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,16.9
+Sandia Pulpa Fresca Cruda,31.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,20.2
+Ubajay,49.0,argen_frutas.xls,fruta,taza_verduras_crudas,65,31.8
+Alimento,,argen_grasas.xls,otros,otros,0,
+Aceite Comestible Mezcla Lira 85% Girasol 15% Oliva,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite Comestible Mezcla Patito 94% Girasol 6% Maiz,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Canola,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Girasol Familiar,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Girasol Ideal,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Girasol Natura,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Maiz Arcor,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Maiz Cocinero,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Maiz Mazzola,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Oliva Cocinero,900.0,argen_grasas.xls,otros,otros,0,0.0
+Aceite De Uva Cocinero,900.0,argen_grasas.xls,otros,otros,0,0.0
+Grasa De Cerdo,898.0,argen_grasas.xls,otros,otros,0,0.0
+Grasa Vacuna,899.0,argen_grasas.xls,otros,otros,0,0.0
+Margarina 100% Vegetal Delicia,747.0,argen_grasas.xls,otros,otros,0,0.0
+Margarina 100% Vegetal Manty (En Pote Y En Pan),747.0,argen_grasas.xls,otros,otros,0,0.0
+Margarina Reducida En Calorias Manty Liviana,504.0,argen_grasas.xls,otros,otros,0,0.0
+Alimento,,argen_huevo.xls,otros,otros,0,
+Huevo De Codorniz Entero,174.0,argen_huevo.xls,otros,otros,0,0.0
+Huevo De Gallina Clara,54.0,argen_huevo.xls,otros,otros,0,0.0
+Huevo De Gallina Clara Cruda,48.0,argen_huevo.xls,otros,otros,0,0.0
+Huevo De Gallina Entero,156.0,argen_huevo.xls,otros,otros,0,0.0
+Huevo De Gallina Frito,196.0,argen_huevo.xls,otros,otros,0,0.0
+Huevo De Gallina Poche,152.0,argen_huevo.xls,otros,otros,0,0.0
+Huevo De Gallina Yema Cruda,325.0,argen_huevo.xls,otros,otros,0,0.0
+Alimento,,argen_leche.xls,otros,otros,0,
+Leche Condensada Nestle,328.0,argen_leche.xls,otros,otros,0,0.0
+Leche De Burra Entera Fluida,45.0,argen_leche.xls,otros,otros,0,0.0
+Leche De Cabra Entera Fluida,78.0,argen_leche.xls,otros,otros,0,0.0
+Leche De Oveja Entera Fluida,99.0,argen_leche.xls,otros,otros,0,0.0
+Leche De Vaca Entera Fluida Adicionada Con Vitamina A,57.0,argen_leche.xls,otros,otros,0,0.0
+Leche De Vaca Entera Fluida Pasteurizada,57.0,argen_leche.xls,otros,otros,0,0.0
+Leche De Vaca Parcialm. Descremada Adic. Con Vit A Y D,44.0,argen_leche.xls,otros,otros,0,0.0
+Leche En Polvo Descremada,370.0,argen_leche.xls,otros,otros,0,0.0
+Leche En Polvo Entera,489.0,argen_leche.xls,otros,otros,0,0.0
+Leche Humana Entera En Polvo,520.0,argen_leche.xls,otros,otros,0,0.0
+Leche Humana Entera Fluida,71.0,argen_leche.xls,otros,otros,0,0.0
+Manteca Fresca,758.0,argen_leche.xls,otros,otros,0,0.0
+Queso Crema Entero Untable,246.0,argen_leche.xls,otros,otros,0,0.0
+Queso Descremado Untable,82.0,argen_leche.xls,otros,otros,0,0.0
+Queso Petit Suisse,182.0,argen_leche.xls,otros,otros,0,0.0
+Queso Semidescremado Untable,104.0,argen_leche.xls,otros,otros,0,0.0
+Queso Blanco Argentino Semimagro,104.0,argen_leche.xls,otros,otros,0,0.0
+Queso Belpaese,309.0,argen_leche.xls,otros,otros,0,0.0
+Queso Camembert,287.0,argen_leche.xls,otros,otros,0,0.0
+Queso Cremoso,302.0,argen_leche.xls,otros,otros,0,0.0
+Queso Cuartirolo,291.0,argen_leche.xls,otros,otros,0,0.0
+Queso Doble Crema,260.0,argen_leche.xls,otros,otros,0,0.0
+Queso Limburgues,324.0,argen_leche.xls,otros,otros,0,0.0
+Queso Mozarella,282.0,argen_leche.xls,otros,otros,0,0.0
+Queso Por Salut,301.0,argen_leche.xls,otros,otros,0,0.0
+Queso Azul,377.0,argen_leche.xls,otros,otros,0,0.0
+Queso Cheddar,357.0,argen_leche.xls,otros,otros,0,0.0
+Queso Chubut,328.0,argen_leche.xls,otros,otros,0,0.0
+Queso Fontina,340.0,argen_leche.xls,otros,otros,0,0.0
+Queso Gorgonzola,480.0,argen_leche.xls,otros,otros,0,0.0
+Queso Gruyere,379.0,argen_leche.xls,otros,otros,0,0.0
+Queso Holanda,345.0,argen_leche.xls,otros,otros,0,0.0
+Queso Pategras,410.0,argen_leche.xls,otros,otros,0,0.0
+Queso Roquefort,426.0,argen_leche.xls,otros,otros,0,0.0
+Queso Suizo,404.0,argen_leche.xls,otros,otros,0,0.0
+Queso Tafi,358.0,argen_leche.xls,otros,otros,0,0.0
+Queso Tandil,345.0,argen_leche.xls,otros,otros,0,0.0
+Queso Tipo Mar Del Plata,332.0,argen_leche.xls,otros,otros,0,0.0
+Queso Goya,402.0,argen_leche.xls,otros,otros,0,0.0
+Queso Parmesano,350.0,argen_leche.xls,otros,otros,0,0.0
+Queso Provolone,391.0,argen_leche.xls,otros,otros,0,0.0
+Queso Reggianito,365.0,argen_leche.xls,otros,otros,0,0.0
+Queso Sardo,402.0,argen_leche.xls,otros,otros,0,0.0
+Queso Sbrinz,357.0,argen_leche.xls,otros,otros,0,0.0
+Ricota De Leche Entera,168.0,argen_leche.xls,otros,otros,0,0.0
+Ricotta Semidescremada,168.0,argen_leche.xls,otros,otros,0,0.0
+Yogur Descremado,59.0,argen_leche.xls,otros,otros,0,0.0
+Yogur Descremado Bebible,30.0,argen_leche.xls,otros,otros,0,0.0
+Yogur Descremado Fortificado Con Ca,48.0,argen_leche.xls,otros,otros,0,0.0
+Yogur Entero Bebible,82.0,argen_leche.xls,otros,otros,0,0.0
+Yogur Entero Natural,66.0,argen_leche.xls,otros,otros,0,0.0
+Yogur Entero Saborizado,88.0,argen_leche.xls,otros,otros,0,0.0
+Alimento,,argen_misc.xls,otros,otros,0,
+Mayonesa Reducida En Calorias,320.0,argen_misc.xls,otros,otros,0,0.0
+Mayonesa Ri-K,723.0,argen_misc.xls,otros,otros,0,0.0
+Mortadela,245.0,argen_misc.xls,otros,otros,0,0.0
+Polen De Totora,288.0,argen_misc.xls,otros,otros,0,0.0
+Alimento,,argen_pescados.xls,pescado,porcion_carne_chica,100,
+Abadejo Carne,72.0,argen_pescados.xls,pescado,porcion_carne_chica,100,72.0
+Amarillo A La Parrilla Musculo Dorsal,183.0,argen_pescados.xls,pescado,porcion_carne_chica,100,183.0
+Amarillo Al Horno Musculo Dorsal,233.0,argen_pescados.xls,pescado,porcion_carne_chica,100,233.0
+Amarillo Musculo Dorsal,141.0,argen_pescados.xls,pescado,porcion_carne_chica,100,141.0
+Amarillo Frito Musculo Dorsal,232.0,argen_pescados.xls,pescado,porcion_carne_chica,100,232.0
+Amarillo Hervido Musculo Dorsal,180.0,argen_pescados.xls,pescado,porcion_carne_chica,100,180.0
+Anchoa Fresca Cruda Carne,92.0,argen_pescados.xls,pescado,porcion_carne_chica,100,92.0
+Anchoita Fresca Cruda Carne,129.0,argen_pescados.xls,pescado,porcion_carne_chica,100,129.0
+Armado Al Horno Musculo Dorsal,128.0,argen_pescados.xls,pescado,porcion_carne_chica,100,128.0
+Armado Musculo Dorsal,75.0,argen_pescados.xls,pescado,porcion_carne_chica,100,75.0
+Armado Musculo Ventral,103.0,argen_pescados.xls,pescado,porcion_carne_chica,100,103.0
+Armado Frito Musculo Dorsal,130.0,argen_pescados.xls,pescado,porcion_carne_chica,100,130.0
+Armado Hervido Musculo Dorsal,102.0,argen_pescados.xls,pescado,porcion_carne_chica,100,102.0
+Besugo Carne,100.0,argen_pescados.xls,pescado,porcion_carne_chica,100,100.0
+Boga Fresca A La Parrilla Musculo Dorsal,150.0,argen_pescados.xls,pescado,porcion_carne_chica,100,150.0
+Boga Fresca Al Horno Musculo Dorsal,150.0,argen_pescados.xls,pescado,porcion_carne_chica,100,150.0
+Boga Fresca Cruda Musculo Ventral,180.0,argen_pescados.xls,pescado,porcion_carne_chica,100,180.0
+Boga Fresca Frita Musculo Dorsal,168.0,argen_pescados.xls,pescado,porcion_carne_chica,100,168.0
+Boga Fresca Hervida Musculo Dorsal,158.0,argen_pescados.xls,pescado,porcion_carne_chica,100,158.0
+Bonito Carne,219.0,argen_pescados.xls,pescado,porcion_carne_chica,100,219.0
+Brotola Fresca Cruda Carne,83.0,argen_pescados.xls,pescado,porcion_carne_chica,100,83.0
+Caballa Fresca Cruda Carne,232.0,argen_pescados.xls,pescado,porcion_carne_chica,100,232.0
+Castaneta Fresca Cruda Carne,95.0,argen_pescados.xls,pescado,porcion_carne_chica,100,95.0
+Castaneta Fresca Cruda Entera,170.0,argen_pescados.xls,pescado,porcion_carne_chica,100,170.0
+Congrio Carne,107.0,argen_pescados.xls,pescado,porcion_carne_chica,100,107.0
+Cornalito Entero,86.0,argen_pescados.xls,pescado,porcion_carne_chica,100,86.0
+Corvina Blanca Fresca Cruda Carne,97.0,argen_pescados.xls,pescado,porcion_carne_chica,100,97.0
+Corvina Negra Fresca Cruda Carne,84.0,argen_pescados.xls,pescado,porcion_carne_chica,100,84.0
+Dorado Carne,80.0,argen_pescados.xls,pescado,porcion_carne_chica,100,80.0
+Gatuso Carne,72.0,argen_pescados.xls,pescado,porcion_carne_chica,100,72.0
+Jurel Carne,149.0,argen_pescados.xls,pescado,porcion_carne_chica,100,149.0
+Lenguado Carne,78.0,argen_pescados.xls,pescado,porcion_carne_chica,100,78.0
+Lisa Fresca Cruda Carne,146.0,argen_pescados.xls,pescado,porcion_carne_chica,100,146.0
+Merluza Fresca Cruda Carne,81.0,argen_pescados.xls,pescado,porcion_carne_chica,100,81.0
+Mero Carne,83.0,argen_pescados.xls,pescado,porcion_carne_chica,100,83.0
+Moncholo Al Horno Musculo Dorsal,189.0,argen_pescados.xls,pescado,porcion_carne_chica,100,189.0
+Moncholo Musculo Dorsal,112.0,argen_pescados.xls,pescado,porcion_carne_chica,100,112.0
+Moncholo Musculo Ventral,148.0,argen_pescados.xls,pescado,porcion_carne_chica,100,148.0
+Moncholo Hervido Musculo Dorsal,187.0,argen_pescados.xls,pescado,porcion_carne_chica,100,187.0
+Palometa Fresca Cruda Carne,215.0,argen_pescados.xls,pescado,porcion_carne_chica,100,215.0
+Pargo Carne,113.0,argen_pescados.xls,pescado,porcion_carne_chica,100,113.0
+Pati A La Parrilla Musculo Dorsal,169.0,argen_pescados.xls,pescado,porcion_carne_chica,100,169.0
+Pati Al Horno Musculo Dorsal,183.0,argen_pescados.xls,pescado,porcion_carne_chica,100,183.0
+Pati Carne,90.0,argen_pescados.xls,pescado,porcion_carne_chica,100,90.0
+Pati Musculo Dorsal,161.0,argen_pescados.xls,pescado,porcion_carne_chica,100,161.0
+Pati Musculo Ventral,159.0,argen_pescados.xls,pescado,porcion_carne_chica,100,159.0
+Pati Frito Musculo Dorsal,215.0,argen_pescados.xls,pescado,porcion_carne_chica,100,215.0
+Pati Hervido Musculo Dorsal,133.0,argen_pescados.xls,pescado,porcion_carne_chica,100,133.0
+Pejerrey Agua Dulce Carne,77.0,argen_pescados.xls,pescado,porcion_carne_chica,100,77.0
+Pejerrey Mar Carne,86.0,argen_pescados.xls,pescado,porcion_carne_chica,100,86.0
+Pescadilla Fresca Carne,97.0,argen_pescados.xls,pescado,porcion_carne_chica,100,97.0
+Pez Gallo Carne,84.0,argen_pescados.xls,pescado,porcion_carne_chica,100,84.0
+Pez Palo Carne,96.0,argen_pescados.xls,pescado,porcion_carne_chica,100,96.0
+Rubio Carne,109.0,argen_pescados.xls,pescado,porcion_carne_chica,100,109.0
+Sabalo A La Parrilla Musculo Dorsal,130.0,argen_pescados.xls,pescado,porcion_carne_chica,100,130.0
+Sabalo Al Horno Musculo Dorsal,153.0,argen_pescados.xls,pescado,porcion_carne_chica,100,153.0
+Sabalo Musculo Dorsal,145.0,argen_pescados.xls,pescado,porcion_carne_chica,100,145.0
+Sabalo Musculo Ventral,151.0,argen_pescados.xls,pescado,porcion_carne_chica,100,151.0
+Sabalo Frito Musculo Dorsal,166.0,argen_pescados.xls,pescado,porcion_carne_chica,100,166.0
+Sabalo Hervido Musculo Dorsal,130.0,argen_pescados.xls,pescado,porcion_carne_chica,100,130.0
+Sardina Fueguina Fresca Cruda Carne,136.0,argen_pescados.xls,pescado,porcion_carne_chica,100,136.0
+Surubi Al Horno Musculo Dorsal,255.0,argen_pescados.xls,pescado,porcion_carne_chica,100,255.0
+Surubi Carne,110.0,argen_pescados.xls,pescado,porcion_carne_chica,100,110.0
+Surubi Musculo Dorsal,187.0,argen_pescados.xls,pescado,porcion_carne_chica,100,187.0
+Surubi Frito Musculo Dorsal,269.0,argen_pescados.xls,pescado,porcion_carne_chica,100,269.0
+Surubi Hervido Musculo Dorsal,186.0,argen_pescados.xls,pescado,porcion_carne_chica,100,186.0
+Tararira Fresca Cruda Carne,79.0,argen_pescados.xls,pescado,porcion_carne_chica,100,79.0
+Testolin Carne,98.0,argen_pescados.xls,pescado,porcion_carne_chica,100,98.0
+Calamar (Tubo Aletas Y Tentaculos),79.0,argen_pescados.xls,pescado,porcion_carne_chica,100,79.0
+Calamar Entero,80.0,argen_pescados.xls,pescado,porcion_carne_chica,100,80.0
+Camaron Carne De Cola,91.0,argen_pescados.xls,pescado,porcion_carne_chica,100,91.0
+Centolla Fresca Carne Cruda,66.0,argen_pescados.xls,pescado,porcion_carne_chica,100,66.0
+Centolla Fresca (Carne De Pata Solamente),83.0,argen_pescados.xls,pescado,porcion_carne_chica,100,83.0
+Langostino Carne De Cola,97.0,argen_pescados.xls,pescado,porcion_carne_chica,100,97.0
+Mejillon (Capturado En Primavera),95.0,argen_pescados.xls,pescado,porcion_carne_chica,100,95.0
+Mejillon Carne,64.0,argen_pescados.xls,pescado,porcion_carne_chica,100,64.0
+Mejillon Pre- Carne,84.0,argen_pescados.xls,pescado,porcion_carne_chica,100,84.0
+Ancho Pasta,202.0,argen_pescados.xls,pescado,porcion_carne_chica,100,202.0
+Caballa Tronco,212.0,argen_pescados.xls,pescado,porcion_carne_chica,100,212.0
+Alimento,,argen_prodaz.xls,otros,otros,0,
+Batata Dulce,263.0,argen_prodaz.xls,otros,otros,0,0.0
+Chocolatin,549.0,argen_prodaz.xls,otros,otros,0,0.0
+Ciruela Mermelada,306.0,argen_prodaz.xls,otros,otros,0,0.0
+Dulce De Leche,314.0,argen_prodaz.xls,otros,otros,0,0.0
+Dulce De Leche Light,260.0,argen_prodaz.xls,otros,otros,0,0.0
+Dulce De Leche Para Reposteria,317.0,argen_prodaz.xls,otros,otros,0,0.0
+Dulce De Leche Repostero Suelto,337.0,argen_prodaz.xls,otros,otros,0,0.0
+Durazno Mermelada,304.0,argen_prodaz.xls,otros,otros,0,0.0
+Frutilla Mermelada,309.0,argen_prodaz.xls,otros,otros,0,0.0
+Leche Dulce De Leche,341.0,argen_prodaz.xls,otros,otros,0,0.0
+Alimento,,argen_vegetales.xls,otros,otros,0,
+Acelga Hoja,15.0,argen_vegetales.xls,otros,otros,0,0.0
+Acelga Tallo,8.0,argen_vegetales.xls,otros,otros,0,0.0
+Achicoria De Monte,46.0,argen_vegetales.xls,otros,otros,0,0.0
+Achicoria Hoja Fresca Cruda,21.0,argen_vegetales.xls,otros,otros,0,0.0
+Achira (Raices),34.0,argen_vegetales.xls,otros,otros,0,0.0
+Ajo Bulbo,99.0,argen_vegetales.xls,otros,otros,0,0.0
+Alcaucil Inflorescencia,63.0,argen_vegetales.xls,otros,otros,0,0.0
+Alfalfa Hoja Fresca Cruda,57.0,argen_vegetales.xls,otros,otros,0,0.0
+Arveja Semilla Fresca Cruda,102.0,argen_vegetales.xls,otros,otros,0,0.0
+Arveja Semilla Fresca Enlatada,105.0,argen_vegetales.xls,otros,otros,0,0.0
+Arveja Semilla Fresca Hervida,77.0,argen_vegetales.xls,otros,otros,0,0.0
+Arveja Semilla Seca Entera Cruda,304.0,argen_vegetales.xls,otros,otros,0,0.0
+Arveja Semilla Seca Partida Cruda,311.0,argen_vegetales.xls,otros,otros,0,0.0
+Arveja Semilla Seca Partida Hervida,129.0,argen_vegetales.xls,otros,otros,0,0.0
+Avellana Pepita Seca,668.0,argen_vegetales.xls,otros,otros,0,0.0
+Batata Frita,212.0,argen_vegetales.xls,otros,otros,0,0.0
+Batata Hervida,92.0,argen_vegetales.xls,otros,otros,0,0.0
+Batata Raiz Fresca Cruda,84.0,argen_vegetales.xls,otros,otros,0,0.0
+Berenjena Pulpa Fresca Cruda,28.0,argen_vegetales.xls,otros,otros,0,0.0
+Berro (Hojas Y Tallo),23.0,argen_vegetales.xls,otros,otros,0,0.0
+Brocoli Tallo De Hoja,37.0,argen_vegetales.xls,otros,otros,0,0.0
+Cardo (Penca Y Hojas),25.0,argen_vegetales.xls,otros,otros,0,0.0
+Castana De Para Pepita Cruda,731.0,argen_vegetales.xls,otros,otros,0,0.0
+Cebolla Blanca Bulbo Cruda,17.0,argen_vegetales.xls,otros,otros,0,0.0
+Cebolla Blanca Bulbo Hervida,10.0,argen_vegetales.xls,otros,otros,0,0.0
+Chaucha Vaina Y Semilla Cruda,22.0,argen_vegetales.xls,otros,otros,0,0.0
+Coliflor Pimpollo,31.0,argen_vegetales.xls,otros,otros,0,0.0
+Diente De Leon Hoja,33.0,argen_vegetales.xls,otros,otros,0,0.0
+Escarola Crespa Hoja Cruda,24.0,argen_vegetales.xls,otros,otros,0,0.0
+Esparrago Tallo Tierno,26.0,argen_vegetales.xls,otros,otros,0,0.0
+Espinaca Hoja Fresca Cruda,24.0,argen_vegetales.xls,otros,otros,0,0.0
+Espinaca Hoja Fresca Hervida,13.0,argen_vegetales.xls,otros,otros,0,0.0
+Garbanzo Grano Entero Seco Hervido,125.0,argen_vegetales.xls,otros,otros,0,0.0
+Habas Semilla Inmadura Fresca Cruda,99.0,argen_vegetales.xls,otros,otros,0,0.0
+Hinojo Tallo,24.0,argen_vegetales.xls,otros,otros,0,0.0
+Lengua De Vaca Hojas Tejido,43.0,argen_vegetales.xls,otros,otros,0,0.0
+Lenteja Semilla Entera Seca Cruda,350.0,argen_vegetales.xls,otros,otros,0,0.0
+Lupino Andino Semilla,399.0,argen_vegetales.xls,otros,otros,0,0.0
+Lupino Andino Semilla,411.0,argen_vegetales.xls,otros,otros,0,0.0
+Mani Semilla Con Piel,576.0,argen_vegetales.xls,otros,otros,0,0.0
+Mani Semilla Sin Piel Tostado,592.0,argen_vegetales.xls,otros,otros,0,0.0
+Mastuerzo (Hoja Y Peciolo),51.0,argen_vegetales.xls,otros,otros,0,0.0
+Mastuerzo Hoja,50.0,argen_vegetales.xls,otros,otros,0,0.0
+Nabo Hervido,11.0,argen_vegetales.xls,otros,otros,0,0.0
+Nabo Raiz (Pulpa),10.0,argen_vegetales.xls,otros,otros,0,0.0
+Nuez Pepita,715.0,argen_vegetales.xls,otros,otros,0,0.0
+Papa Pulpa Fresca Cruda,88.0,argen_vegetales.xls,otros,otros,0,0.0
+Papa Pulpa Frita Baston,162.0,argen_vegetales.xls,otros,otros,0,0.0
+Papa Pulpa Hervida,88.0,argen_vegetales.xls,otros,otros,0,0.0
+Pepino Pulpa,15.0,argen_vegetales.xls,otros,otros,0,0.0
+Perejil Hoja,60.0,argen_vegetales.xls,otros,otros,0,0.0
+Pinon De Araucaria Pepita,221.0,argen_vegetales.xls,otros,otros,0,0.0
+Pistacho Pepita,648.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Alubia Semilla Seco,337.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Carioca Semilla Seco,336.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Colorado Semilla Seco,333.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Grand Berry Semilla Seco,336.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Great Northern Semilla Seco,326.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Negro Semilla Seco,306.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Novy Bean Semilla Seco,336.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Oval Semilla Seco,328.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Pallares Semilla Seco,322.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Small Red Semilla Seco,336.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Semilla Enlatado,89.0,argen_vegetales.xls,otros,otros,0,0.0
+Poroto Semilla Seco,290.0,argen_vegetales.xls,otros,otros,0,0.0
+Puerro (Bulbo Tallo Y Hojas),45.0,argen_vegetales.xls,otros,otros,0,0.0
+Quinua Harina,341.0,argen_vegetales.xls,otros,otros,0,0.0
+Quinua Semilla Cruda,354.0,argen_vegetales.xls,otros,otros,0,0.0
+Rabanito Raiz,29.0,argen_vegetales.xls,otros,otros,0,0.0
+Remolacha Tuberculo Fresca Cruda,54.0,argen_vegetales.xls,otros,otros,0,0.0
+Remolacha Tuberculo Hervida,36.0,argen_vegetales.xls,otros,otros,0,0.0
+Repollito Bruselas Hoja,58.0,argen_vegetales.xls,otros,otros,0,0.0
+Repollo Blanco Hoja,17.0,argen_vegetales.xls,otros,otros,0,0.0
+Repollo Blanco Hoja Hervido,16.0,argen_vegetales.xls,otros,otros,0,0.0
+Salsifi Raiz,85.0,argen_vegetales.xls,otros,otros,0,0.0
+Soja Ft11 Poroto Seco,368.0,argen_vegetales.xls,otros,otros,0,0.0
+Soja Semilla Madura Seca Cruda,356.0,argen_vegetales.xls,otros,otros,0,0.0
+Tapioca Cruda (Harina Mandioca),336.0,argen_vegetales.xls,otros,otros,0,0.0
+Tapioca Hervida,55.0,argen_vegetales.xls,otros,otros,0,0.0
+Tomate,20.0,argen_vegetales.xls,otros,otros,0,0.0
+Tomate Hervido,21.0,argen_vegetales.xls,otros,otros,0,0.0
+Tomate Jugo,11.0,argen_vegetales.xls,otros,otros,0,0.0
+Verdolaga Hoja,32.0,argen_vegetales.xls,otros,otros,0,0.0
+Verdolaga Hoja Y Tallo Fresca Cruda,23.0,argen_vegetales.xls,otros,otros,0,0.0
+Yuyo Colorado Hoja,60.0,argen_vegetales.xls,otros,otros,0,0.0
+Zanahoria Jugo,22.0,argen_vegetales.xls,otros,otros,0,0.0
+Zapallito Parte Tierna,13.0,argen_vegetales.xls,otros,otros,0,0.0
+Zapallito Parte Tierna Hervido,16.0,argen_vegetales.xls,otros,otros,0,0.0
+Zapallo Pulpa,27.0,argen_vegetales.xls,otros,otros,0,0.0
+Zapallo Pulpa Hervido,20.0,argen_vegetales.xls,otros,otros,0,0.0

@@ -1,0 +1,3482 @@
+[
+  {
+    "Alimento": "Alimento",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cerdo Chorizo",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cerdo Costilla A La Parrilla",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cerdo Costilla Flaca Cruda",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cerdo Jamon",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cerdo Jamon",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cerdo Panceta",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cordero Carne De La Paleta",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cordero Carne De La Paleta Flaca A La Parrilla",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pollo Asado A La Parrilla",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pollo Asado Al Horno",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pollo Carne-Pellejo-Menudos",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pollo Hervido",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Rana Carne De La Pata Fresca Cruda",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Hamburguesas Light Asada",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Hamburguesas Regulares De Carne Vacuna Asadas",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Salchichas Light Tipo Viena",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Salchichas Light Tipo Viena Hervidas",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Salchichas Tipo Viena",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Salchichas Tipo Viena Hervidas",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Asado",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Bife A La Parrilla",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Bife Angosto C/C De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Bola De Lomo De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Brazuelo De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Caracu (Medula De Hueso Largo)",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Colita De Cuadril De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Corazon De Cuadril De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Cuadril Y Bife Angosto Flaco",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno En Conserva Enlatado",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Hamburguesas Cocidas",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Hamburguesas Crudas",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Hamburguesas Light Cocidas",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Hamburguesas Light Crudas",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Higado",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Jugo De Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 1.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Lomo",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Nalga De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Nalga",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Paleta De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Paletin O Marucha De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Palomita De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Pasta De Higado",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Peceto De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Pecho De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Rinon",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Tapa De Cuadril De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Ternera Costilla Flaca A La Parrilla",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Ternera Costilla Flaca",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Tortuguita De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Vacio A La Parrilla",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Vacio Al Horno",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Vacio De Novillito",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacuno Vacio Flaco",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Bife",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Bife",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nalga Cocida",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nalga Cruda",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Paleta Cocida",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Paleta Cruda",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacio",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacio",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Bife",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Bife",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nalga Cocida",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nalga Cruda",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Paleta Cocida",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Paleta Cruda",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacio",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Vacio",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Jamon \"Villafranca Novissimo\".El Bierzo. Reducido En Colesterol",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Lomo Ahumado De Cerdo \"Villafranca Novissimo\". El Bierzo. Reducido En Sodio Y En Colesterol",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mortadela\" Villafranca Novissimo\". El Bierzo - Reducida En Grasa Y En Sodio",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pastron Ahumado \"Villafranca Novissimo\". El Bierzo. Reducido En Sodio Y En Colesterol",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Salame \"Villafranca Novissimo\".El Bierzo.Reducido En Sodio Y En Colesterol",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Carne De Vizcacha",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 1.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amaranto Semilla Cruda (Amarantus Caudatus)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amaranto Semilla Cruda (Amarantus Hipochondriacus)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amaranto Semilla Cruda (Amarantus Mantegazzianus)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amaranto Semillia Cruda (Amarantus Cruentus)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arroz Grano Blanco Pulido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arroz Grano Blanco Pulido Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Avena Grano Arrollada Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Avena Grano Arrollada Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Avena Grano Arrollada Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cebada Grano Mondado Perlado",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cebada Grano Mondado Perlado Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cebada Harina \"Genser\" Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Centeno Harina Clara Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Centeno Pan",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Centeno Pan Con Harina Integral",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Amarillo Leales Grano Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Amarillo Pisingallo Grano Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Amarillo Semola Grano Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Amarillo Tropico 327 Grano Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Blanco 8 Rayas Grano Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Blanco Perla Grano Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Choclo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Grano Entero (Zea Mays Spp)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Harina Amarilla (Polenta) Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Harina Amarilla (Polenta) Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Harina Amarilla (Polenta) Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Maiz Pan",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Bizcochos \"Bay Biscuit\"",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Bizcochos Vainillas",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galleta De Campo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galleta Marinera",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galletitas De Agua \"Express\"",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galletitas De Agua \"Traviata\"",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galletitas De Harina Blanca",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galletitas De Harina Integral",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galletitas Dulces \"Manon\"",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galletitas Dulces \"Minue\"",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Galletitas Oblea \"Opera\"",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Grano Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Grisines",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Harina Cuatro Ceros",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Harina Integral",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Harina Tres Cero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan Aleman",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan Criollo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan De Salvado",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan De Viena",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan Frances",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan Frances",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan Negro Con Levadura Agria",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan Negro Con Levadura Comprimida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Pan Negro Sin Levadura",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Salvado",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Semola Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Semola Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Trigo Tallarines S Hervidos",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 2.6,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceituna De Monte",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceituna Verde Pulpa Encurtida",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.95,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Anana Enlatado Contenido Envase",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Anana Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Banana Pulpa Fresca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cereza Pulpa Fresca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ciruela Pasa Cruda",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 2.6,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ciruela Pasa Hervida",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.95,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ciruela Pulpa Fresca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Coco Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 2.6,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Damasco Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Doca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Durazno Orejon Pulpa Y Piel Hervido",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Durazno Pulpa Envasado Al Natural",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Durazno Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Frutilla Pulpa Fresca Cruda",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Granada Pulpa Fresca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Guaranina Brumelia Obtusifolia",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.95,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Higo Pulpa Fresca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Kaki Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Kinoto Pulpa Y Cascara",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Limon Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Manzana Hervida",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Manzana Pulpa Fresca Cruda",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mburucuya Maduro",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mburucuya Verde",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Melon Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Membrillo Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mora Fresca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nandapiri",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Palta Pulpa Fresca",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 2.6,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pera Orejon",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 2.6,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pera Pulpa Fresca Cruda",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 1.3,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pomelo Pulpa",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sandia Pulpa Fresca Cruda",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ubajay",
+    "PORCION": "taza_verduras_crudas",
+    "creditospor_porcion": 0.65,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite Comestible Mezcla Lira 85% Girasol 15% Oliva",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite Comestible Mezcla Patito 94% Girasol 6% Maiz",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Canola",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Girasol Familiar",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Girasol Ideal",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Girasol Natura",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Maiz Arcor",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Maiz Cocinero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Maiz Mazzola",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Oliva Cocinero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Aceite De Uva Cocinero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Grasa De Cerdo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Grasa Vacuna",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Margarina 100% Vegetal Delicia",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Margarina 100% Vegetal Manty (En Pote Y En Pan)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Margarina Reducida En Calorias Manty Liviana",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Huevo De Codorniz Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Huevo De Gallina Clara",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Huevo De Gallina Clara Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Huevo De Gallina Entero",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Huevo De Gallina Frito",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Huevo De Gallina Poche",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Huevo De Gallina Yema Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche Condensada Nestle",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche De Burra Entera Fluida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche De Cabra Entera Fluida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche De Oveja Entera Fluida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche De Vaca Entera Fluida Adicionada Con Vitamina A",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche De Vaca Entera Fluida Pasteurizada",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche De Vaca Parcialm. Descremada Adic. Con Vit A Y D",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche En Polvo Descremada",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche En Polvo Entera",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche Humana Entera En Polvo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche Humana Entera Fluida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Manteca Fresca",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Crema Entero Untable",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Descremado Untable",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Petit Suisse",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Semidescremado Untable",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Blanco Argentino Semimagro",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Belpaese",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Camembert",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Cremoso",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Cuartirolo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Doble Crema",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Limburgues",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Mozarella",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Por Salut",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Azul",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Cheddar",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Chubut",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Fontina",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Gorgonzola",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Gruyere",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Holanda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Pategras",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Roquefort",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Suizo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Tafi",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Tandil",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Tipo Mar Del Plata",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Goya",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Parmesano",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Provolone",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Reggianito",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Sardo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Queso Sbrinz",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ricota De Leche Entera",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ricotta Semidescremada",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Yogur Descremado",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Yogur Descremado Bebible",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Yogur Descremado Fortificado Con Ca",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Yogur Entero Bebible",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Yogur Entero Natural",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Yogur Entero Saborizado",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mayonesa Reducida En Calorias",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mayonesa Ri-K",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mortadela",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Polen De Totora",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Abadejo Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amarillo A La Parrilla Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amarillo Al Horno Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amarillo Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amarillo Frito Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Amarillo Hervido Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Anchoa Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Anchoita Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Armado Al Horno Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Armado Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Armado Musculo Ventral",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Armado Frito Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Armado Hervido Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Besugo Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Boga Fresca A La Parrilla Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Boga Fresca Al Horno Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Boga Fresca Cruda Musculo Ventral",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Boga Fresca Frita Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Boga Fresca Hervida Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Bonito Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Brotola Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Caballa Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Castaneta Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Castaneta Fresca Cruda Entera",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Congrio Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cornalito Entero",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Corvina Blanca Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Corvina Negra Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Dorado Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Gatuso Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Jurel Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Lenguado Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Lisa Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Merluza Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mero Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Moncholo Al Horno Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Moncholo Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Moncholo Musculo Ventral",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Moncholo Hervido Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Palometa Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pargo Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pati A La Parrilla Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pati Al Horno Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pati Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pati Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pati Musculo Ventral",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pati Frito Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pati Hervido Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pejerrey Agua Dulce Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pejerrey Mar Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pescadilla Fresca Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pez Gallo Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pez Palo Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Rubio Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sabalo A La Parrilla Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sabalo Al Horno Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sabalo Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sabalo Musculo Ventral",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sabalo Frito Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sabalo Hervido Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Sardina Fueguina Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Surubi Al Horno Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Surubi Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Surubi Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Surubi Frito Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Surubi Hervido Musculo Dorsal",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 3.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Tararira Fresca Cruda Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Testolin Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Calamar (Tubo Aletas Y Tentaculos)",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Calamar Entero",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Camaron Carne De Cola",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Centolla Fresca Carne Cruda",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Centolla Fresca (Carne De Pata Solamente)",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Langostino Carne De Cola",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mejillon (Capturado En Primavera)",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mejillon Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mejillon Pre- Carne",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 2.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ancho Pasta",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Caballa Tronco",
+    "PORCION": "porcion_carne_chica",
+    "creditospor_porcion": 4.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Batata Dulce",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Chocolatin",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ciruela Mermelada",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Dulce De Leche",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Dulce De Leche Light",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Dulce De Leche Para Reposteria",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Dulce De Leche Repostero Suelto",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Durazno Mermelada",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Frutilla Mermelada",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Leche Dulce De Leche",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alimento",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Acelga Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Acelga Tallo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Achicoria De Monte",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Achicoria Hoja Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Achira (Raices)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Ajo Bulbo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alcaucil Inflorescencia",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Alfalfa Hoja Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arveja Semilla Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arveja Semilla Fresca Enlatada",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arveja Semilla Fresca Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arveja Semilla Seca Entera Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arveja Semilla Seca Partida Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Arveja Semilla Seca Partida Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Avellana Pepita Seca",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Batata Frita",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Batata Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Batata Raiz Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Berenjena Pulpa Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Berro (Hojas Y Tallo)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Brocoli Tallo De Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cardo (Penca Y Hojas)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Castana De Para Pepita Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cebolla Blanca Bulbo Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Cebolla Blanca Bulbo Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Chaucha Vaina Y Semilla Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Coliflor Pimpollo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Diente De Leon Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Escarola Crespa Hoja Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Esparrago Tallo Tierno",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Espinaca Hoja Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Espinaca Hoja Fresca Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Garbanzo Grano Entero Seco Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Habas Semilla Inmadura Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Hinojo Tallo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Lengua De Vaca Hojas Tejido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Lenteja Semilla Entera Seca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Lupino Andino Semilla",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Lupino Andino Semilla",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mani Semilla Con Piel",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mani Semilla Sin Piel Tostado",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mastuerzo (Hoja Y Peciolo)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Mastuerzo Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nabo Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nabo Raiz (Pulpa)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Nuez Pepita",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Papa Pulpa Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Papa Pulpa Frita Baston",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 3.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Papa Pulpa Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pepino Pulpa",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Perejil Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pinon De Araucaria Pepita",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Pistacho Pepita",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Alubia Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Carioca Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Colorado Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Grand Berry Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Great Northern Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Negro Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Novy Bean Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Oval Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Pallares Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Small Red Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Semilla Enlatado",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Poroto Semilla Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Puerro (Bulbo Tallo Y Hojas)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Quinua Harina",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Quinua Semilla Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Rabanito Raiz",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Remolacha Tuberculo Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Remolacha Tuberculo Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Repollito Bruselas Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Repollo Blanco Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Repollo Blanco Hoja Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Salsifi Raiz",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Soja Ft11 Poroto Seco",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Soja Semilla Madura Seca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Tapioca Cruda (Harina Mandioca)",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 4.0,
+    "Color_de_los_creditos": "rojo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Tapioca Hervida",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Tomate",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Tomate Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Tomate Jugo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Verdolaga Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Verdolaga Hoja Y Tallo Fresca Cruda",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Yuyo Colorado Hoja",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 2.0,
+    "Color_de_los_creditos": "amarillo",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Zanahoria Jugo",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Zapallito Parte Tierna",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Zapallito Parte Tierna Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Zapallo Pulpa",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 1.0,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  },
+  {
+    "Alimento": "Zapallo Pulpa Hervido",
+    "PORCION": "otros",
+    "creditospor_porcion": 0.0,
+    "creditoscada100_grs": 0.5,
+    "Color_de_los_creditos": "verde",
+    "origen": "argenfood"
+  }
+]
